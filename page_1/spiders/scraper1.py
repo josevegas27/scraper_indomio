@@ -7,17 +7,38 @@ class Scraper1PySpider(scrapy.Spider):
     allowed_domains = ["www.indomio.es"]
     start_urls = ["https://www.indomio.es"]
 
-    def parse(self, response):
+    def parse(self,response):
+        # Para la siguiente categoria
+        enlace_next = response.xpath("//ul[@class='nd-tabBar nd-tabBar--compact hp-seoMap__tabBar']/li/a/@href").getall()[0:8]                  
+        print(':::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::',enlace_next)
+        print()
+
+        for categ in enlace_next:
+
+            url0 = response.urljoin(categ)
+
+            yield scrapy.Request(url0,callback=self.parse0)
+
+    def parse0(self, response):
+        
         print()
         print()
         enlaces = response.xpath("//li[@class='hp-listMeta__item']/a/@href").getall()
-        for href in enlaces[0:1]:
+        print(len(enlaces))
+        for href in enlaces:
 
             url = response.urljoin(href)
 
             print(href)
             print("\n        Llamada a yiel principal \n")
             yield scrapy.Request(url, callback=self.parse_details)
+
+        
+        # if enlace_next != None:
+        #     url3 = response.urljoin(enlace_a_next)
+
+        #     yield scrapy.Request(url3,callback=self.parse_details2)
+
 
     def parse_details(self,response):
 
@@ -27,7 +48,7 @@ class Scraper1PySpider(scrapy.Spider):
         print()
         # print(enlaces2)
 
-        for eln in enlaces2[0:13]:
+        for eln in enlaces2:
 
 
             url2 = response.urljoin(eln)
