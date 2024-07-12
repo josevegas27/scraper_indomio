@@ -6,7 +6,6 @@
 import scrapy
 
 
-class Page1Item(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class ImagenItem(scrapy.Item):
+    url_imagen = scrapy.Field()
+    imagen = scrapy.Field()

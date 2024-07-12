@@ -20,15 +20,19 @@ NEWSPIDER_MODULE = "page_1.spiders"
 ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 32
+# CONCURRENT_REQUESTS = 32
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+# DOWNLOAD_DELAY = 0.01
 # The download delay setting will honor only one of:
-#CONCURRENT_REQUESTS_PER_DOMAIN = 16
-#CONCURRENT_REQUESTS_PER_IP = 16
+# CONCURRENT_REQUESTS_PER_DOMAIN = 32             #16
+# CONCURRENT_REQUESTS_PER_IP = 32                 #16
+
+######### Desactivar retiros para reducir el tiempo de scraping
+# RETRY_ENABLED = False
+# REDIRECT_ENABLED = False
 
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
@@ -62,9 +66,17 @@ CONCURRENT_REQUESTS = 32
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "page_1.pipelines.Page1Pipeline": 300,
-#}
+# ITEM_PIPELINES = {
+    # "page_1.pipelines.Page1Pipeline": 300,
+# }
+
+########### Para Guardar imagenes
+ITEM_PIPELINES = {
+    "page_1.pipelines.ImagesPipeline": 1
+    }
+IMAGES_STORE = {
+    '../imagenes_telefonos'
+    }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -88,6 +100,13 @@ CONCURRENT_REQUESTS = 32
 #HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"
 
 # Set settings whose default value is deprecated to a future-proof value
-REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.6" #2.7
+REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7" #2.7
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+
+# CONCURRENT_REQUESTS = 32
+DOWNLOAD_DELAY = 0.2
+# RETRY_ENABLED = False
+# REDIRECT_ENABLED = False
+# AJAXCRAWL_ENABLED = True

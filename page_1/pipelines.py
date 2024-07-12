@@ -11,3 +11,7 @@ from itemadapter import ItemAdapter
 class Page1Pipeline:
     def process_item(self, item, spider):
         return item
+    
+class ImagesPipeline:
+    def process_item(self, item, spider):
+        return item

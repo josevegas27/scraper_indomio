@@ -1,0 +1,4 @@
+meters,price,bathrooms,category,link,municipality,operation,owner,phone,rooms,zone
+87,179.000,1,Piso ,https://www.indomio.es/anuncios/92422379/,A Coruña,Venta,Particular,{'url_imagen': None},6,Rúa Ramón Menéndez Pidal
+90,171.000,2,Piso ,https://www.indomio.es/anuncios/92294379/,A Coruña,Venta | Alquiler con opción a compra,Particular,{'url_imagen': 'https://media.indomio.es/text/tel_92294379_70710.jpg?k=04d90c8ca8c6876bec8440e6b5d699d1'},5,Rúa Francisco Catoira
+86,130.000,1,Piso ,https://www.indomio.es/anuncios/95756561/,A Coruña,Venta,Particular,{'url_imagen': 'https://media.indomio.es/text/tel_95756561_587b0.jpg?k=cbc9cf5119110d6efece2687933e4565'},4,Rúa Monte das Moas
