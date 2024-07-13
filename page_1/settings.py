@@ -71,12 +71,12 @@ ROBOTSTXT_OBEY = True
 # }
 
 ########### Para Guardar imagenes
-ITEM_PIPELINES = {
-    "page_1.pipelines.ImagesPipeline": 1
-    }
-IMAGES_STORE = {
-    '../imagenes_telefonos'
-    }
+# ITEM_PIPELINES = {
+#     "page_1.pipelines.ImagesPipeline": 1
+#     }
+# IMAGES_STORE = {
+#     '../imagenes_telefonos'
+#     }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

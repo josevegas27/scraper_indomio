@@ -45,4 +45,3 @@ for i,lines in enumerate(archivo_csv.readlines()):
 
 archivo_final.close()
 archivo_csv.close()
-
