@@ -4,22 +4,16 @@ import re
 
 
 class Scraper1PySpider(scrapy.Spider):
-    name = "alquiler"
+    name = "venta"
     allowed_domains = ["www.indomio.es"]
+    start_urls = ["https://www.indomio.es"]
 
-    def __init__(self, provincia=0, categoria=0, **kwargs):
-        super().__init__(**kwargs)
-        self.start_urls = ["https://www.indomio.es/alquiler-casas"]
-        self.categ = int(categoria)
-        self.prov = int(provincia)
-        
+    contador = 0
 
     def parse(self,response):
 
         # Listar todos los enlaces correspondientes a cada categoria de ventas
         href_categorias = response.xpath("//ul[@class='nd-tabBar nd-tabBar--compact hp-seoMap__tabBar']/li/a/@href").getall()[0:9]                  
-        href_categorias[0] = "https://www.indomio.es/alquiler-casas/#map-list"
-
         for categ in href_categorias:
             url_categ = response.urljoin(categ)
             yield scrapy.Request(url_categ, callback=self.categoria)
@@ -45,13 +39,10 @@ class Scraper1PySpider(scrapy.Spider):
         numero_posts = re.sub(r'\.*','',numero_posts)
 
         if int(numero_posts) < 2000:
-            print('++++++++++++++++++++++++++++++++++++++++++ consulta por todos hay menos de 2000' )
             href_municipios = None
 
-        print('////////////////////////////////////', href_municipios)
         if href_municipios == None or href_municipios == []:
             
-            print('????????????????????????????????????????????', enlace_todos)
             url_enlace = response.urljoin(enlace_todos)
             yield scrapy.Request(url_enlace, callback=self.municipio)
         else:
@@ -69,6 +60,7 @@ class Scraper1PySpider(scrapy.Spider):
         # Recorrer los anuncios
         for elm in elm_anuncios:
             elm = Selector(text=elm)
+
             # Anuncios que tienen inmobiliarias
             elem_inmobiliaria = elm.xpath(".//div[@class='nd-figure in-listingCardAgencyLogo']").get()
 
@@ -107,16 +99,12 @@ class Scraper1PySpider(scrapy.Spider):
                 superficie = None
 
                 precio = response.xpath("//div[@class='re-overview__price']/span/text()").get()
-                print('///////////////////////////////////////// el precio es ',precio)
-                if precio == None:
-                    print('///////////////////////////////////////// el precio es none')
-                    precio = response.xpath("//div[@class='re-overview__price is-lowered']/span/text()").get()
-                
-                print('///////////////////////////////////////// el precio es ',precio)
-                precio =  re.findall(r'(\d+\.*\d*\s*.?\w*)', precio)[0]   
-                precio = re.sub(r'\.','',precio)                                         # Formateamos para dejar solo el numero
-                print('///////////////////////////////////////// el precio es ',precio)
 
+                if precio == None:
+                    precio = response.xpath("//div[@class='re-overview__price is-lowered']/span/text()").get()
+
+                precio =  re.findall(r'(\d+\.*\d*\s*.?\w*)', precio)[0]  
+                precio = re.sub(r'\.','',precio)                                                       # Formateamos para dejar solo el numero
 
                 banos = None
                 contrato = None
@@ -136,8 +124,8 @@ class Scraper1PySpider(scrapy.Spider):
                         superf = value.xpath("./text()").get()
                         superf = superf.split('|')[0]      #Para separa |
                         superficie = re.findall(r'\d+\.*\d*', superf)[0]
-                        superficie = re.sub(r'\.','', superficie) 
-
+                        superficie = re.sub(r'\.','', superficie)
+                        
                     elif name == 'contrato':
                         contrato = value.xpath("./text()").get()  
 
@@ -193,7 +181,7 @@ class Scraper1PySpider(scrapy.Spider):
                 if zona != None:
 
                     for text in list_titulo:
-                        if text_municipio not in text and zona not in text and tipolg not in text and 'estado' not in text and 'condiciones' not in text:
+                        if (text_municipio not in text) and (text not in zona) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text):
                             zona += ' - ' + text
                             break
                 else:
@@ -215,3 +203,6 @@ class Scraper1PySpider(scrapy.Spider):
                     "rooms": sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
                     "zone": zona
                 }
+
+
+    

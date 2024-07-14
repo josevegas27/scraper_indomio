@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "page_1"
+BOT_NAME = "Indomio"
 
-SPIDER_MODULES = ["page_1.spiders"]
-NEWSPIDER_MODULE = "page_1.spiders"
+SPIDER_MODULES = ["Indomio.spiders"]
+NEWSPIDER_MODULE = "Indomio.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
@@ -100,7 +100,7 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = "scrapy.extensions.httpcache.FilesystemCacheStorage"
 
 # Set settings whose default value is deprecated to a future-proof value
-REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7" #2.7
+REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7" 
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
