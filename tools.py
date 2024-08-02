@@ -26,7 +26,10 @@ def descargar_imagen(url, filename, wait=None):
     return False
 
 
-def convertir_a_texto(csv1,csv2):
+def convertir_a_texto(csv1, csv2):
+    '''
+    Convierte las imagenes del campo telefono del csv1 a texto y los sustituye en un archivo csv2
+    '''
     num_peticiones = 0
 
     archivo_csv = open(csv1,'r')
@@ -42,7 +45,6 @@ def convertir_a_texto(csv1,csv2):
         # if i < 0:
             # continue
 
-        print('\ndsfdfsfffsfsf', url)
         if url != '':
             
             print('conseguimos una url', i)
