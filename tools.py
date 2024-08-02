@@ -3,7 +3,7 @@ import pytesseract
 import time
 from PIL import Image
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r".\Tesseract-OCR\tesseract.exe"
 
 def combinar_archivos(csv1,csv2,csv3):
     a1, a2 = open(csv1, 'r', encoding='utf-8'), open(csv2, 'r', encoding='utf-8')
@@ -72,3 +72,8 @@ def convertir_a_texto(csv1,csv2):
     archivo_final.close()
     archivo_csv.close()
 
+
+img = Image.open(f'./imagenes_telefonos/imagen{0}.jpg')
+texto = pytesseract.image_to_string(img)
+
+print(texto)

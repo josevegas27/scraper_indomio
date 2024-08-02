@@ -188,7 +188,7 @@ class Scraper1PySpider(scrapy.Spider):
                 if zona != None:
 
                     for text in list_titulo:
-                        if text_municipio not in text and zona not in text and tipolg not in text and 'estado' not in text and 'condiciones' not in text:
+                        if (text_municipio not in text) and (text not in zona) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text):
                             zona += ' - ' + text
                             break
                 else:

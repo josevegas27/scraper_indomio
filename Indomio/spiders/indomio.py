@@ -4,17 +4,21 @@ import re
 
 
 class Scraper1PySpider(scrapy.Spider):
-    name = "venta"
+    name = "indomio"
     allowed_domains = ["www.indomio.es"]
-    start_urls = ["https://www.indomio.es"]
+    start_urls = ["https://www.indomio.es", "https://www.indomio.es/alquiler-casas"]
 
-    contador = 0
 
     def parse(self,response):
 
         # Listar todos los enlaces correspondientes a cada categoria de ventas
         href_categorias = response.xpath("//ul[@class='nd-tabBar nd-tabBar--compact hp-seoMap__tabBar']/li/a/@href").getall()[0:9]                  
-        for categ in href_categorias[0:1]:
+        
+        #Si estamos en los contratos de alquiler
+        if response.url == "https://www.indomio.es/alquiler-casas":
+            href_categorias[0] = "https://www.indomio.es/alquiler-casas/#map-list"
+
+        for categ in href_categorias:
             url_categ = response.urljoin(categ)
             yield scrapy.Request(url_categ, callback=self.categoria)
 
@@ -23,7 +27,7 @@ class Scraper1PySpider(scrapy.Spider):
 
         # Listar todos los enlaces de cada provincia a consultar
         href_provincias = response.xpath("//ul[@class='hp-listMeta hp-listMeta--columns']/li[@class='hp-listMeta__item']/a/@href").getall()
-        for href_prov in href_provincias[0:1]:   # primer provincia
+        for href_prov in href_provincias: 
             url_prov = response.urljoin(href_prov)
             yield scrapy.Request(url_prov, callback=self.provincia)
 
@@ -46,7 +50,7 @@ class Scraper1PySpider(scrapy.Spider):
             url_enlace = response.urljoin(enlace_todos)
             yield scrapy.Request(url_enlace, callback=self.municipio)
         else:
-            for href_mun in href_municipios[0:1]:  #primer municipio
+            for href_mun in href_municipios:
                 url_mun = response.urljoin(href_mun)
                 yield scrapy.Request(url_mun, callback=self.municipio)
 
@@ -58,7 +62,7 @@ class Scraper1PySpider(scrapy.Spider):
         elm_anuncios = response.xpath(xpath_anuncio).getall()
 
         # Recorrer los anuncios
-        for elm in elm_anuncios[0:1]:  # Primer anuncio
+        for elm in elm_anuncios:
             elm = Selector(text=elm)
 
             # Anuncios que tienen inmobiliarias
@@ -115,21 +119,21 @@ class Scraper1PySpider(scrapy.Spider):
                 num_habitaciones = [0,0]
 
                 # Caracteriticas del inmueble en la pagina
-                caract_text = response.xpath("//dl/dt/text()").getall()
-                caract_value = response.xpath("//dl/dd")
+                caract_text = response.xpath("//dl/div[@class='re-featuresItem']/div/dt/text()").getall()
+                caract_value = response.xpath("//dl/div[@class='re-featuresItem']/div/dd")
 
                 for name, value in zip(caract_text, caract_value):
-                    
-                    if name == 'superficie':
+                    print("\\\\\\\\\\\\\\\\\\\\", name, "\\\\\/", value)
+                    if name == 'Superficie' or name == "superficie":
                         superf = value.xpath("./text()").get()
-                        superf = superf.split('|')[0]      #Para separar por |
+                        superf = superf.split('|')[0]      #Para separa |
                         superficie = re.findall(r'\d+\.*\d*', superf)[0]
                         superficie = re.sub(r'\.','', superficie)
                         
-                    elif name == 'contrato':
+                    elif name == 'contrato' or name == "Contrato":
                         contrato = value.xpath("./text()").get()  
 
-                    elif name == 'habitaciones':
+                    elif name == 'habitaciones' or name == "Habitaciones":
                         text_habs = value.xpath("./text()").get()
                         text_habs = re.sub(r'\((.*)\)',' ', text_habs)
                         list_habs = text_habs.split(',')
@@ -141,17 +145,20 @@ class Scraper1PySpider(scrapy.Spider):
                                 banos =  re.findall(r'\d{1,2}', hab)[0]
                                 break
                         
-                        num_habitaciones = [re.findall(r'[0-9]{0,2}[a-z]*[^\s]', hab)[0] for hab in habitaciones]
+                        num_habitaciones = [re.findall(r'[0-9]{0,2}[\w]*[^\s]', hab)[0] for hab in habitaciones]
 
                         for i,hab in enumerate(num_habitaciones):
+                            print("/-------------------", re.findall(r'[^\d]\w*[^+]', hab))
                             if re.findall(r'[^\d]\w*[^+]', hab) != []:
                                 num_habitaciones[i] = 1
                             else:
                                 num_habitaciones[i] = int(re.findall(r'\d{1,2}', hab)[0])
 
-                    elif name == 'tipología' or name =='tipologia':
+                    elif name == 'Tipología' or name =='Tipologia':
                         tipolg = value.xpath("./text()").get()
                         tipolg = tipolg.split('|')[0]
+
+                        print("////////////////////////", name, "---------", tipolg)
 
 
                 list_zona = response.xpath("//div[@class='re-title__content']/a/span/text()").getall()
@@ -178,15 +185,17 @@ class Scraper1PySpider(scrapy.Spider):
                 # Se crea una lista y se itera en ella descartando los valores que contengan el municipio o la direccion de la zona que ya hallamos
                 list_titulo = titulo.split(',')
 
+                if tipolg == None:
+                    pass
                 if zona != None:
 
                     for text in list_titulo:
-                        if (text_municipio not in text) and (text not in zona) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text):
+                        if (text_municipio not in text) and (text not in zona) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text) and (contrato not in text):
                             zona += ' - ' + text
                             break
                 else:
                     for text in list_titulo:
-                        if (text_municipio not in text) and (tipolg not in text) and 'estado' not in text and 'condiciones' not in text:
+                        if (text_municipio not in text) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text) and (contrato not in text):
                             zona = text
                             break
 
