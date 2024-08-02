@@ -1,1 +1,4 @@
 **/__pycache__
+Tesseract-OCR/
+virtualenv/
+Indomio/spiders/__pycache__/
