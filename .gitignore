@@ -1,4 +1,4 @@
 **/__pycache__
 Tesseract-OCR/
-virtualenv/
+venv_indomio/
 Indomio/spiders/__pycache__/
