@@ -18,7 +18,7 @@ class Scraper1PySpider(scrapy.Spider):
         if response.url == "https://www.indomio.es/alquiler-casas":
             href_categorias[0] = "https://www.indomio.es/alquiler-casas/#map-list"
 
-        for categ in href_categorias:
+        for categ in href_categorias[0:1]:
             url_categ = response.urljoin(categ)
             yield scrapy.Request(url_categ, callback=self.categoria)
 
@@ -27,7 +27,7 @@ class Scraper1PySpider(scrapy.Spider):
 
         # Listar todos los enlaces de cada provincia a consultar
         href_provincias = response.xpath("//ul[@class='hp-listMeta hp-listMeta--columns']/li[@class='hp-listMeta__item']/a/@href").getall()
-        for href_prov in href_provincias: 
+        for href_prov in href_provincias[0:1]: 
             url_prov = response.urljoin(href_prov)
             yield scrapy.Request(url_prov, callback=self.provincia)
 
@@ -50,7 +50,7 @@ class Scraper1PySpider(scrapy.Spider):
             url_enlace = response.urljoin(enlace_todos)
             yield scrapy.Request(url_enlace, callback=self.municipio)
         else:
-            for href_mun in href_municipios:
+            for href_mun in href_municipios[0:1]:
                 url_mun = response.urljoin(href_mun)
                 yield scrapy.Request(url_mun, callback=self.municipio)
 
@@ -62,7 +62,7 @@ class Scraper1PySpider(scrapy.Spider):
         elm_anuncios = response.xpath(xpath_anuncio).getall()
 
         # Recorrer los anuncios
-        for elm in elm_anuncios[0:1]:
+        for elm in elm_anuncios:
             elm = Selector(text=elm)
 
             # Anuncios que tienen inmobiliarias
