@@ -62,7 +62,7 @@ class Scraper1PySpider(scrapy.Spider):
         elm_anuncios = response.xpath(xpath_anuncio).getall()
 
         # Recorrer los anuncios
-        for elm in elm_anuncios:
+        for elm in elm_anuncios[0:1]:
             elm = Selector(text=elm)
 
             # Anuncios que tienen inmobiliarias
@@ -123,7 +123,6 @@ class Scraper1PySpider(scrapy.Spider):
                 caract_value = response.xpath("//dl/div[@class='re-featuresItem']/div/dd")
 
                 for name, value in zip(caract_text, caract_value):
-                    print("\\\\\\\\\\\\\\\\\\\\", name, "\\\\\/", value)
                     if name == 'Superficie' or name == "superficie":
                         superf = value.xpath("./text()").get()
                         superf = superf.split('|')[0]      #Para separa |
@@ -131,7 +130,8 @@ class Scraper1PySpider(scrapy.Spider):
                         superficie = re.sub(r'\.','', superficie)
                         
                     elif name == 'contrato' or name == "Contrato":
-                        contrato = value.xpath("./text()").get()  
+                        contrato = value.xpath("./text()").get()
+                        contrato = contrato.split('|')[0]  
 
                     elif name == 'habitaciones' or name == "Habitaciones":
                         text_habs = value.xpath("./text()").get()
@@ -148,7 +148,6 @@ class Scraper1PySpider(scrapy.Spider):
                         num_habitaciones = [re.findall(r'[0-9]{0,2}[\w]*[^\s]', hab)[0] for hab in habitaciones]
 
                         for i,hab in enumerate(num_habitaciones):
-                            print("/-------------------", re.findall(r'[^\d]\w*[^+]', hab))
                             if re.findall(r'[^\d]\w*[^+]', hab) != []:
                                 num_habitaciones[i] = 1
                             else:
@@ -157,8 +156,6 @@ class Scraper1PySpider(scrapy.Spider):
                     elif name == 'Tipología' or name =='Tipologia':
                         tipolg = value.xpath("./text()").get()
                         tipolg = tipolg.split('|')[0]
-
-                        print("////////////////////////", name, "---------", tipolg)
 
 
                 list_zona = response.xpath("//div[@class='re-title__content']/a/span/text()").getall()
@@ -206,7 +203,7 @@ class Scraper1PySpider(scrapy.Spider):
                     "category": tipolg,
                     "link": link,
                     "municipality": text_municipio,
-                    "operation": contrato,
+                    "operation": contrato if contrato == "Venta" else "Alquiler",
                     "owner": vendedor,
                     "phone": src_telf,
                     "rooms": sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
