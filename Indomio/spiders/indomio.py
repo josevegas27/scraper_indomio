@@ -145,13 +145,13 @@ class Scraper1PySpider(scrapy.Spider):
                                 banos =  re.findall(r'\d{1,2}', hab)[0]
                                 break
                         
-                        num_habitaciones = [re.findall(r'[0-9]{0,2}[\w]*[^\s]', hab)[0] for hab in habitaciones]
+                        num_habitaciones = [re.findall(r'[0-9]{0,2}', hab)[0] for hab in habitaciones if 'habitaciones' in hab]
 
-                        for i,hab in enumerate(num_habitaciones):
-                            if re.findall(r'[^\d]\w*[^+]', hab) != []:
-                                num_habitaciones[i] = 1
-                            else:
-                                num_habitaciones[i] = int(re.findall(r'\d{1,2}', hab)[0])
+                        # for i,hab in enumerate(num_habitaciones):
+                            # if re.findall(r'[^\d]\w*[^+]', hab) != []:
+                                # num_habitaciones[i] = 1
+                            # else:
+                                # num_habitaciones[i] = int(re.findall(r'\d{1,2}', hab)[0])
 
                     elif name == 'Tipología' or name =='Tipologia':
                         tipolg = value.xpath("./text()").get()
@@ -206,7 +206,7 @@ class Scraper1PySpider(scrapy.Spider):
                     "operation": contrato if contrato == "Venta" else "Alquiler",
                     "owner": vendedor,
                     "phone": src_telf,
-                    "rooms": sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
+                    "rooms": num_habitaciones, #sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
                     "zone": zona
                 }
 
