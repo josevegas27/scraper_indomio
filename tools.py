@@ -75,7 +75,7 @@ def convertir_a_texto(csv1, csv2):
     archivo_csv.close()
 
 
-img = Image.open(f'./imagenes_telefonos/imagen{0}.jpg')
-texto = pytesseract.image_to_string(img)
+# img = Image.open(f'./imagenes_telefonos/imagen{0}.jpg')
+# texto = pytesseract.image_to_string(img)
 
-print(texto)
+# print(texto)

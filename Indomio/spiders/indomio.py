@@ -27,7 +27,7 @@ class Scraper1PySpider(scrapy.Spider):
 
         # Listar todos los enlaces de cada provincia a consultar
         href_provincias = response.xpath("//ul[@class='hp-listMeta hp-listMeta--columns']/li[@class='hp-listMeta__item']/a/@href").getall()
-        for href_prov in href_provincias[0:1]: 
+        for href_prov in href_provincias[:]: 
             url_prov = response.urljoin(href_prov)
             yield scrapy.Request(url_prov, callback=self.provincia)
 
@@ -50,7 +50,7 @@ class Scraper1PySpider(scrapy.Spider):
             url_enlace = response.urljoin(enlace_todos)
             yield scrapy.Request(url_enlace, callback=self.municipio)
         else:
-            for href_mun in href_municipios[0:1]:
+            for href_mun in href_municipios[:]:
                 url_mun = response.urljoin(href_mun)
                 yield scrapy.Request(url_mun, callback=self.municipio)
 
@@ -111,6 +111,7 @@ class Scraper1PySpider(scrapy.Spider):
                 precio = re.sub(r'\.','',precio)                                                       # Formateamos para dejar solo el numero
 
                 banos = None
+                num_ban = None
                 contrato = None
                 tipolg = None
                 link = response.url
@@ -145,13 +146,17 @@ class Scraper1PySpider(scrapy.Spider):
                                 banos =  re.findall(r'\d{1,2}', hab)[0]
                                 break
                         
-                        num_habitaciones = [re.findall(r'[0-9]{0,2}', hab)[0] for hab in habitaciones if 'habitaciones' in hab]
-
+                        num_habitaciones = [re.findall(r'[0-9]{0,2}', hab)[0] for hab in habitaciones]
+                        print('////////////////////////////', num_habitaciones)
                         # for i,hab in enumerate(num_habitaciones):
                             # if re.findall(r'[^\d]\w*[^+]', hab) != []:
                                 # num_habitaciones[i] = 1
                             # else:
                                 # num_habitaciones[i] = int(re.findall(r'\d{1,2}', hab)[0])
+
+                    elif name == "Baños":
+                        text_ban = value.xpath("./text()").get()
+                        num_ban = re.sub(r'[^\d][\w]*','',text_ban)
 
                     elif name == 'Tipología' or name =='Tipologia':
                         tipolg = value.xpath("./text()").get()
@@ -182,12 +187,15 @@ class Scraper1PySpider(scrapy.Spider):
                 # Se crea una lista y se itera en ella descartando los valores que contengan el municipio o la direccion de la zona que ya hallamos
                 list_titulo = titulo.split(',')
 
-                if tipolg == None:
-                    pass
+                # if tipolg == None:
+                #     pass
                 if zona != None:
-
+                    # 
+                    # not any([z in text for z in zona])
+                    # 
                     for text in list_titulo:
-                        if (text_municipio not in text) and (text not in zona) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text) and (contrato not in text):
+                        # Se prueba que no hayan redundancias en el titulo, para anadir informacion a la zona
+                        if (text_municipio not in text) and (text not in zona) and (not any([z in text for z in zona])) and (tipolg not in text) and ('estado' not in text) and ('condiciones' not in text) and (contrato not in text):
                             zona += ' - ' + text
                             break
                 else:
@@ -199,14 +207,14 @@ class Scraper1PySpider(scrapy.Spider):
                 yield {
                     "meters": superficie,
                     "price": precio,
-                    "bathrooms": banos,
+                    "bathrooms": num_ban if num_ban != None else banos,
                     "category": tipolg,
                     "link": link,
                     "municipality": text_municipio,
                     "operation": contrato if contrato == "Venta" else "Alquiler",
                     "owner": vendedor,
                     "phone": src_telf,
-                    "rooms": num_habitaciones, #sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
+                    "rooms": num_habitaciones[0] if num_habitaciones[0] != 0 else None, #sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
                     "zone": zona
                 }
 
