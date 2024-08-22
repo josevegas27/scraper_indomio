@@ -1,0 +1,780 @@
+meters,price,bathrooms,category,link,municipality,operation,owner,phone,rooms,zone
+137,55000,1,Casa adosada ,https://www.indomio.es/anuncios/93440835/,Calamocha,Venta,,https://media.indomio.es/text/tel_93440835_1d414.jpg?k=d708b00da23bf397af5d9fd289b151f5,5,Calle Ramón y Cajal
+220,319000,3,Casa adosada ,https://www.indomio.es/anuncios/95875061/,Valladolid,Venta,,,5,Calle Hernando de Acuña
+400,190000,1,Chalet ,https://www.indomio.es/anuncios/95749107/,Calatayud,Venta,,https://media.indomio.es/text/tel_95749107_a3e3f.jpg?k=3503ee0238408d48cdbb054b6746ad63,4,Marivella
+500,52000,1,Casa rústica ,https://www.indomio.es/anuncios/95840087/,Malpartida,Venta,,https://media.indomio.es/text/tel_95840087_636f9.jpg?k=d614e2c0400bffac42ae282c1c518657,4,Calle la Paz
+65,89000,1,Piso ,https://www.indomio.es/anuncios/81963021/,Zamora,Venta,,https://media.indomio.es/text/tel_81963021_e8cc2.jpg?k=420a75ccf00f21b0b065e6905ed2fd5e,2,Avenida de Valladolid
+350,295000,3,Casa rústica ,https://www.indomio.es/anuncios/95970033/,Monterrubio de La Sierra,Venta,,https://media.indomio.es/text/tel_95970033_55dfe.jpg?k=5fe795a5163c5f28835ad149207a4859,5,DSA-206
+101,199000,2,Piso ,https://www.indomio.es/anuncios/95157061/,Valladolid,Venta,Mercedes Peña,https://media.indomio.es/text/tel_95157061_5358f.jpg?k=f1b24e79de58759f247968fc4b9bb124,3,Calle Aneto
+319,110000,2,Casa rústica ,https://www.indomio.es/anuncios/95106111/,Belchite,Venta,,https://media.indomio.es/text/tel_95106111_731dc.jpg?k=32cd32649eef93b305e8fe09c5884860,5,Calle Nuestra Señora del Pueyo
+225,29000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/91704155/,Alloza,Venta,,,5,Calle Hospital
+120,75000,1,Casa adosada ,https://www.indomio.es/anuncios/96094391/,Xinzo de Limia,Venta,,https://media.indomio.es/text/tel_96094391_0c19a.jpg?k=e883986f7d920be63313850a7580bcbb,2,Morgade
+89,185000,1,Piso ,https://www.indomio.es/anuncios/95260801/,Zaragoza,Venta,,https://media.indomio.es/text/tel_95260801_b8366.jpg?k=33f132afbfa3884078e7dd963e7e9f90,4,Calle Vidal de Canellas
+203,125000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/91962997/,Armuña,Venta,,,5,Calle del Corpus
+124,100000,2,Dúplex ,https://www.indomio.es/anuncios/90987821/,Andorra,Venta,,,5,Avenida Dos de Mayo
+750,850000,3,Casa rústica ,https://www.indomio.es/anuncios/91663985/,Muñoveros,Venta,,,5,Plaza Sol
+210,85000,1,Caserío ,https://www.indomio.es/anuncios/92281941/,Vimianzo,Venta,,,4,Campolongo
+120,225000,2,Piso ,https://www.indomio.es/anuncios/93047529/,Zaragoza,Venta,,https://media.indomio.es/text/tel_93047529_a0180.jpg?k=c99d27ec52f620f9fe282f43a39e1ab5,4,Calle Celanova
+110,275000,2,Ático ,https://www.indomio.es/anuncios/91605155/,Soria,Venta,,,5,Avenida de Valladolid
+160,215000,3,Casa adosada ,https://www.indomio.es/anuncios/95336035/,Segovia,Venta,,https://media.indomio.es/text/tel_95336035_e26bb.jpg?k=bc3983f8060d56b7eb1e217a1443f8ca,5,Calle de las Carretas
+250,185000,2,Chalet ,https://www.indomio.es/anuncios/82746825/,San Cebrián de Castro,Venta,,https://media.indomio.es/text/tel_82746825_b827e.jpg?k=535909b0f95165b2b8d8d8ca2fd95eb9,5,Calle Zamora
+173,285000,2,Piso ,https://www.indomio.es/anuncios/90413637/,Soria,Venta,,https://media.indomio.es/text/tel_90413637_2cc5e.jpg?k=abeadd49be400fcb6005907951279433,5,Calle Fuenteventura
+730,690000,3,Edificio ,https://www.indomio.es/anuncios/89001831/,Aniñón,Venta,,,5,Plaza Iglesia
+110,75000,2,Dúplex ,https://www.indomio.es/anuncios/96066555/,Saldaña,Venta,,https://media.indomio.es/text/tel_96066555_9db87.jpg?k=a1898ee40ba35eac105145d7d8e84670,5,Calle Luis Vives
+70,90000,1,Piso ,https://www.indomio.es/anuncios/96209897/,Palencia,Venta,,https://media.indomio.es/text/tel_96209897_40fb1.jpg?k=500110f7a58a3adcb9957aafd0272f3e,3,Calle Guzmán El Bueno
+289,175000,3,Casa rústica ,https://www.indomio.es/anuncios/93855213/,Valdealgorfa,Venta,,,5,Calle Navarra
+137,100000,2,Chalet ,https://www.indomio.es/anuncios/95962843/,Villamanrique de la Condesa,Venta,,,5,Calle Rafael Alberti
+145,130000,2,Casa adosada ,https://www.indomio.es/anuncios/94023791/,Valencina de la Concepción,Venta,,https://media.indomio.es/text/tel_94023791_086d4.jpg?k=608e34255fb788f6ce9414e49525d278,5,Calle Autonomía
+220,49000,,Casa rústica,https://www.indomio.es/anuncios/92286021/,Parada de Arriba,Venta,,https://media.indomio.es/text/tel_92286021_a888f.jpg?k=dcccc2c37397542d972b644d5976d9c5,,Plaza Socorro
+162,55000,2,Casa pareada ,https://www.indomio.es/anuncios/93874143/,Torralba de los Sisones,Venta,,https://media.indomio.es/text/tel_93874143_94698.jpg?k=f52a7e74bfb083ba5c9ab67b139437aa,3,Calle Pilar
+123,196500,2,Piso ,https://www.indomio.es/anuncios/92728505/,Benavente,Venta,,https://media.indomio.es/text/tel_92728505_93b54.jpg?k=7dd11ad66aaded8435d1a90bad56188a,4,Avenida El Ferial
+250,160000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92713231/,Tocina,Venta,,https://media.indomio.es/text/tel_92713231_bac22.jpg?k=47ca41eab435191a31c0364a11c8a661,5,Calle Clavel
+103,245000,2,Piso ,https://www.indomio.es/anuncios/95557641/,Zaragoza,Venta,,https://media.indomio.es/text/tel_95557641_859eb.jpg?k=646b3253ec2084c807773d28db15fdab,4,Calle Bolonia
+200,22000,,Edificio ,https://www.indomio.es/anuncios/92245607/,Bañón,Venta,,https://media.indomio.es/text/tel_92245607_1bf42.jpg?k=d08556cd022478e71de48a61ac41f10c,4,Calle San Valero
+65,28000,,Casa unifamiliar ,https://www.indomio.es/anuncios/92836981/,Andorra,Venta,,https://media.indomio.es/text/tel_92836981_c47c3.jpg?k=2b12843499c0196a94c956e712055226,,Calle Mosén Francisco
+441,13000,1,Casa rústica,https://www.indomio.es/anuncios/91995045/,Fortanete,Venta,,,1,Calle Nevera
+356,39000,1,Casa rústica ,https://www.indomio.es/anuncios/95481039/,San Cebrián de Campos,Venta,,,4,Calle Mayor
+480,72000,1,Casa rústica ,https://www.indomio.es/anuncios/95950225/,Fuentes Claras,Venta,,,4,Calle San Salvador III
+630,1800000,3,Edificio ,https://www.indomio.es/anuncios/91146279/,Sevilla,Venta,,https://media.indomio.es/text/tel_91146279_36240.jpg?k=c1da5a6b703c587279cbc13ebddcd429,5,Arenal - Calle Rodo
+233,375000,3,Chalet ,https://www.indomio.es/anuncios/94519369/,Utrera,Venta,,https://media.indomio.es/text/tel_94519369_7957c.jpg?k=b36c412270703e27da653a6104b21d2f,5,Calle Juan del Río Sotomayor
+115,167000,2,Chalet ,https://www.indomio.es/anuncios/87267143/,Venta de Baños,Venta,,,4,Calle Rey Chindasvinto
+72,80000,1,Piso ,https://www.indomio.es/anuncios/93839749/,Alcorisa,Venta,,,2,Calle Las Arribas
+152,92000,3,Casa rústica ,https://www.indomio.es/anuncios/91040229/,La Bouza,Venta,,,2,Calle Mayor
+315,80000,2,Chalet ,https://www.indomio.es/anuncios/89993751/,Peñaparda,Venta,,,5,Calle Calzada
+65,80000,2,Dúplex ,https://www.indomio.es/anuncios/91765527/,Rubielos de Mora,Venta,,https://media.indomio.es/text/tel_91765527_7d1bb.jpg?k=335fb9d8c6b109dbbf38b07a4249b304,2,Calle Cerezo
+105,198000,3,Dúplex ,https://www.indomio.es/anuncios/95211677/,Tomares,Venta,,https://media.indomio.es/text/tel_95211677_097eb.jpg?k=aa8e3cf101d3f64d8ede13dcfb3923b0,3,Calle de la Fuente
+90,80000,2,Piso ,https://www.indomio.es/anuncios/91703713/,San Leonardo de Yagüe,Venta,,,3,Calle la Fuente
+77,89000,1,Piso ,https://www.indomio.es/anuncios/95347393/,Almazán,Venta,,https://media.indomio.es/text/tel_95347393_448ef.jpg?k=c48d54fb62c4e1b2a61b3aec1afc9c68,3,Carretera Gomara
+94,140000,2,Piso ,https://www.indomio.es/anuncios/95845107/,Palencia,Venta,,https://media.indomio.es/text/tel_95845107_12f48.jpg?k=493e6d0a4d9f257f7ed57319f6393b2b,3,Paseo del Padre Faustino Calvo
+81,110000,1,Piso,https://www.indomio.es/anuncios/95960117/,Soria,Venta,,,3,Pasaje San Gregorio
+130,45000,1,Casa rústica ,https://www.indomio.es/anuncios/92788447/,Daroca,Venta,,https://media.indomio.es/text/tel_92788447_97700.jpg?k=38cbabe09a724f66641d63f0878a1ebf,3,Calle Fernando El Católico
+380,48000,2,Casa rústica ,https://www.indomio.es/anuncios/96175503/,Serón de Nágima,Venta,,https://media.indomio.es/text/tel_96175503_0027f.jpg?k=9511d350e75cb94573c9858f1f7001f6,5,Calle Mayor
+500,160000,3,Chalet ,https://www.indomio.es/anuncios/92285701/,Juarros de Voltoya,Venta,,https://media.indomio.es/text/tel_92285701_b43b9.jpg?k=d12486602f33fd22522a85aa44a82850,5,Camino Juarros de Voltoya
+55,52000,1,Piso,https://www.indomio.es/anuncios/93687459/,Calatayud,Venta,,https://media.indomio.es/text/tel_93687459_ebaaf.jpg?k=f7f321df4395147513b2070ab28f050e,3, segunda planta
+80,135000,1,Piso,https://www.indomio.es/anuncios/95812427/,Palencia,Venta,,,2,Calle Valverde
+103,95000,2,Piso ,https://www.indomio.es/anuncios/94901363/,Villamuriel de Cerrato,Venta,,https://media.indomio.es/text/tel_94901363_35fbf.jpg?k=a6da588a18890758d704536e3a84dad1,3,Calle Antonio Machado
+100,160000,3,Casa adosada ,https://www.indomio.es/anuncios/95832255/,Sanlúcar la Mayor,Venta,,https://media.indomio.es/text/tel_95832255_1c2c0.jpg?k=ceb6f85a9779ef10648292d5677c1d42,4,Calle Miguel de Cervantes
+335,92000,2,Casa rústica ,https://www.indomio.es/anuncios/92799713/,Monreal del Campo,Venta,,,5,Calle del Oro
+80,85000,1,Piso ,https://www.indomio.es/anuncios/95863209/,Palencia,Venta,,https://media.indomio.es/text/tel_95863209_9eb2c.jpg?k=210cd0f5f963050c24a54afb6c92e90e,3,Calle Las Monjas
+110,185000,2,Piso ,https://www.indomio.es/anuncios/91624413/,La Lastrilla,Venta,,,4,Carretera de Valladolid
+90,270000,1,Piso ,https://www.indomio.es/anuncios/90931285/,Sevilla,Venta,Lidia Núñez,,2,San Gil - Calle Escoberos
+218,450000,2,Piso ,https://www.indomio.es/anuncios/95318417/,Sevilla,Venta,,https://media.indomio.es/text/tel_95318417_28807.jpg?k=0fa067e9d6fc1579eb95d3e082b539d7,5,Nervión - Calle Manuel Casana
+90,195000,2,Piso ,https://www.indomio.es/anuncios/94916313/,Salamanca,Venta,,,3,Calle Cándido Rodríguez Pinilla
+250,210000,2,Casa rústica ,https://www.indomio.es/anuncios/94781213/,Santa María La Real de Nieva,Venta,,,4,Plaza Mayor
+115,99500,2,Piso ,https://www.indomio.es/anuncios/92091811/,Cerezo de Arriba,Venta,,,5,Núcleo La Pinilla
+265,650000,2,Cortijo ,https://www.indomio.es/anuncios/91280319/,Pilas,Venta,,https://media.indomio.es/text/tel_91280319_5b1e5.jpg?k=cad09e0d948f1ca992ded3c86c7fcf2f,5,Carretera Antigua de Hinojos
+94,140000,2,Piso,https://www.indomio.es/anuncios/95219759/,Los Palacios y Villafranca,Venta,,https://media.indomio.es/text/tel_95219759_8f888.jpg?k=67b2cfd969c2b1a83b4e5c96276605f9,3,Calle Rubén Darío
+306,80000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/94934021/,Almeida de Sayago,Venta,,,3,Calle Medio
+51,137999,1,Piso ,https://www.indomio.es/anuncios/95876719/,Zaragoza,Venta,Antonio A,https://media.indomio.es/text/tel_95876719_c8dba.jpg?k=4233e5259a76b5c2b1a12ad33803b1a1,1,Calle Universidad
+430,440000,3,Casa rústica ,https://www.indomio.es/anuncios/91771939/,Marugán,Venta,,,5,SG-322
+89,79999,1,Piso ,https://www.indomio.es/anuncios/94998327/,Marchena,Venta,Yolanda Delgado Garcia,https://media.indomio.es/text/tel_94998327_c4432.jpg?k=d939d3e4e458947ab5b81682e6d472a8,4, primera planta
+86,50000,1,Casa adosada ,https://www.indomio.es/anuncios/92247179/,Pilas,Venta,,https://media.indomio.es/text/tel_92247179_56759.jpg?k=c21ce375e59a23a6cf8f275dfc4b3d8e,3,Calle Hermanos Machado
+61,59900,1,Piso ,https://www.indomio.es/anuncios/94307165/,Benavente,Venta,,https://media.indomio.es/text/tel_94307165_ccb80.jpg?k=50a5ca3046b827d18f8707f48fbd2bf8,2,Calle San Carlos Borromeo
+185,400000,3,Casa pareada ,https://www.indomio.es/anuncios/91654079/,Mairena del Aljarafe,Venta,,,5,Jardines del Aljarafe I
+300,200000,2,Chalet ,https://www.indomio.es/anuncios/95933185/,La Rinconada,Venta,,https://media.indomio.es/text/tel_95933185_620fb.jpg?k=2a8ef7fc596e2e3d64d36dfa2a8ac9db,5,El Gordillo
+368,190000,1,Casa rústica ,https://www.indomio.es/anuncios/92462657/,Valcabado,Venta,,,4,Calle de la Carretera
+103,169000,2,Piso ,https://www.indomio.es/anuncios/96202123/,Cervera de Pisuerga,Venta,,,4,Carretera Cervera
+180,165000,3,Casa rústica ,https://www.indomio.es/anuncios/94213807/,La Parrilla,Venta,,,5,Carretera a La Parrilla
+80,89900,1,Ático ,https://www.indomio.es/anuncios/91861451/,Riaza,Venta,,,2,Calle Val Bajo
+130,125000,1,Piso ,https://www.indomio.es/anuncios/93914791/,Mairena del Aljarafe,Venta,,https://media.indomio.es/text/tel_93914791_4d9d9.jpg?k=0946990994f8d58aa5d4d71e517983e1,4,Calle Navarra
+85,200000,2,Piso ,https://www.indomio.es/anuncios/96059625/,Mairena del Aljarafe,Venta,,,2,Avenida de Mairena
+95,89000,2,Casa rústica ,https://www.indomio.es/anuncios/96113053/,Casla,Venta,,,5,Plaza de los Toros
+140,60000,1,Piso ,https://www.indomio.es/anuncios/92460205/,Carrión de los Condes,Venta,,https://media.indomio.es/text/tel_92460205_8ed86.jpg?k=1063b96818dc4e0de49d45bd3562ee73,2,Calle Obispo Álvarez Mediano
+103,110000,1,Piso ,https://www.indomio.es/anuncios/91491277/,Valladolid,Venta,,https://media.indomio.es/text/tel_91491277_28675.jpg?k=5a67c0bf06d62fd1257f5f5c63cb3260,4, segunda planta
+120,169000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/96094395/,Torreiglesias,Venta,,,3,Núcleo Torreiglesias
+88,120000,2,Casa pareada ,https://www.indomio.es/anuncios/91054203/,Isla Mayor,Venta,,,4,Calle Virgen de Fátima
+85,175000,1,Piso ,https://www.indomio.es/anuncios/95621033/,Sevilla,Venta,,https://media.indomio.es/text/tel_95621033_1b13f.jpg?k=745288c3d0315c8b4947a9bdf20a6e54,4,Ciudad Jardín - Calle Cardenal Rodrigo Castro
+193,155000,2,Dúplex ,https://www.indomio.es/anuncios/95221687/,La Unión de Campos,Venta,,https://media.indomio.es/text/tel_95221687_d6b83.jpg?k=407e531838878ef030672c9d51f28d52,3,Dúplex
+115,135000,3,Casa adosada ,https://www.indomio.es/anuncios/95034477/,Gerena,Venta,,https://media.indomio.es/text/tel_95034477_bd411.jpg?k=4c187d8f0ae4d1148119ebc143dfb885,4,Calle La Dehesa
+370,298000,3,Chalet ,https://www.indomio.es/anuncios/96087761/,Sanchonuño,Venta,,,5,Calle Pimpollar
+530,519000,3,Chalet ,https://www.indomio.es/anuncios/90830463/,Guillena,Venta,,,4,Calle Roma
+140,108000,3,Casa adosada ,https://www.indomio.es/anuncios/90285873/,El Pedroso,Venta,,https://media.indomio.es/text/tel_90285873_49cd5.jpg?k=d6061a44ed00323b5930469ba81e239b,4,Carretera de Cazalla
+900,500000,,Edificio ,https://www.indomio.es/anuncios/90630507/,Turégano,Venta,,https://media.indomio.es/text/tel_90630507_f4861.jpg?k=a462bf8dab2b0e2a1d02dcf896444369,,Camino Molino
+184,329000,3,Casa adosada ,https://www.indomio.es/anuncios/96232855/,Dos Hermanas,Venta,,,4,Arco Norte-La Alquería - Pasaje José Zorrilla
+120,120000,1,Casa rústica ,https://www.indomio.es/anuncios/95749937/,Fuentespreadas,Venta,,https://media.indomio.es/text/tel_95749937_a6849.jpg?k=b58518684c3be893cff03da578f2ac93,4,Calle Toro
+100,145000,2,Dúplex ,https://www.indomio.es/anuncios/95447709/,Dos Hermanas,Venta,,,3,Centro-Doña Mercedes - Calle Francesa
+200,147000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/92798033/,Dos Hermanas,Venta,,,5,Centro-Doña Mercedes - Calle Pico Limón
+464,67000,1,Casa rústica ,https://www.indomio.es/anuncios/90858289/,Osorno La Mayor,Venta,,,5,Casa rústica
+90,99000,1,Piso ,https://www.indomio.es/anuncios/95621259/,Coria del Río,Venta,,https://media.indomio.es/text/tel_95621259_6c36d.jpg?k=a81ce248bff07878fe3e31230ded0999,3,Calle Trajano
+315,223000,3,Chalet ,https://www.indomio.es/anuncios/95747315/,Carmona,Venta,Antonio J Fernandez Gomez,https://media.indomio.es/text/tel_95747315_822f8.jpg?k=f1343338170ebe342622e3d74e408914,4,Urbanización Torreplana
+178,205000,3,Chalet,https://www.indomio.es/anuncios/96233175/,Villamuriel de Cerrato,Venta,,https://media.indomio.es/text/tel_96233175_7bbd0.jpg?k=761b7f3467f116b9cd03e9576089fcdd,4,Calle Herrenes
+90,95000,1,Piso ,https://www.indomio.es/anuncios/92890965/,Brenes,Venta,Juan Ocaña Romero,https://media.indomio.es/text/tel_92890965_c5194.jpg?k=c8ed48732fbede3870c3e1070ecff3c3,3,Avenida Sevilla
+160,110000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95812755/,Brenes,Venta,,,4,Barriada San Sebastián
+94,159900,1,Dúplex ,https://www.indomio.es/anuncios/96077973/,Dos Hermanas,Venta,,https://media.indomio.es/text/tel_96077973_dd208.jpg?k=4f52fb2afb01ef10d9d6decf8fc05ec0,3,Centro-Doña Mercedes - Calle Toneleros
+200,250000,2,Casa adosada ,https://www.indomio.es/anuncios/93650035/,Bormujos,Venta,,,3,Calle Arenal
+82,359999,2,Piso ,https://www.indomio.es/anuncios/96089989/,Sevilla,Venta,,,3,Avenida de las Ciencias-Emilio Lemos - Avenida de las Ciencias
+103,69000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/94428077/,Salamanca,Venta,,,3,Calle de Canteras
+100,174990,2,Piso ,https://www.indomio.es/anuncios/94776779/,Sevilla,Venta,,https://media.indomio.es/text/tel_94776779_3bc6e.jpg?k=f459071c671a0afe0e85724e10b1fe5a,4,Bellavista - Calle Andalucía
+89,103000,2,Casa adosada ,https://www.indomio.es/anuncios/90858307/,Alcalá del Río,Venta,,https://media.indomio.es/text/tel_90858307_57c5b.jpg?k=55f2933ec55a4c30da5968266e9875c3,4,A-8006
+110,232000,3,Dúplex,https://www.indomio.es/anuncios/93975633/,Dos Hermanas,Venta,,https://media.indomio.es/text/tel_93975633_e6e63.jpg?k=3407b3864622a5f0489a7e5f92e6c669,4,Zona Plazas El Arenal-La Pólvora - Calle Juan de la Cierva
+250,85000,1,Casa pareada,https://www.indomio.es/anuncios/94809469/,Alanís,Venta,,https://media.indomio.es/text/tel_94809469_af145.jpg?k=722744d962feeaa326830c4dc48040df,5,Calle Paulino de Leyva
+112,179000,2,Piso ,https://www.indomio.es/anuncios/95060051/,Valladolid,Venta,,https://media.indomio.es/text/tel_95060051_d4c88.jpg?k=d5bf817d47be37a860eb958637e2f6d5,4,Calle Mateo Seoane Sobral
+93,130000,2,Piso,https://www.indomio.es/anuncios/95120035/,Tordesillas,Venta,,,3,Calle Gutiérrez Mellado
+210,189800,2,Chalet ,https://www.indomio.es/anuncios/95060189/,Carmona,Venta,,https://media.indomio.es/text/tel_95060189_b945b.jpg?k=4a59f4585ea234838d8c90242f256065,5,A-398
+100,69000,1,Casa rústica ,https://www.indomio.es/anuncios/96113073/,Almadén de La Plata,Venta,,https://media.indomio.es/text/tel_96113073_95d63.jpg?k=77d9f94ed713a6d4c54c601f92365c69,3,Calle Umbría
+60,77500,1,Ático ,https://www.indomio.es/anuncios/90958009/,Riaza,Venta,,https://media.indomio.es/text/tel_90958009_c5c81.jpg?k=b71406f8e9f9e3e09eb59c2193190e36,2,Calle Santiago Apóstol
+147,76000,1,Casa adosada ,https://www.indomio.es/anuncios/93392835/,Alcalá del Río,Venta,,https://media.indomio.es/text/tel_93392835_9aa70.jpg?k=f7443f34b2125c4a1cb37d8c961a2237,3,Calle Santa Verania
+77,85000,1,Piso ,https://www.indomio.es/anuncios/87853521/,Palencia,Venta,,https://media.indomio.es/text/tel_87853521_317f0.jpg?k=05ab131ccbb75f1b27f8e600bd3f4342,4,Calle de la Vera Cruz
+118,375000,2,Piso ,https://www.indomio.es/anuncios/90836407/,Sevilla,Venta,,,4,Santa Catalina - Calle Muro de los Navarros
+70,115000,1,Piso ,https://www.indomio.es/anuncios/91029957/,Sevilla,Venta,,,3,Parlamento - Calle Doctor Marañón
+550,1300000,3,Edificio ,https://www.indomio.es/anuncios/90556981/,Sevilla,Venta,,,5,Encarnación-Regina - Calle Doña María Coronel
+78,170000,1,Piso ,https://www.indomio.es/anuncios/92481709/,Camas,Venta,,https://media.indomio.es/text/tel_92481709_74906.jpg?k=c77e857f959fadcd86c30b95da1895b6,2, tercera planta
+187,29000,2,Chalet ,https://www.indomio.es/anuncios/76806333/,Fuentes de Béjar,Venta,,https://media.indomio.es/text/tel_76806333_f4afc.jpg?k=d5f4169ada421a8e7c9210c67dcb9ceb,5,Calle Constitución
+180,24000,,Casa rústica ,https://www.indomio.es/anuncios/94031163/,Vilamarín,Venta,Gerard Blanco Bach,https://media.indomio.es/text/tel_94031163_39d6b.jpg?k=958b629f62ca8c05a55374514d6a5bfe,,Vilamarín
+90,63000,2,Piso ,https://www.indomio.es/anuncios/95832253/,Villamuriel de Cerrato,Venta,,https://media.indomio.es/text/tel_95832253_7d7b2.jpg?k=a3636bbd2effc5fdfeb04eda8a84b107,4,Calle Los Olmillos
+110,178000,2,Piso ,https://www.indomio.es/anuncios/95251025/,Palencia,Venta,,https://media.indomio.es/text/tel_95251025_a2230.jpg?k=b258bc53e4b2f78f6260cbc35c42da34,3,Calle Tello Téllez de Meneses
+93,132000,1,Piso ,https://www.indomio.es/anuncios/96233303/,Valladolid,Venta,,https://media.indomio.es/text/tel_96233303_8f3be.jpg?k=de798f20573944e710ac81413a943c81,3,Calle Tórtola
+255,20000,,Casa adosada ,https://www.indomio.es/anuncios/94858109/,Verín,Venta,,,,Avenida San Lázaro
+71,145000,1,Buhardilla ,https://www.indomio.es/anuncios/82891264/,Valladolid,Venta,David del Barrio,https://media.indomio.es/text/tel_82891264_4f0cd.jpg?k=3d34d274e34310a8044ac88eace56a45,2,Calle Ramón Núñez
+286,295000,2,Casa rústica ,https://www.indomio.es/anuncios/92360915/,Fonfría (Zamora),Venta,Jose Hernandez Perez,https://media.indomio.es/text/tel_92360915_0fd49.jpg?k=0382633ea118e7b8cb03432ec0bcd519,5,Calle Real
+145,195000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/91821827/,Alcalá de Guadaíra,Venta,,https://media.indomio.es/text/tel_91821827_71a19.jpg?k=97bd4559139ec14a90f11700ff0d330e,3,Calle Escultor Alonso Cano
+78,169000,1,Casa pareada ,https://www.indomio.es/anuncios/92774891/,Sevilla,Venta,,https://media.indomio.es/text/tel_92774891_3be4a.jpg?k=4e271ffd10947ace8b8120e43e2417fd,4,Barrio León-El Tardón-Blas Infante - Calle Juan Valera
+80,40000,1,Casa rústica ,https://www.indomio.es/anuncios/91402233/,San Cibrao das Viñas,Venta,,https://media.indomio.es/text/tel_91402233_146f2.jpg?k=0540e2ff9c923ba4f06cae40666ee760,1,San Cibrao das Viñas
+200,30000,1,Casa rústica,https://www.indomio.es/anuncios/94303189/,Ramirás,Venta,,,5,Santa María Madre
+650,500000,3,Casa rústica ,https://www.indomio.es/anuncios/94637337/,Padrenda,Venta,,,5,Rúa Freans de Crespos
+85,190000,1,Ático ,https://www.indomio.es/anuncios/95585569/,Valladolid,Venta,,https://media.indomio.es/text/tel_95585569_832d7.jpg?k=46746d95bacf0a0d8c578d8c81b7ff45,2,Calle Viaje de Aguas
+354,175000,2,Casa plurifamiliar ,https://www.indomio.es/anuncios/92877029/,O Barco de Valdeorras,Venta,,https://media.indomio.es/text/tel_92877029_73539.jpg?k=f859575abc071011393f4b55d2959922,5,Avenida de Eulogio Fernández
+120,45500,,Casa rústica ,https://www.indomio.es/anuncios/95997359/,Villalobón,Venta,,https://media.indomio.es/text/tel_95997359_442e4.jpg?k=9c3792f41fc6a3afd5659bef95279246,2,Barrio Bodegas
+131,325000,2,Piso ,https://www.indomio.es/anuncios/95500217/,Sevilla,Venta,,https://media.indomio.es/text/tel_95500217_1878a.jpg?k=0d6347a3530190651329d2667b947da0,4,Nervión - Plaza Gran Plaza
+200,35000,,Casa rústica ,https://www.indomio.es/anuncios/93914745/,O Carballiño,Venta,,https://media.indomio.es/text/tel_93914745_ee7ee.jpg?k=1f4bd2869992a12d82046bd3f68f5e09,3,O Carballiño
+55,125000,1,Piso ,https://www.indomio.es/anuncios/93503111/,Salamanca,Venta,,https://media.indomio.es/text/tel_93503111_16845.jpg?k=a888d6c1273f2fa81f8c2368cc7e99e1,1,Calle República Dominicana
+150,50000,,Edificio ,https://www.indomio.es/anuncios/91155581/,Maside,Venta,,,,Rúa Principal
+200,62000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/91808381/,La Fuente de San Esteban,Venta,,,4,Calle de Sánchez Abarca
+130,170000,3,Dúplex ,https://www.indomio.es/anuncios/95178591/,O Carballiño,Venta,,,3,Carballiño
+150,87000,1,Casa rústica ,https://www.indomio.es/anuncios/92776737/,Cantalpino,Venta,,,5,Calle Bolos Segunda
+75,150000,1,Piso ,https://www.indomio.es/anuncios/91752501/,Valladolid,Venta,,,3,Calle Imperial
+110,82500,3,Casa rústica ,https://www.indomio.es/anuncios/92639869/,Cortegada,Venta,,https://media.indomio.es/text/tel_92639869_a6c66.jpg?k=4b24d5bd424921873dc60c12a6a3c8eb,3,Cortegada
+130,50000,1,Casa rústica ,https://www.indomio.es/anuncios/96112839/,Cartelle,Venta,,,4,Santa Cateliña
+92,175000,2,Piso ,https://www.indomio.es/anuncios/96112859/,Ourense,Venta,,https://media.indomio.es/text/tel_96112859_91bc0.jpg?k=ef0ee76dd6cb0fd49ad9a72daffb3a54,3, séptima planta
+178,220000,3,Chalet,https://www.indomio.es/anuncios/95881211/,Allariz,Venta,,https://media.indomio.es/text/tel_95881211_54e36.jpg?k=709a613df6ae6ae791688569e5ee7387,5,Os Xugueiros
+106,45000,2,Casa adosada,https://www.indomio.es/anuncios/95380709/,Allariz,Venta,,https://media.indomio.es/text/tel_95380709_2cd0a.jpg?k=3bff2980aad96527a9c78469d478762a,3,A Acea
+300,45000,1,Casa rústica,https://www.indomio.es/anuncios/92225447/,A Merca,Venta,,,5,Rúa Portela
+79,302000,1,Piso ,https://www.indomio.es/anuncios/84838889/,Sevilla,Venta,,https://media.indomio.es/text/tel_84838889_af0cf.jpg?k=108f7e807fe5b089b198e83875d37259,3,Zona Ronda de Triana-Cartuja - Calle José María del Campo
+140,50000,,Casa rústica ,https://www.indomio.es/anuncios/96214875/,A Merca,Venta,,https://media.indomio.es/text/tel_96214875_7d46d.jpg?k=06d53b25cbcb8dfa82a1435123d58646,4,Parderrubias
+183,182000,2,Chalet ,https://www.indomio.es/anuncios/95505229/,Valladolid,Venta,,https://media.indomio.es/text/tel_95505229_16592.jpg?k=3f29c2dc812b37dc2989a3e9bc8f51ac,3,Calle La 41
+280,195000,2,Casa rústica ,https://www.indomio.es/anuncios/96014049/,Amoeiro,Venta,,https://media.indomio.es/text/tel_96014049_439f6.jpg?k=1b1f700708190fbb69a48c11628aeb31,4,Amoeiro
+555,20000,2,Casa adosada ,https://www.indomio.es/anuncios/93808391/,A Peroxa,Venta,,https://media.indomio.es/text/tel_93808391_d16aa.jpg?k=05657f536b1270170b3413fb14603fa9,4,Estrada a Casarizas
+81,139980,2,Piso ,https://www.indomio.es/anuncios/95783531/,Sevilla,Venta,,https://media.indomio.es/text/tel_95783531_b5815.jpg?k=8ce2e193b2343aef7c248125fbe89eb6,2,Villegas-Los Príncipes - Calle Benítez Parodi
+72,130000,1,Casa rústica ,https://www.indomio.es/anuncios/95585585/,Barbadás,Venta,,https://media.indomio.es/text/tel_95585585_4cb84.jpg?k=cab551437dd79ef5e17918428204e40d,2,Requeixo
+550,460000,3,Chalet ,https://www.indomio.es/anuncios/92436943/,Tegueste,Venta,,,5,Carretera General a Punta Hidalgo
+106,175000,1,Piso ,https://www.indomio.es/anuncios/94967237/,Santa Cruz de Tenerife,Venta,,https://media.indomio.es/text/tel_94967237_f6151.jpg?k=801a4e1d05e6d19ca0b248a41f1c4080,3,Somosierra-García Escámez-Tristán - Calle Tío Pino
+120,250000,2,Dúplex ,https://www.indomio.es/anuncios/91406013/,Ourense,Venta,,https://media.indomio.es/text/tel_91406013_774b4.jpg?k=037841e9a09943411dd6f98abdeb2c66,4,Rúa Salvador de Madariaga
+450,848000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/86552413/,Santa Cruz de Tenerife,Venta,,https://media.indomio.es/text/tel_86552413_93c11.jpg?k=33406491b182683a6a8705443f9d14ef,5,Salamanca-Uruguay-Las Mimosas - Calle Asuncionistas
+98,190000,1,Casa unifamiliar,https://www.indomio.es/anuncios/95472361/,Tacoronte,Venta,,,5,Calle Mesetas
+360,165000,3,Chalet ,https://www.indomio.es/anuncios/92846089/,Tacoronte,Venta,,https://media.indomio.es/text/tel_92846089_dc56a.jpg?k=f96f08dfc49e81ec9c4f7fcb5cd034c2,5,Carretera General del Norte
+190,200000,2,Dúplex,https://www.indomio.es/anuncios/92267303/,San Sebastián de La Gomera,Venta,,,4,Avenida de José Aguiar
+180,438000,3,Casa pareada ,https://www.indomio.es/anuncios/96113039/,Santa Úrsula,Venta,,,3,Calle Bicacarera
+70,88000,1,Piso ,https://www.indomio.es/anuncios/92798065/,Ciudad Rodrigo,Venta,,,3,Calle Correo Viejo
+70,190000,1,Piso ,https://www.indomio.es/anuncios/91845391/,San Miguel de Abona,Venta,,https://media.indomio.es/text/tel_91845391_1c206.jpg?k=af092dbf09922d7e009dbeaf4c283cf2,3,Calle Inocencia Torres Afonso
+250,220000,3,Chalet ,https://www.indomio.es/anuncios/93585671/,La Vellés,Venta,,https://media.indomio.es/text/tel_93585671_ca425.jpg?k=86d6be6148d8593fad8fbb3fd66be81e,4,Calle Pedro Moya
+240,260000,3,Casa adosada ,https://www.indomio.es/anuncios/93914613/,Ciudad Rodrigo,Venta,,https://media.indomio.es/text/tel_93914613_43e16.jpg?k=cf8c49304df47ed27de570f057f5d9fd,3,Calle Júcar
+62,160000,1,Piso ,https://www.indomio.es/anuncios/95339185/,Tacoronte,Venta,,,2,Carretera Tacoronte Tejina
+160,260000,2,Piso ,https://www.indomio.es/anuncios/90606633/,Sevilla,Venta,,https://media.indomio.es/text/tel_90606633_f007f.jpg?k=59f82d10d9404bea05434c39cc5c3423,5,El Cerro del Águila - Calle José María de Pereda
+247,550000,3,Piso ,https://www.indomio.es/anuncios/95896927/,Santa Cruz de Tenerife,Venta,,https://media.indomio.es/text/tel_95896927_dd685.jpg?k=ac39bb420fc94a974ea802f9d0477c5b,5,Toscal - Calle de la Tolerancia
+110,385000,2,Piso,https://www.indomio.es/anuncios/94364775/,Sevilla,Venta,,https://media.indomio.es/text/tel_94364775_705f0.jpg?k=23305ed5885ea7817c5b86871536fe0d,3,La Florida-Huerta del Pilar - Calle Trovador
+67,165000,1,Piso ,https://www.indomio.es/anuncios/90803877/,Santiago del Teide,Venta,,https://media.indomio.es/text/tel_90803877_b7992.jpg?k=d554ebc419bebd9da20b5cb398829c0e,1,Calle Caleta del Jurado
+101,330000,2,Piso ,https://www.indomio.es/anuncios/95131693/,Sevilla,Venta,,https://media.indomio.es/text/tel_95131693_94d02.jpg?k=7d6bf283fffecd721b2c2225d8b51467,4,Zona Esperanza de Triana - Calle Doctor Félix Rodríguez de la Fuente
+78,154500,2,Piso ,https://www.indomio.es/anuncios/95378079/,La Orotava,Venta,,https://media.indomio.es/text/tel_95378079_bf93d.jpg?k=ed8462fa1941d0cc59fedaafbf7a2003,3,Calle Cristóbal de Franchi
+280,293000,3,Casa pareada ,https://www.indomio.es/anuncios/94497683/,San Miguel de Abona,Venta,,https://media.indomio.es/text/tel_94497683_a6b64.jpg?k=2c181f99633ae5bc076d282013a7d8fe,5,Calle Estanco
+95,320000,1,Piso ,https://www.indomio.es/anuncios/95276513/,Santiago del Teide,Venta,,,2,Calle Flor de Pascua
+153,530000,3,Chalet ,https://www.indomio.es/anuncios/94668915/,Puerto de la Cruz,Venta,,https://media.indomio.es/text/tel_94668915_5d6f6.jpg?k=5c2f36900b6db6d64e94154dd1d6b138,5,Calle Guéton
+90,350000,1,Piso ,https://www.indomio.es/anuncios/91588607/,Sevilla,Venta,,,2,Tablada - Calle Hispano Aviación
+186,165000,1,Casa adosada,https://www.indomio.es/anuncios/92535653/,Icod de Los Vinos,Venta,,https://media.indomio.es/text/tel_92535653_77581.jpg?k=400119d2e21e647ca66661a3e107ed0c,5,Calle Key Muñoz
+128,270000,1,Piso ,https://www.indomio.es/anuncios/96005167/,Güímar,Venta,,,3,Rambla de los Pescadores
+232,249000,2,Casa pareada ,https://www.indomio.es/anuncios/94445493/,Garachico,Venta,,https://media.indomio.es/text/tel_94445493_95178.jpg?k=3e0a331ac402511e00a8e89ea7594715,5,Calle La Palma
+335,270000,2,Casa adosada,https://www.indomio.es/anuncios/93939515/,Güímar,Venta,,https://media.indomio.es/text/tel_93939515_3acf0.jpg?k=f77dc24902f3bd008b79d9c30e1af653,5,Calle Güímar
+83,120000,1,Piso ,https://www.indomio.es/anuncios/90871519/,Santa Cruz de Tenerife,Venta,,https://media.indomio.es/text/tel_90871519_67dd0.jpg?k=12c58c51c88ac309c5d5547397cbf6c8,1,La Salud-El Perú-Buenavista - Calle Puerto de la Cruz
+107,180000,2,Piso ,https://www.indomio.es/anuncios/96233475/,Icod de Los Vinos,Venta,,,3,Calle La Centinela
+163,350000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95590573/,San Cristóbal de La Laguna,Venta,,https://media.indomio.es/text/tel_95590573_e5227.jpg?k=8699785086f3ccac2cdd76c31781132f,5,Calle San José
+103,149000,1,Piso,https://www.indomio.es/anuncios/95791717/,Icod de Los Vinos,Venta,,https://media.indomio.es/text/tel_95791717_3ab55.jpg?k=cc7573c7bd456617e27cff2f4bff024a,4,Avenida Veinticinco de Abril
+113,150000,2,Piso ,https://www.indomio.es/anuncios/76804307/,Icod de Los Vinos,Venta,,,3,"Calle Francisco Miranda, 3"
+175,295000,3,Casa adosada ,https://www.indomio.es/anuncios/95859155/,Buenavista del Norte,Venta,,,3,Calle la Carrera
+105,160000,2,Piso ,https://www.indomio.es/anuncios/95557657/,San Cristóbal de La Laguna,Venta,,https://media.indomio.es/text/tel_95557657_485a8.jpg?k=78664e83e54e1e68be65267c7f9aa200,3,Avenida Los Majuelos
+184,275000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/96010573/,Candelaria,Venta,,https://media.indomio.es/text/tel_96010573_3fa00.jpg?k=868adefba22ab97bcd2c885775462ed4,4,Calle Chicoro
+63,165000,1,Piso ,https://www.indomio.es/anuncios/95743267/,Granadilla de Abona,Venta,,https://media.indomio.es/text/tel_95743267_a40cd.jpg?k=478b8d3748dfaec7dc9facb566e03feb,2,Calle Ballena
+137,205000,2,Piso ,https://www.indomio.es/anuncios/94930021/,Santiago del Teide,Venta,,https://media.indomio.es/text/tel_94930021_d0e99.jpg?k=9a828dcc69301e36e8310d2200ab301b,4,Calle Herrador
+113,185000,2,Piso ,https://www.indomio.es/anuncios/85432507/,Salamanca,Venta,,https://media.indomio.es/text/tel_85432507_66c66.jpg?k=81c8a7d0d54295aea3a5b4429ece4f7c,4,Avenida Alfonso IX de León
+200,378000,3,Chalet,https://www.indomio.es/anuncios/91029971/,Guía de Isora,Venta,,,3,Avenida de Isora
+240,450000,3,Piso ,https://www.indomio.es/anuncios/92690387/,Ourense,Venta,,https://media.indomio.es/text/tel_92690387_4da49.jpg?k=17d44453efa7489b46001e83cfb7f76f,5,Rúa Xoán XXIII
+96,198000,1,Casa rústica ,https://www.indomio.es/anuncios/94735129/,Guía de Isora,Venta,,https://media.indomio.es/text/tel_94735129_bbe27.jpg?k=707f6116b4a94794c1c1b9bf0d2ef807,2,Calle Lomo de los Pinos
+88,350000,2,Dúplex ,https://www.indomio.es/anuncios/94053917/,Adeje,Venta,,https://media.indomio.es/text/tel_94053917_874f0.jpg?k=a9f9c8332d092cff4be8f575b4a2ddb1,3,Dúplex
+119,175000,2,Piso ,https://www.indomio.es/anuncios/76801869/,Xirivella,Venta,,,4,Calle Arte Mayor de la Seda
+180,90000,1,Piso ,https://www.indomio.es/anuncios/94263501/,Villar del Arzobispo,Venta,,https://media.indomio.es/text/tel_94263501_c4839.jpg?k=181e7e16c8fff19675c7193077d69d63,2,Carretera de Villar-La Yesa
+300,290000,3,Edificio ,https://www.indomio.es/anuncios/94903017/,Béjar,Venta,,,5,Carretera de Salamanca
+328,270000,2,Piso ,https://www.indomio.es/anuncios/96132145/,Xirivella,Venta,,https://media.indomio.es/text/tel_96132145_6a4ff.jpg?k=2d999e14bb1e1402d159dd751d48eb87,5,Calle Molino
+100,110000,2,Piso ,https://www.indomio.es/anuncios/90625105/,Xàtiva,Venta,,,3,Calle Mateo Pueyo
+90,35000,1,Casa rústica ,https://www.indomio.es/anuncios/85940743/,La Fuente de San Esteban,Venta,,https://media.indomio.es/text/tel_85940743_4f11a.jpg?k=c50f2b1a622a01a84575dd5ff6585d4b,4,Calle de Triana
+74,84740,1,Piso ,https://www.indomio.es/anuncios/93951543/,Vilallonga - Villalonga,Venta,,https://media.indomio.es/text/tel_93951543_34568.jpg?k=6ce2a28d51c160c41329c232fc53499a,2,Camino de Forna
+132,247000,3,Chalet ,https://www.indomio.es/anuncios/89694377/,Granadilla de Abona,Venta,,,5,Calle Antonio Machado
+110,82000,2,Piso ,https://www.indomio.es/anuncios/94239493/,Vilallonga - Villalonga,Venta,,https://media.indomio.es/text/tel_94239493_e54f8.jpg?k=31b8cd5696eb55b28f23002615f0382a,4,Calle Tarraso
+75,205000,1,Piso ,https://www.indomio.es/anuncios/93542213/,Arona,Venta,,https://media.indomio.es/text/tel_93542213_70eb3.jpg?k=9e5e241af32236ce16b715ffd903c7d0,2,Avenida El Palm-Mar
+280,293000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/94637775/,Silla,Venta,,https://media.indomio.es/text/tel_94637775_f60f2.jpg?k=675491bd01533f3ea72659c96fad3fb9,5,Avenida Francisco Tomás y Valiente
+85,158000,1,Chalet ,https://www.indomio.es/anuncios/95517007/,Torrent (València),Venta,,https://media.indomio.es/text/tel_95517007_9e177.jpg?k=096178f4c70a7150a7b3ac0d3bdb02a5,2,Partida Cortitxelles
+70,110000,1,Piso ,https://www.indomio.es/anuncios/95495367/,Serra,Venta,,,2,Carrer de València
+87,170000,2,Piso ,https://www.indomio.es/anuncios/95616399/,Guía de Isora,Venta,,https://media.indomio.es/text/tel_95616399_183e0.jpg?k=026ca2069ea4e1cbbdff58fbbd9c1033,2,Calle Pérez Galdós
+220,120000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/91996691/,Xàtiva,Venta,,https://media.indomio.es/text/tel_91996691_bb8a1.jpg?k=431699a052d6493ebe055c39430891d6,5,Calle Ardiaca
+80,330000,1,Piso ,https://www.indomio.es/anuncios/95131501/,Adeje,Venta,,https://media.indomio.es/text/tel_95131501_837b5.jpg?k=3c9ab94ff1c870bdb7a09f44713d9649,2,Calle Aragón
+250,500000,3,Casa pareada ,https://www.indomio.es/anuncios/91132683/,San Antonio de Benagéber,Venta,,https://media.indomio.es/text/tel_91132683_5a5e2.jpg?k=715b3ffea26f5ec2a412cbb39ccc9861,5,
+140,170000,2,Piso ,https://www.indomio.es/anuncios/94992641/,Sedaví,Venta,,https://media.indomio.es/text/tel_94992641_2a141.jpg?k=8cf73749029d462d7179daf8b13b8ce9,5,Calle Salvador Giner
+55,280000,1,Piso ,https://www.indomio.es/anuncios/94655045/,Adeje,Venta,,,2,Calle Venezuela
+70,199000,1,Piso ,https://www.indomio.es/anuncios/93805765/,València,Venta,,,2,En Corts
+500,360000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/91702299/,Rafelcofer,Venta,Jose Carlos Garcia Tapia,https://media.indomio.es/text/tel_91702299_27b59.jpg?k=43c8b6138e3e5fd38aeba6814cd8241d,5,Calle Mayor
+1,799000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/91808385/,Arona,Venta,,,5,Avenida San Diego
+320,475000,3,Chalet,https://www.indomio.es/anuncios/96233257/,Picassent,Venta,,,5,Calle Bajo del Pinar
+103,279000,2,Piso ,https://www.indomio.es/anuncios/94661587/,Sagunto - Sagunt,Venta,,,3,Avenida Las Salinas
+100,162000,,Piso ,https://www.indomio.es/anuncios/95848255/,València,Venta,,,4,Natzaret - Calle Alta del Mar
+475,950000,2,Chalet ,https://www.indomio.es/anuncios/93945881/,Picassent,Venta,,https://media.indomio.es/text/tel_93945881_691ad.jpg?k=cfad215c04678a59991580ed0d516f02,4,Calle La Traviesa
+128,265000,2,Piso ,https://www.indomio.es/anuncios/95877705/,Paterna,Venta,,https://media.indomio.es/text/tel_95877705_2104f.jpg?k=28718bab3bc16806455df0d676b0d345,3,Calle Orégano
+130,56000,1,Piso ,https://www.indomio.es/anuncios/95059847/,Peñaranda de Bracamonte,Venta,,,5,Plaza Nueva
+555,55000,1,Piso ,https://www.indomio.es/anuncios/76794435/,Fuentes de Oñoro,Venta,,,3,Calle Alfonso Navalón
+60,189900,1,Piso ,https://www.indomio.es/anuncios/96209899/,València,Venta,,,1,Torrefiel - Avenida de la Constitución
+163,150000,1,Chalet ,https://www.indomio.es/anuncios/94827921/,Olocau,Venta,,https://media.indomio.es/text/tel_94827921_0534a.jpg?k=d7a15abba41dc626db839a23fb32e110,5,Carretera Gátova
+120,120000,2,Piso ,https://www.indomio.es/anuncios/91404329/,Ourense,Venta,Eugenio Lois,https://media.indomio.es/text/tel_91404329_2cd96.jpg?k=f4cb9e0c53475209dab678bb6763d60f,3,Avenida de Santiago
+149,57000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/94029685/,Fresno Alhándiga,Venta,,https://media.indomio.es/text/tel_94029685_aaa6f.jpg?k=f7fb9f045d12e82c8aef20e495914bbe,4,Camino Urbanización
+120,450000,2,Dúplex ,https://www.indomio.es/anuncios/95952845/,Adeje,Venta,,https://media.indomio.es/text/tel_95952845_b3dcc.jpg?k=a13394c585f2ec2a59fb4cadbcb453c5,2,Avenida Adeje 300
+254,165000,3,Casa rústica ,https://www.indomio.es/anuncios/92577805/,Montserrat,Venta,,,5,Colonia Cañada Primal
+115,575000,3,Chalet ,https://www.indomio.es/anuncios/96004617/,Adeje,Venta,,https://media.indomio.es/text/tel_96004617_eca0b.jpg?k=87918a9b09592d644cb89e35851254ce,4,Calle Taoro
+204,230000,3,Casa adosada ,https://www.indomio.es/anuncios/94305243/,Ontinyent,Venta,,,3,Calle Rondalla de Rondallas
+110,110000,2,Chalet ,https://www.indomio.es/anuncios/96141391/,Oliva,Venta,,,5,Calle de las Torres
+65,130000,1,Piso ,https://www.indomio.es/anuncios/94393565/,Mislata,Venta,,https://media.indomio.es/text/tel_94393565_db7e9.jpg?k=d64ec619b8e22cbdf3038c8cb191d10a,4,Avenida Gregorio Gea
+130,245000,2,Piso ,https://www.indomio.es/anuncios/82522037/,Ontinyent,Venta,,https://media.indomio.es/text/tel_82522037_19e22.jpg?k=3d3bd64a2aa2a7c2f22468da6f6a78a9,3,Paseo Pintor Carlets
+100,83000,2,Piso ,https://www.indomio.es/anuncios/92005299/,Massalavés,Venta,,,4,Plaça José María Ordeig
+391,145000,1,Casa pareada,https://www.indomio.es/anuncios/96113051/,Manuel,Venta,,,5,Calle Joan Moreno
+180,205000,1,Chalet ,https://www.indomio.es/anuncios/93940523/,Llutxent,Venta,,https://media.indomio.es/text/tel_93940523_b325f.jpg?k=77a08b8c91a3aee03f1219a812c22997,5,Carretera de Pinet
+80,295000,2,Piso ,https://www.indomio.es/anuncios/96010937/,Arona,Venta,,https://media.indomio.es/text/tel_96010937_db04f.jpg?k=04f2505c876346b627a72857a06a988f,2,Calle Odisea
+300,179500,3,Casa adosada ,https://www.indomio.es/anuncios/92799383/,Llocnou d'en Fenollet,Venta,,,4,Calle Virgen de los Dolores
+1880,450000,,Edificio ,https://www.indomio.es/anuncios/94857985/,Ciudad Rodrigo,Venta,,https://media.indomio.es/text/tel_94857985_edbf3.jpg?k=61d70b0550f48aee053e658624549962,,Calle Sánchez Arjona
+140,99900,2,Casa unifamiliar ,https://www.indomio.es/anuncios/93909721/,La Pobla Llarga,Venta,,https://media.indomio.es/text/tel_93909721_7afdd.jpg?k=623b57360e56c5dd917d42d28d188041,5,Calle Canónigo Fogues
+78,145000,1,Ático,https://www.indomio.es/anuncios/94834177/,Arona,Venta,,https://media.indomio.es/text/tel_94834177_5d116.jpg?k=56aeedbdfa18713b2f2141a4b5ab8542,2,Calle Venezuela
+110,1000000,1,Edificio ,https://www.indomio.es/anuncios/95091529/,València,Venta,,https://media.indomio.es/text/tel_95091529_35ebd.jpg?k=f8b6e5dd6a5a713d0bd19bff25963f0f,4,Albors - Calle Rodríguez de Cepeda
+180,90000,2,Casa independiente ,https://www.indomio.es/anuncios/80855902/,Ourense,Venta,,https://media.indomio.es/text/tel_80855902_1542c.jpg?k=3647ae67ea0ab614f02c1a8b8d8eb029,4,Rúa Galicia
+2074,250000,2,Chalet ,https://www.indomio.es/anuncios/92375145/,Llíria,Venta,,,5,Calle Los Robles
+450,450000,3,Casa adosada ,https://www.indomio.es/anuncios/93983049/,València,Venta,,https://media.indomio.es/text/tel_93983049_2b3fc.jpg?k=937f9c87ff2bb9edd280f64ef13d905d,5,Faitanar - Avenida Real de Madrid
+114,150000,3,Casa adosada ,https://www.indomio.es/anuncios/91226137/,L'Alcúdia de Crespins,Venta,,https://media.indomio.es/text/tel_91226137_d5d07.jpg?k=4c974e20c9651de0758536cdafb8c55b,3,Partida Franquet
+74,170000,1,Piso,https://www.indomio.es/anuncios/94950667/,La Pobla de Farnals,Venta,,https://media.indomio.es/text/tel_94950667_b3167.jpg?k=338732eaab20339c9e15a2b75c1be776,1,Calle Carabelas
+230,85000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92462679/,Jalance,Venta,,https://media.indomio.es/text/tel_92462679_3e200.jpg?k=2f4bd5e87b13fd3fc1c2b8587c779d8a,5,Calle del Maestro Honorato Piera
+86,137000,2,Piso ,https://www.indomio.es/anuncios/94819701/,Oliva,Venta,,,2,Avenida Morer
+2200,590000,3,Chalet ,https://www.indomio.es/anuncios/95587791/,Gilet,Venta,,https://media.indomio.es/text/tel_95587791_c0319.jpg?k=cdded554cbd5f7d0e32243ec199ed2da,5,
+95,119999,2,Piso ,https://www.indomio.es/anuncios/91794435/,Gandia,Venta,,https://media.indomio.es/text/tel_91794435_cb77c.jpg?k=a688a3f57959de850e2dc55ca21d7c9b,4,Corea - Calle Alfaro
+140,21000,1,Piso ,https://www.indomio.es/anuncios/95346695/,Fontanars dels Alforins,Venta,,https://media.indomio.es/text/tel_95346695_c136a.jpg?k=1a688a31b302210d10253f5ccbc4013d,4,Calle del País Valenciano
+96,300000,1,Piso ,https://www.indomio.es/anuncios/76795301/,València,Venta,,,2,"L'Amistat - Calle Caravaca, 13"
+88,255000,1,Piso ,https://www.indomio.es/anuncios/96042573/,Arona,Venta,,https://media.indomio.es/text/tel_96042573_25a71.jpg?k=0021053d9e2b72344e59edaa4b80e486,2,Calle Rodeo
+110,95000,2,Piso ,https://www.indomio.es/anuncios/91993565/,Gandia,Venta,,https://media.indomio.es/text/tel_91993565_87011.jpg?k=15849b55b981b366ca643df7c8adea54,3,República Argentina-Iglesia Cristo Rey - Avenida República Argentina
+166,105000,1,Casa plurifamiliar ,https://www.indomio.es/anuncios/92524461/,Chiva,Venta,,,5, Centro
+48,199000,1,Piso ,https://www.indomio.es/anuncios/96095275/,Arona,Venta,,https://media.indomio.es/text/tel_96095275_f743c.jpg?k=18bf1bdb81b6da6173e11485f7b9e864,1,Calle Boreas
+271,80000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/83553197/,Chella,Venta,,https://media.indomio.es/text/tel_83553197_b4f71.jpg?k=a4ad0cb92a2034cceb8988e781db7416,3,Avenida Constitución
+85,175000,2,Piso ,https://www.indomio.es/anuncios/91431973/,València,Venta,,,4,Nou Moles - Avenida del Cid
+1200,280000,3,Piso ,https://www.indomio.es/anuncios/91752447/,Catadau,Venta,,,5,Calle Rodríguez de la Fuente
+94,220000,1,Piso ,https://www.indomio.es/anuncios/93502849/,València,Venta,,https://media.indomio.es/text/tel_93502849_3b46c.jpg?k=1058bc08a52a988ddff2c513c461ceb5,5,Calle Martínez Cubells
+50,151000,1,Piso ,https://www.indomio.es/anuncios/96175945/,Gandia,Venta,Maria Manao,https://media.indomio.es/text/tel_96175945_1a6f4.jpg?k=6de5b0303b2dd5710ce927665e70a9aa,2,Calle Rioja
+111,320000,1,Ático ,https://www.indomio.es/anuncios/96052941/,Arona,Venta,,https://media.indomio.es/text/tel_96052941_7dcb2.jpg?k=cafdc8ec320f3d3e08fbb8ffb7d892e3,2,Calle de las Vegas
+116,110000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/92176397/,Chiva,Venta,,https://media.indomio.es/text/tel_92176397_2259d.jpg?k=86b2e2a0e062567cf5ac0d7196cab82a,1,Calle Alicante
+85,350000,2,Dúplex,https://www.indomio.es/anuncios/94197325/,Adeje,Venta,,,3,Avenida Adeje 300
+100,130000,2,Piso ,https://www.indomio.es/anuncios/95379513/,Gandia,Venta,,https://media.indomio.es/text/tel_95379513_2c0f0.jpg?k=9891b4ab98b20ea813e4d220d6cda859,5,Roís de Corella-Hospital-Beniopa
+187,370000,1,Chalet ,https://www.indomio.es/anuncios/92935597/,Bétera,Venta,,https://media.indomio.es/text/tel_92935597_b3e83.jpg?k=3f1c5c0318bda857be6695d72e0dc823,2,Polígono N
+280,100000,3,Chalet ,https://www.indomio.es/anuncios/94637331/,Barx,Venta,,https://media.indomio.es/text/tel_94637331_9ab4c.jpg?k=6b94a65ae82f66641263ba37a415a5ba,5,Calle Umbría
+215,135000,2,Piso ,https://www.indomio.es/anuncios/76806729/,Ayora,Venta,,https://media.indomio.es/text/tel_76806729_57438.jpg?k=c521d1a3850a6ef770e55b0c13c0976d,5,Carrer de Santiago
+365,100000,1,Casa rústica ,https://www.indomio.es/anuncios/94992917/,Antella,Venta,,,5,Carrer del Pintor Salvador Abril
+350,116500,3,Casa adosada ,https://www.indomio.es/anuncios/87521721/,Ayora,Venta,,,5,Calle Peinada
+178,220000,2,Chalet ,https://www.indomio.es/anuncios/95251061/,Algar de Palancia,Venta,,https://media.indomio.es/text/tel_95251061_e991b.jpg?k=7ebc0b4b235b8e1173ee3f3fcf7397b4,3,Polígono 5
+98,99000,2,Piso ,https://www.indomio.es/anuncios/95318549/,Alzira,Venta,,https://media.indomio.es/text/tel_95318549_c76e9.jpg?k=91b7c14f57aea18bcba87a5b1196fb1e,3,Calle Ardiaca Pere Esplugues
+180,535000,2,Piso ,https://www.indomio.es/anuncios/94873357/,València,Venta,,,5,Exposició - Avenida Blasco Ibáñez
+137,650000,2,Ático ,https://www.indomio.es/anuncios/95195171/,Alboraia - Alboraya,Venta,,https://media.indomio.es/text/tel_95195171_3354c.jpg?k=4aae31d184c486f4f9b0a8e2d6d09c33,2,Avenida Mare Nostrum
+80,90000,1,Piso ,https://www.indomio.es/anuncios/95764761/,Algemesí,Venta,,,3,Parque de Salvador Castell
+118,95000,2,Piso ,https://www.indomio.es/anuncios/94519357/,Algemesí,Venta,Romina Anastasi,,4,Calle Gómez Ferrer
+93,85000,1,Piso,https://www.indomio.es/anuncios/95733121/,Alzira,Venta,,,3,Calle de Carcos
+90,96000,1,Piso ,https://www.indomio.es/anuncios/90930953/,Alaquàs,Venta,,,4,Calle Federico García Lorca
+75,85900,2,Dúplex ,https://www.indomio.es/anuncios/95996693/,Yepes,Venta,,,2,Calle Grupo Escolar
+252,155000,2,Casa pareada ,https://www.indomio.es/anuncios/91437361/,Yuncler,Venta,Rafael González machuca,https://media.indomio.es/text/tel_91437361_b34b1.jpg?k=e8493b57189cc353fa27b79465e2492f,4,Calle Lorenzo Carrillo Rojas
+115,120000,2,Ático ,https://www.indomio.es/anuncios/96107201/,Alberic,Venta,,https://media.indomio.es/text/tel_96107201_e73d7.jpg?k=f121757bc8f237cf203a1703b7571c69,3,Avenida de la Ribera Alta
+227,290000,,Casa adosada,https://www.indomio.es/anuncios/93744257/,Ugena,Venta,,https://media.indomio.es/text/tel_93744257_30184.jpg?k=26d40a4c5d651798b473402acec5370a,,Calle Zamora
+205,265000,3,Chalet ,https://www.indomio.es/anuncios/95810279/,Ugena,Venta,,https://media.indomio.es/text/tel_95810279_f179b.jpg?k=f52c28539e797808976d43777a6cbcd2,5,Calle Miguel Ángel
+254,225000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/90968115/,Seseña,Venta,,,4,Calle Bajada del Salvador
+100,779000,2,Chalet ,https://www.indomio.es/anuncios/92198175/,Adeje,Venta,,https://media.indomio.es/text/tel_92198175_49831.jpg?k=3fa1168165dfc859d7469fa5a244eff2,2,Calle Galicia
+238,259000,3,Chalet ,https://www.indomio.es/anuncios/95334521/,Seseña,Venta,,https://media.indomio.es/text/tel_95334521_39804.jpg?k=1433250b3828ae2328ef80a70aefd0ae,3,Calle Alcazaba
+240,315000,3,Casa adosada,https://www.indomio.es/anuncios/92739019/,Pepino,Venta,,https://media.indomio.es/text/tel_92739019_22020.jpg?k=4cfe8b2d1ab46da2791b67016ad25131,5,Finca Prado del Arca
+250,70000,,Casa rústica,https://www.indomio.es/anuncios/95838391/,Alzira,Venta,,,,Calle Josep Montagud
+500,625000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/96007467/,Alzira,Venta,,,5, El Respirall-Santa Maria de Bonaire-El Racó
+220,205000,2,Chalet ,https://www.indomio.es/anuncios/91024357/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_91024357_d77ad.jpg?k=9569854ca67aab6eb4671ad6801b0f80,4,Calle Cristóbal Colón
+650,650000,3,Chalet ,https://www.indomio.es/anuncios/91402245/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_91402245_8b85d.jpg?k=5eb6d88965146dba61eb7b22377dd9ed,5,Calle de la Cruz Roja
+100,97000,1,Piso ,https://www.indomio.es/anuncios/95851483/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_95851483_9b6c5.jpg?k=99ebe6ba6395c7630d1da8cdfd7906af,3,Plaza de la Hispanidad
+111,150000,2,Piso ,https://www.indomio.es/anuncios/92710413/,Ourense,Venta,,https://media.indomio.es/text/tel_92710413_dac2a.jpg?k=3c2698df140df7feab534395d60a072d,3, tercera planta
+150,100000,2,Piso ,https://www.indomio.es/anuncios/95501265/,Talavera de la Reina,Venta,,,5,Avenida Príncipe Felipe
+614,340000,,Edificio ,https://www.indomio.es/anuncios/94468899/,Talavera de la Reina,Venta,,,,Calle Banderas de Castilla
+150,189900,2,Piso,https://www.indomio.es/anuncios/95427607/,Toledo,Venta,,https://media.indomio.es/text/tel_95427607_b9758.jpg?k=3c72b0c3aa4349c329651c92090addf5,5,Avenida Río Boladiez
+260,540000,3,Chalet ,https://www.indomio.es/anuncios/93502795/,Adeje,Venta,,,4,Urbanización Balcón Atlántico
+95,83000,2,Piso,https://www.indomio.es/anuncios/91807679/,Ocaña,Venta,,https://media.indomio.es/text/tel_91807679_80efa.jpg?k=043d92760bebe69e668215389b5f0708,3,Calle Mariana Pineda
+110,139000,3,Dúplex ,https://www.indomio.es/anuncios/95800839/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_95800839_382ed.jpg?k=34b83b0a4eb30063fc55d4acf34d8369,3,Calle Olivares
+130,130000,2,Chalet,https://www.indomio.es/anuncios/93455245/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_93455245_32d26.jpg?k=e60b6b06132bb3736d8deebdfaa7a6b0,3,Calle San Félix
+170,206000,3,Casa adosada ,https://www.indomio.es/anuncios/96052757/,Numancia de La Sagra,Venta,,,4,Camino de Numancia
+80,91500,2,Piso ,https://www.indomio.es/anuncios/91273473/,Ocaña,Venta,,https://media.indomio.es/text/tel_91273473_6dd0a.jpg?k=2ecf378ed7b09b58f9532ff5d93d5db9,2,Calle Mártires de Ocaña
+155,138000,2,Piso ,https://www.indomio.es/anuncios/96236947/,Talavera de la Reina,Venta,,https://media.indomio.es/text/tel_96236947_f8340.jpg?k=ddc42bdbb44e0044ede98a466f38b2de,5,Calle Cañada de Alfares
+190,159000,3,Casa adosada ,https://www.indomio.es/anuncios/96077917/,Alzira,Venta,,https://media.indomio.es/text/tel_96077917_9a906.jpg?k=fc87902d4c9c20365c9df870123cd062,4,Calle Manises
+118,98500,2,Piso ,https://www.indomio.es/anuncios/96048121/,Fuensalida,Venta,,https://media.indomio.es/text/tel_96048121_303e9.jpg?k=86cf5728434e86ce138264b8e6c5e8b8,4,Calle Mecánico Rada
+55,41000,1,Piso ,https://www.indomio.es/anuncios/90591583/,Fuensalida,Venta,,https://media.indomio.es/text/tel_90591583_bb8a6.jpg?k=ba6a14e75418e9e8ee4286d52498d2fb,2,Callejón Pelayo
+340,235000,,Casa unifamiliar ,https://www.indomio.es/anuncios/95355749/,El Viso de San Juan,Venta,,https://media.indomio.es/text/tel_95355749_313ce.jpg?k=e7f3258c215bd1b0ec76779caeb753d3,,Casa unifamiliar
+85,130000,,Chalet ,https://www.indomio.es/anuncios/94064721/,El Casar de Escalona,Venta,Elsa R,https://media.indomio.es/text/tel_94064721_00d40.jpg?k=428672cba81ee7e56cba38c474ce838e,3, nueva
+100,227000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92100567/,Esquivias,Venta,,https://media.indomio.es/text/tel_92100567_160a0.jpg?k=78dc8b8b4643b2303238dcaa711f685c,3,Calle Calderón de la Barca
+220,308000,3,Chalet ,https://www.indomio.es/anuncios/95159435/,Illescas,Venta,,,4,Calle Azores
+200,75000,2,Piso ,https://www.indomio.es/anuncios/92753877/,Domingo Pérez,Venta,,https://media.indomio.es/text/tel_92753877_13e75.jpg?k=a7c21470242ca4817093cd43c35253d7,5,Calle Pozo Dulce
+92,98000,1,Casa rústica ,https://www.indomio.es/anuncios/94950519/,Adeje,Venta,,https://media.indomio.es/text/tel_94950519_f9d30.jpg?k=0769f8b725c89af8758e2a00b0f168cd,3,Calle El Risco
+116,58000,2,Piso ,https://www.indomio.es/anuncios/93600021/,Cebolla,Venta,,https://media.indomio.es/text/tel_93600021_49706.jpg?k=205d3f0b165c90600ad46d2a1f39f026,4,Calle Cruz Verde
+80,800000,1,Piso ,https://www.indomio.es/anuncios/83152396/,Bargas,Venta,,,3, cuarta planta
+51,229000,1,Piso,https://www.indomio.es/anuncios/95269529/,Adeje,Venta,,,2,Avenida Países Bajos
+240,81000,3,Chalet ,https://www.indomio.es/anuncios/95734363/,Alcaudete de La Jara,Venta,,https://media.indomio.es/text/tel_95734363_2bf7f.jpg?k=b9cbde015860e9648f0737e0d9168b68,3,Calle Cordel
+348,300000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/81355066/,Vilagarcía de Arousa,Venta,,,5,Rúa Sobran
+78,125000,2,Piso ,https://www.indomio.es/anuncios/95174617/,Vigo,Venta,,,3,Coia - Rúa Moaña
+90,190000,2,Piso ,https://www.indomio.es/anuncios/95489889/,Vigo,Venta,,https://media.indomio.es/text/tel_95489889_c284e.jpg?k=70f915a7b929649d52d4ec758a932bef,5,Coia - Rúa de Lalín
+126,385000,2,Piso ,https://www.indomio.es/anuncios/94174245/,Sanxenxo,Venta,,,5,Rúa Ourense
+65,210000,1,Piso ,https://www.indomio.es/anuncios/96004901/,Vigo,Venta,,https://media.indomio.es/text/tel_96004901_5f03d.jpg?k=b3622bdc5a3341187cab7bb7747e5f71,2,Travesas-Balaídos - Avenida da Florida
+170,250000,2,Chalet ,https://www.indomio.es/anuncios/95557315/,Tomiño,Venta,Oscar D,https://media.indomio.es/text/tel_95557315_22759.jpg?k=d9c4822b570e99474c1dee163a00a030,3,Barrio Os Muños
+420,259000,3,Chalet ,https://www.indomio.es/anuncios/91400127/,Tomiño,Venta,,https://media.indomio.es/text/tel_91400127_8d33b.jpg?k=76b18e23530d53b30edb0f9547ebf2f6,5,Barrio Carregal de Abaixo
+105,375000,2,Piso ,https://www.indomio.es/anuncios/76807011/,Vilagarcía de Arousa,Venta,,https://media.indomio.es/text/tel_76807011_80b35.jpg?k=b896dd16ee9dc4685d5e6aa4864d4b3d,4,"Avenida Rosalía de Castro, 98"
+263,280000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/91466563/,Ponteareas,Venta,,,4,Ponteareas
+75,105000,2,Piso ,https://www.indomio.es/anuncios/94253445/,Ponteareas,Venta,,https://media.indomio.es/text/tel_94253445_184b9.jpg?k=30198716c70aca884b1ff4e7b072e0e9,2,Ponteareas
+80,125000,2,Piso ,https://www.indomio.es/anuncios/92997815/,Redondela,Venta,,https://media.indomio.es/text/tel_92997815_5d25a.jpg?k=c22c2ac2ff962f3aa378b53839121d0e,2,Rúa Castelao
+106,220000,2,Piso,https://www.indomio.es/anuncios/96153005/,Vigo,Venta,,https://media.indomio.es/text/tel_96153005_c54c2.jpg?k=ed09df4ad4ec2d76ea42883e8c9ca81d,3,Calvario - Rúa A Portela
+134,400000,2,Piso ,https://www.indomio.es/anuncios/88228399/,Vigo,Venta,,,3,Zona Praza España-Casablanca - Rúa Ecuador
+200,120000,1,Casa rústica ,https://www.indomio.es/anuncios/92281907/,Moraña,Venta,,https://media.indomio.es/text/tel_92281907_00797.jpg?k=3369dd46bcc11cda736310c7f8ca9528,4,A Igrexa-Laxe
+90,950000,2,Piso ,https://www.indomio.es/anuncios/93694611/,Poio,Venta,,,4,Avenida Porteliña
+80,210000,1,Ático,https://www.indomio.es/anuncios/95970577/,Sanxenxo,Venta,,,2,Rúa Poetas Galegos
+50,170000,1,Piso ,https://www.indomio.es/anuncios/95258719/,Moaña,Venta,,https://media.indomio.es/text/tel_95258719_f6888.jpg?k=54a9d8c51116c182449c3be8f5340ef4,3,Rúa Villa de Madrid
+824,1200000,2,Alquería ,https://www.indomio.es/anuncios/91587047/,Vigo,Venta,,https://media.indomio.es/text/tel_91587047_15f18.jpg?k=9f9032bc77dff822706fb843a0ae957f,4,Camiño de San Lourenzo
+549,298500,3,Casa adosada ,https://www.indomio.es/anuncios/94305211/,Cerdedo-Cotobade,Venta,,,5,Outeiro
+170,125000,2,Casa rústica,https://www.indomio.es/anuncios/94263531/,Bueu,Venta,,https://media.indomio.es/text/tel_94263531_a90c3.jpg?k=667e030c321a31880ce475b663845061,5, a reformar
+452,440000,3,Chalet ,https://www.indomio.es/anuncios/95266255/,Bueu,Venta,,,5,Meiro
+115,180000,2,Piso,https://www.indomio.es/anuncios/94770329/,Pontevedra,Venta,,https://media.indomio.es/text/tel_94770329_61f25.jpg?k=a94550a52d38e3d5ba09391752a02f9f,3,Rúa José Millán
+95,350000,2,Piso ,https://www.indomio.es/anuncios/95881301/,Sanxenxo,Venta,,https://media.indomio.es/text/tel_95881301_e692d.jpg?k=ffe860a22b2e5d57de6ba86a5cc3e2b0,3,Rúa Progreso
+400,400000,3,Chalet ,https://www.indomio.es/anuncios/90499655/,Barro,Venta,,,5,Faxil
+300,29000,,Casa rústica ,https://www.indomio.es/anuncios/92890831/,Agolada,Venta,,,,A Feira Nova
+115,135000,1,Dúplex ,https://www.indomio.es/anuncios/95930995/,Vila-rodona,Venta,,https://media.indomio.es/text/tel_95930995_2a003.jpg?k=13930abe4c4bf70b48fd6fdebf92a140,3,Avinguda Vila-Rodona
+153,197500,2,Edificio ,https://www.indomio.es/anuncios/95890875/,A Estrada,Venta,PROMOCIONES RAMALLOSA CINCO SL,https://media.indomio.es/text/tel_95890875_35a91.jpg?k=c600e7e061eb8616801f8c1a62a58b87,4,Avenida Fernando Conde
+92,92000,2,Piso ,https://www.indomio.es/anuncios/95149587/,Sarral,Venta,,https://media.indomio.es/text/tel_95149587_54dd0.jpg?k=2bf1452e4ca3fd134a77429be50bde79,4,Carrer Portell
+95,220000,2,Piso ,https://www.indomio.es/anuncios/96066561/,Vigo,Venta,,https://media.indomio.es/text/tel_96066561_6f9c6.jpg?k=882f2ce23e6df9602d81d9a15ebae716,2,Rúa Ignacio Grobas
+100,220000,2,Piso ,https://www.indomio.es/anuncios/94735187/,Vigo,Venta,,https://media.indomio.es/text/tel_94735187_c4cbe.jpg?k=613c5346602eb0d106370bbadb883be2,4,Calvario - Rúa da Gaivota
+70,75000,1,Piso ,https://www.indomio.es/anuncios/92691479/,Tortosa,Venta,,https://media.indomio.es/text/tel_92691479_d1560.jpg?k=c84f32e799d26b59335f9a47d4628f95,2,Carrer Barcelona
+276,212100,3,Casa adosada,https://www.indomio.es/anuncios/95112955/,Santa Oliva,Venta,,https://media.indomio.es/text/tel_95112955_dd146.jpg?k=1f3ca0ba3eb46fb43c90935f482ba69a,3,Carrer Nou
+178,236000,2,Casa pareada ,https://www.indomio.es/anuncios/85029883/,Sant Carles de la Ràpita,Venta,Juan José Hernández,https://media.indomio.es/text/tel_85029883_67a7c.jpg?k=4f95db060c881735d0fd9f18c759a731,4,Carrer Ramon das Neves
+110,147000,2,Piso ,https://www.indomio.es/anuncios/94916393/,Vigo,Venta,,https://media.indomio.es/text/tel_94916393_c5b8e.jpg?k=393bea2a0043e30e6a5b8eacd858c6cc,3,Travesía de Vigo-San Xoán - Travesía de Vigo
+879,400000,,Casa plurifamiliar ,https://www.indomio.es/anuncios/92655953/,Perafort,Venta,Julio Baudin Saez,https://media.indomio.es/text/tel_92655953_662cb.jpg?k=4b69b228d487bb558a9e30e8f09175be,,Carrer Joan Fuster
+108,178000,2,Piso ,https://www.indomio.es/anuncios/94843847/,Llorenç del Penedès,Venta,,https://media.indomio.es/text/tel_94843847_a569c.jpg?k=bac762e2cdbf5b2099a3c50d4564f83f,3,Carrer Pau Casals
+390,325000,3,Casa adosada ,https://www.indomio.es/anuncios/91085567/,La Selva del Camp,Venta,,https://media.indomio.es/text/tel_91085567_7e10d.jpg?k=62ff75370e567d47d217d5b0d4a2f69b,5,Carrer Ollers
+90,118000,2,Piso ,https://www.indomio.es/anuncios/93763033/,Tortosa,Venta,,,4,Avinguda de Barcelona
+170,450000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95296719/,Tarragona,Venta,,,5,Carrer de la Mare de Déu del Claustre
+90,90000,1,Piso ,https://www.indomio.es/anuncios/94902609/,Horta de Sant Joan,Venta,,https://media.indomio.es/text/tel_94902609_68536.jpg?k=540e086d3474d0d004df9dbc14e5904d,4,Carrer del Doctor Enguix
+110,83500,2,Casa adosada ,https://www.indomio.es/anuncios/91120841/,Tortosa,Venta,,,3,Carretera de Benifallet a Tortosa
+106,170000,2,Piso ,https://www.indomio.es/anuncios/94247047/,Salou,Venta,,https://media.indomio.es/text/tel_94247047_f0751.jpg?k=ca9ab8527489b51eafaff47756ea717c,3,Avinguda de Carles Buïgas
+190,575000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/95296691/,L'Ametlla de Mar,Venta,Mari angeles Garcia,https://media.indomio.es/text/tel_95296691_2b4e9.jpg?k=f92f441fc7685eafae685875dfc93abf,3,Avinguda tres Cales
+91,110000,1,Piso ,https://www.indomio.es/anuncios/90922427/,L'Ametlla de Mar,Venta,,,5,Carrer Jacint Verdaguer
+237,390000,3,Chalet ,https://www.indomio.es/anuncios/95076187/,Pontevedra,Venta,,https://media.indomio.es/text/tel_95076187_a5ea1.jpg?k=96dcd8518efd72353927aeda20af7981,5, nueva
+176,79000,3,Casa adosada ,https://www.indomio.es/anuncios/82766535/,Godall,Venta,,https://media.indomio.es/text/tel_82766535_bf9c2.jpg?k=050ef90cc16423f7ff821aac77bf7dcf,5,Carrer Molí
+132,32000,1,Casa adosada ,https://www.indomio.es/anuncios/91177849/,Godall,Venta,,,3,Carrer Víctor Pradera
+294,116500,3,Chalet ,https://www.indomio.es/anuncios/96004799/,Garcia,Venta,,,5,Carrer La Tornà
+97,240000,2,Casa adosada,https://www.indomio.es/anuncios/95447773/,L'Ametlla de Mar,Venta,,,3, Les Tres Cales
+250,84000,2,Casa plurifamiliar ,https://www.indomio.es/anuncios/95336391/,Mont-roig del Camp,Venta,,https://media.indomio.es/text/tel_95336391_ba8e6.jpg?k=053dc891ad45764e1b63c842e078ced2,5,Avinguda Verge de la Roca-San Miguel
+110,155000,2,Casa adosada ,https://www.indomio.es/anuncios/96206265/,El Molar (Tarragona),Venta,,https://media.indomio.es/text/tel_96206265_37363.jpg?k=483de9c9160fdf70715c49e289d16fed,4,Carrer del Camí Roig
+140,295000,3,Casa adosada ,https://www.indomio.es/anuncios/96077897/,Creixell,Venta,,,4,
+53,125000,1,Piso,https://www.indomio.es/anuncios/95195125/,Salou,Venta,,,2,Carrer del Nord
+110,179000,2,Piso ,https://www.indomio.es/anuncios/94384747/,Tarragona,Venta,,https://media.indomio.es/text/tel_94384747_7fc4e.jpg?k=02edae0b0b06e703ce5e99d20a6c2099,4,Carrer de Florenci Vives
+260,180000,2,Casa plurifamiliar ,https://www.indomio.es/anuncios/95580451/,Amposta,Venta,,https://media.indomio.es/text/tel_95580451_617f0.jpg?k=9ac3b118ec8798de1a4f11965e74b7a5,5,Carrer d'Amàlia
+200,380000,3,Casa adosada ,https://www.indomio.es/anuncios/94315667/,Cambrils,Venta,,https://media.indomio.es/text/tel_94315667_0662c.jpg?k=3c0db983a742a9cfba6dc7f214a4d438,3,Carrer Moscú
+244,625000,3,Casa adosada ,https://www.indomio.es/anuncios/94900169/,Urduliz,Venta,antonio sanchez trigueros,https://media.indomio.es/text/tel_94900169_42bfd.jpg?k=0168372dd9cb8dc9d46ff607a9772a6e,4,Calle Torre
+402,149000,2,Chalet ,https://www.indomio.es/anuncios/96149145/,El Vendrell,Venta,,https://media.indomio.es/text/tel_96149145_347ca.jpg?k=da2dbc4339500dbbe180038f43562244,3,Carrer Crepuscle
+110,255000,2,Dúplex ,https://www.indomio.es/anuncios/91794649/,Trapagaran,Venta,,,3,Calle Churruca
+75,135000,1,Piso ,https://www.indomio.es/anuncios/95518867/,Trapagaran,Venta,,https://media.indomio.es/text/tel_95518867_c1808.jpg?k=7c9b456775d96e659ed2930f83fec686,4,Grupo Alto Alday
+70,145000,1,Ático ,https://www.indomio.es/anuncios/94531665/,El Vendrell,Venta,,https://media.indomio.es/text/tel_94531665_22740.jpg?k=5cc378f657a88dc54e4c522850139bc7,3,Avinguda de Catalunya
+80,270000,2,Piso ,https://www.indomio.es/anuncios/92463841/,Santurtzi,Venta,,https://media.indomio.es/text/tel_92463841_57f2e.jpg?k=8cec15d7e87f0e8b7a05412dcc604ea1,2,Calle Itsasalde
+110,265000,1,Piso ,https://www.indomio.es/anuncios/91415749/,El Vendrell,Venta,,https://media.indomio.es/text/tel_91415749_d3918.jpg?k=fb76634545d084d82bfb1d843559fc47,3,Avinguda de Palfuriana
+420,690000,3,Chalet ,https://www.indomio.es/anuncios/95453529/,Plentzia,Venta,,https://media.indomio.es/text/tel_95453529_4cff0.jpg?k=73ac5c5f06b5c7ae28b16cb4fbdc516c,5,Barrio Isuskitza
+70,180000,1,Piso ,https://www.indomio.es/anuncios/95426067/,Cambrils,Venta,,https://media.indomio.es/text/tel_95426067_03a8b.jpg?k=2da0462773754be018ad90fa469c8fe2,2,Carrer Baronia
+103,209000,2,Piso,https://www.indomio.es/anuncios/95033313/,El Vendrell,Venta,,,3,Carrer Esparver
+65,192000,1,Piso ,https://www.indomio.es/anuncios/95743811/,Calafell,Venta,,,2, primera planta
+47,187000,1,Piso ,https://www.indomio.es/anuncios/94003129/,Muskiz,Venta,,,1,Bide Zaharra
+300,220000,3,Casa rústica ,https://www.indomio.es/anuncios/90675346/,Loiu,Venta,,,5,Calle Bizkaia
+92,312000,2,Piso ,https://www.indomio.es/anuncios/94992425/,Leioa,Venta,Oscar Garcia,https://media.indomio.es/text/tel_94992425_d8f69.jpg?k=e91826bec70a98babef34866769e88cc,3,Avenida Santa Ana
+77,179000,1,Piso ,https://www.indomio.es/anuncios/92464081/,Bilbao,Venta,,https://media.indomio.es/text/tel_92464081_6f794.jpg?k=22a6f34ac602c5c33148359baa45cf2f,2,Uribarri - Camino Vía Vieja de Lezama
+87,267500,2,Piso ,https://www.indomio.es/anuncios/96128609/,Bilbao,Venta,,https://media.indomio.es/text/tel_96128609_7dee3.jpg?k=b09a142cc942e37455fb8086da04e323,4,Ibaizabal-Abusu - Calle Zamácola
+78,192000,1,Piso ,https://www.indomio.es/anuncios/95945633/,Basauri,Venta,,https://media.indomio.es/text/tel_95945633_2c277.jpg?k=cd3767b26dcaa7b5f20bbebf8ae709e8,2,Avenida Agirre Lehendakaria
+70,40000,1,Casa adosada ,https://www.indomio.es/anuncios/94023507/,Vilasantar,Venta,,,3,Lugar Foro
+72,140000,1,Piso ,https://www.indomio.es/anuncios/92749667/,Calafell,Venta,,,3,Avinguda de Mossèn Jaume Soler
+500,400000,3,Casa unifamiliar,https://www.indomio.es/anuncios/94515227/,Teo,Venta,,,5,Mazas
+200,50000,2,Casa adosada,https://www.indomio.es/anuncios/91152505/,Pontedeume,Venta,,,5,Rúa Porto
+75,159000,1,Piso ,https://www.indomio.es/anuncios/90400869/,Barakaldo,Venta,,,3, quinta planta
+180,516000,3,Casa unifamiliar,https://www.indomio.es/anuncios/95220801/,Ribeira,Venta,,,4,Rúa Norte
+270,385000,3,Chalet,https://www.indomio.es/anuncios/95068513/,Santiago de Compostela,Venta,,https://media.indomio.es/text/tel_95068513_35dc4.jpg?k=dffb3ceefd70bed6ca7a35febc9473d5,4, Campus Sur-Toxeira de San Lourenzo
+100,167000,2,Piso ,https://www.indomio.es/anuncios/93976991/,Pontedeume,Venta,,https://media.indomio.es/text/tel_93976991_5751b.jpg?k=62447d58f3c54c166d83f62974e4cd4d,4,Rúa Fontenova
+2500,120000,,Casa unifamiliar ,https://www.indomio.es/anuncios/95939101/,Pontedeume,Venta,,https://media.indomio.es/text/tel_95939101_96532.jpg?k=4c1dfd5cbfdc52a1dd667287dc247e67,,A Graña
+213,250000,2,Casa rústica ,https://www.indomio.es/anuncios/91014567/,Ortigueira,Venta,,,4,Susaído
+100,130000,1,Casa rústica ,https://www.indomio.es/anuncios/95039561/,O Pino,Venta,,https://media.indomio.es/text/tel_95039561_50858.jpg?k=a2bcc472e157efdbf99c986fd086a1e3,3,San Migueliño
+188,495000,3,Chalet ,https://www.indomio.es/anuncios/94463359/,Ribeira,Venta,,https://media.indomio.es/text/tel_94463359_7f205.jpg?k=625adcb40090a67512be832807159288,3,Rúa Norte
+115,160000,2,Piso ,https://www.indomio.es/anuncios/95281839/,Noia,Venta,,,4,Rúa Fray Luis Rodríguez
+237,420000,2,Casa unifamiliar,https://www.indomio.es/anuncios/95226813/,Porto Do Son,Venta,,,3,Parada
+592,399500,3,Casa unifamiliar ,https://www.indomio.es/anuncios/94998369/,Noia,Venta,,https://media.indomio.es/text/tel_94998369_8adc4.jpg?k=0dfcf60cfdb99265fbfc88bd6d9e18dd,5,AC-550
+140,98000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/88961093/,Moeche,Venta,,,2,A Igrexa
+120,165000,1,Piso ,https://www.indomio.es/anuncios/94743455/,Santiago de Compostela,Venta,,https://media.indomio.es/text/tel_94743455_0e03d.jpg?k=6c576ce1f8e0352c5afb61241884f36f,,Praza Nosa Señora da Merced de Conxo
+65,78700,1,Piso ,https://www.indomio.es/anuncios/93594153/,Fisterra,Venta,,https://media.indomio.es/text/tel_93594153_318df.jpg?k=c6d3434a29827677d97007b8a92ff1a6,2,Lugar Anchoa
+160,158400,2,Piso ,https://www.indomio.es/anuncios/92527023/,Fisterra,Venta,,,5,Rúa Ara Solís
+250,120000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/92888613/,Fene,Venta,Sonia Lopez Marcote,https://media.indomio.es/text/tel_92888613_0f3e3.jpg?k=7434f3ea59200603b7bb3cea83ad1ea0,4,Estrada do Peirao
+310,200000,2,Casa rústica ,https://www.indomio.es/anuncios/95881541/,Curtis,Venta,Carlos G.,https://media.indomio.es/text/tel_95881541_884e9.jpg?k=0526a2c8c60210e776ae87c609ae7ecc,5,Cencasas
+161,275000,1,Chalet ,https://www.indomio.es/anuncios/96202505/,Culleredo,Venta,,,5,Rúa O Campo
+90,65000,1,Piso ,https://www.indomio.es/anuncios/96202605/,Fene,Venta,,https://media.indomio.es/text/tel_96202605_d41b7.jpg?k=97bfe8b3f793b71fdb50fd943d65e2a7,4,Rúa Olmeiros
+500,350000,2,Casa rústica ,https://www.indomio.es/anuncios/91300653/,Corcubión,Venta,,,5,Praza Párroco Francisco Sánchez
+1000,350000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/95590639/,Miño,Venta,Juan Perez ,https://media.indomio.es/text/tel_95590639_7610b.jpg?k=a77e92b619d2395999de71698ad6fd10,5,Rúa A Carreira
+200,127000,2,Casa rústica ,https://www.indomio.es/anuncios/94776783/,Cerdido,Venta,,https://media.indomio.es/text/tel_94776783_63a25.jpg?k=2833768a9b3b80813ff500481d3d7582,4,Xiao
+90,422000,2,Piso ,https://www.indomio.es/anuncios/93735059/,Bilbao,Venta,,,4,Errekaldeberri-Larraskitu
+60,65000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95791621/,Cerdido,Venta,,https://media.indomio.es/text/tel_95791621_a28db.jpg?k=8714e644549c5174a0cbd2141a9f55f4,3,Lugar Felgosas
+160,220000,1,Casa unifamiliar,https://www.indomio.es/anuncios/95812389/,Cariño,Venta,,https://media.indomio.es/text/tel_95812389_f393f.jpg?k=80a0e84b84d92bcee1777a7b3865aecb,4,Rúa Balbís
+80,130000,1,Casa adosada ,https://www.indomio.es/anuncios/95783713/,Cabana de Bergantiños,Venta,,,2,Sinde
+420,220000,2,Chalet ,https://www.indomio.es/anuncios/95953031/,Cedeira,Venta,,,5,Cordobelas
+144,39000,,Casa adosada ,https://www.indomio.es/anuncios/95896997/,As Somozas,Venta,,,5,Cabalar
+350,389900,3,Chalet ,https://www.indomio.es/anuncios/94491905/,Bergondo,Venta,,https://media.indomio.es/text/tel_94491905_e542b.jpg?k=53ba23f7e95ca9f6aaa2da1ff7f11458,5,Estrada de Casal a San Isidro
+255,56000,1,Casa rústica,https://www.indomio.es/anuncios/91610343/,As Somozas,Venta,,,4,O Freixeiro
+175,165000,1,Piso ,https://www.indomio.es/anuncios/95085951/,Boiro,Venta,,https://media.indomio.es/text/tel_95085951_7368b.jpg?k=b01b50e14f63d3f4577116eace165fde,2,Avenida Barraña
+150,130000,2,Piso ,https://www.indomio.es/anuncios/95393411/,Boiro,Venta,,https://media.indomio.es/text/tel_95393411_9a8fb.jpg?k=faf54bf0c24d013017623c31cae6d2ef,2,Lugar Escarabote
+349,410000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/94809577/,Arteixo,Venta,,https://media.indomio.es/text/tel_94809577_28d0d.jpg?k=42aba0ca8c8b1aafe6f521f5a2a852f8,5,Branquenza
+76,135000,2,Piso ,https://www.indomio.es/anuncios/94884975/,Ares,Venta,,,3,Rúa Concepción Arenal
+64,183000,1,Piso ,https://www.indomio.es/anuncios/96170895/,A Coruña,Venta,,https://media.indomio.es/text/tel_96170895_3fec3.jpg?k=1813438f95bc00797fd72d14094c854a,2,Calle Atocha Alta
+144,315000,2,Piso ,https://www.indomio.es/anuncios/95276473/,Melilla,Venta,,https://media.indomio.es/text/tel_95276473_002ea.jpg?k=dd3dff175d6e759fb97f16c27549f347,4,Calle Gurugú
+75,215000,1,Piso ,https://www.indomio.es/anuncios/78215333/,Melilla,Venta,,https://media.indomio.es/text/tel_78215333_29e58.jpg?k=bec6e5df73547b3026ad0ec6a064cf1b,3,Paseo Marítimo Alcalde Rafael Ginel
+300,649000,,Chalet ,https://www.indomio.es/anuncios/91743859/,Yaiza,Venta,,https://media.indomio.es/text/tel_91743859_0cbdf.jpg?k=b5c4fc8ecd6e208e26773021e7220b37,4,Calle Noruega
+220,70000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/92344367/,Villanueva del Arzobispo,Venta,,,5,Calle Palma
+86,108000,1,Piso ,https://www.indomio.es/anuncios/95756561/,A Coruña,Venta,,https://media.indomio.es/text/tel_95756561_587b0.jpg?k=cbc9cf5119110d6efece2687933e4565,3,Rúa Monte das Moas
+110,290000,2,Piso ,https://www.indomio.es/anuncios/96199287/,A Coruña,Venta,,https://media.indomio.es/text/tel_96199287_191d5.jpg?k=01eb5eb61e1c932f565f371a3b682e47,3,Avenida Joaquín Planells Riera
+360,190000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/96202447/,Quiroga,Venta,,https://media.indomio.es/text/tel_96202447_b5489.jpg?k=06771dd5afa385c1f8ae86a8b3439aee,4,Rúa do Caurel
+90,225000,2,Dúplex ,https://www.indomio.es/anuncios/95430237/,Yaiza,Venta,,https://media.indomio.es/text/tel_95430237_72447.jpg?k=5b9823846cbc30a7bb69f1a81d6c1fe4,2,Calle Islandia
+174,40000,,Casa rústica,https://www.indomio.es/anuncios/94348893/,Villasabariego,Venta,,https://media.indomio.es/text/tel_94348893_bd5ea.jpg?k=77d9d483e40945aedeacd539bbd72920,2,Carretera Castrillo
+330,390000,2,Casa rústica ,https://www.indomio.es/anuncios/90623447/,Odieta,Venta,,https://media.indomio.es/text/tel_90623447_ac412.jpg?k=6be618e97b01506b7511702270f26cb5,4,Calle San Juan
+160,296000,2,Ático ,https://www.indomio.es/anuncios/95766897/,Melilla,Venta,,,4,Calle Doctor Juan Ríos García
+87,179000,1,Piso ,https://www.indomio.es/anuncios/92422379/,A Coruña,Venta,,,5,Rúa Ramón Menéndez Pidal
+95,150000,2,Casa adosada ,https://www.indomio.es/anuncios/93657761/,Melilla,Venta,,https://media.indomio.es/text/tel_93657761_8b8a0.jpg?k=253f5d65949040f9c0237e418eade4fc,4,Calle Bolivia
+93,180000,1,Piso ,https://www.indomio.es/anuncios/95805557/,Tudela,Venta,,https://media.indomio.es/text/tel_95805557_8dd0b.jpg?k=94ed31b23c10f1349f23c408d191bda3,3,Carretera de Alfaro
+115,110000,1,Casa rústica ,https://www.indomio.es/anuncios/82628843/,Alfaro,Venta,,,3,Avenida de la Rioja
+225,350000,3,Casa rústica ,https://www.indomio.es/anuncios/94053241/,Villacarrillo,Venta,,,5,Acceso Cortijo Aguascebas
+90,171000,2,Piso ,https://www.indomio.es/anuncios/92294379/,A Coruña,Venta,,https://media.indomio.es/text/tel_92294379_70710.jpg?k=04d90c8ca8c6876bec8440e6b5d699d1,3,Rúa Francisco Catoira
+360,118000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/93065273/,Mendavia,Venta,,,5,Calle San Felices
+130,60000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/94444573/,Vilches,Venta,,https://media.indomio.es/text/tel_94444573_3026e.jpg?k=cbc6f7f24eee890919eb515c93c9d493,3,Calle Bailén
+114,240000,2,Piso ,https://www.indomio.es/anuncios/96011449/,Villava - Atarrabia,Venta,Sergio López Zaro,https://media.indomio.es/text/tel_96011449_cfc66.jpg?k=a8aea407e5a5bb871fb22e678c9dbdf7,3,Calle Capanaburua
+101,105000,2,Piso ,https://www.indomio.es/anuncios/91774079/,Torredelcampo,Venta,,https://media.indomio.es/text/tel_91774079_a66f9.jpg?k=99e3dc9b916f428193b48e4bdfcf79f7,3,Calle Torrecillas
+460,180000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/93895991/,Torreblascopedro,Venta,,https://media.indomio.es/text/tel_93895991_5f2ba.jpg?k=0c7af2e71681b95df2ab56a208be5a45,5,Calle Jaén
+160,285000,3,Ático ,https://www.indomio.es/anuncios/79483119/,Ferrol,Venta,Maria de la O,,5,Rúa Doutor Rey Romalde
+55,120000,1,Casa pareada ,https://www.indomio.es/anuncios/93988637/,Viveiro,Venta,,https://media.indomio.es/text/tel_93988637_0d168.jpg?k=50a29a63bd6dd3d4f9f068b4d3954ebd,5,A Igrexa-Galdo
+65,95000,1,Piso ,https://www.indomio.es/anuncios/96125521/,Sarria,Venta,,https://media.indomio.es/text/tel_96125521_68ebf.jpg?k=0a90064b8bbbf7a01d94c4888f347cbd,2,Rúa Castelao
+95,35000,1,Casa unifamiliar,https://www.indomio.es/anuncios/95876921/,Torreblascopedro,Venta,,https://media.indomio.es/text/tel_95876921_84a9a.jpg?k=5e41b5be48fd46a03f5fbf667e095bb4,5,Camino de Torreblascopedro
+101,245000,2,Piso ,https://www.indomio.es/anuncios/91976461/,Bilbao,Venta,,https://media.indomio.es/text/tel_91976461_c38e9.jpg?k=2d44576f7bc7a508be567139666fad56,3,Txurdinaga - Calle Fernando Jiménez Miembro DYA
+140,120000,2,Piso ,https://www.indomio.es/anuncios/94858115/,Úbeda,Venta,,,5,Carretera de Vilches
+115,178000,2,Piso ,https://www.indomio.es/anuncios/90537829/,Torredelcampo,Venta,,,5,Calle Rocío Jurado
+400,150000,2,Edificio ,https://www.indomio.es/anuncios/92176369/,Torredelcampo,Venta,,,5,Avenida de la Constitución
+98,100000,2,Piso,https://www.indomio.es/anuncios/92890817/,Torredelcampo,Venta,,,4,Calle Veintiocho de Febrero
+140,68000,2,Piso ,https://www.indomio.es/anuncios/96106511/,Torredelcampo,Venta,,https://media.indomio.es/text/tel_96106511_6bf74.jpg?k=90056c57de5c478419d92a3506b6103c,4,Calle Núñez de Balboa
+506,65000,,Casa unifamiliar ,https://www.indomio.es/anuncios/90295375/,Navascués,Venta,,https://media.indomio.es/text/tel_90295375_c622c.jpg?k=11d8511bb8cb15aa54e5c66bb7d37c02,1,Calle San Salvador
+175,27500,1,Casa unifamiliar ,https://www.indomio.es/anuncios/95331659/,Los Villares,Venta,,https://media.indomio.es/text/tel_95331659_a93b4.jpg?k=0da2fc7374380fb5ae1d0fb7ff4ce83f,5,Calle Obispo
+56,112000,2,Dúplex ,https://www.indomio.es/anuncios/96187945/,Villamediana de Iregua,Venta,,,1,Calle la Fragua
+130,150000,3,Dúplex ,https://www.indomio.es/anuncios/95285367/,Los Villares,Venta,,https://media.indomio.es/text/tel_95285367_8ca52.jpg?k=9e5142f317bea9cba9cec729d1b0da56,3,Calle La Pandera
+185,125000,2,Piso ,https://www.indomio.es/anuncios/84778875/,Burela,Venta,,https://media.indomio.es/text/tel_84778875_7bddf.jpg?k=471c0461d141a62fa8097ee0932300a6,4,Rúa do Río
+85,210000,2,Piso ,https://www.indomio.es/anuncios/95424015/,Logroño,Venta,,,3,Calle Padre Claret
+90,127000,1,Piso ,https://www.indomio.es/anuncios/92712685/,Alfaro,Venta,,,3,Avenida de la Vía
+80,149000,1,Piso ,https://www.indomio.es/anuncios/95379515/,Jaén,Venta,,https://media.indomio.es/text/tel_95379515_81c8d.jpg?k=7d63fbb8392fea7b73b81555be59f5a9,3,Avenida de Granada
+122,50000,1,Piso,https://www.indomio.es/anuncios/91521277/,La Carolina,Venta,,,4,Calle Turriegel
+256,300000,2,Chalet ,https://www.indomio.es/anuncios/93997353/,Sajazarra,Venta,,https://media.indomio.es/text/tel_93997353_df513.jpg?k=6c9229a40f1bbf7766a56cbbf665c3e6,5,Sajazarra
+175,120000,1,Chalet ,https://www.indomio.es/anuncios/94921505/,Guarromán,Venta,,,4,Autovía del Sur
+69,125000,1,Piso ,https://www.indomio.es/anuncios/95159363/,Navarrete,Venta,,https://media.indomio.es/text/tel_95159363_b66f9.jpg?k=3e0ad5c0a291d0df9df58909f05da6eb,3,Calle San Llorente
+180,90000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95053413/,Castillo de Locubín,Venta,,https://media.indomio.es/text/tel_95053413_c7eb8.jpg?k=7df7d64f3aea46024e796b353ed4cdac,5,Calle Cervantes
+196,211000,2,Piso ,https://www.indomio.es/anuncios/94971569/,Cazorla,Venta,,https://media.indomio.es/text/tel_94971569_a484d.jpg?k=97270742f5774b4e67b1239beef0ef4a,5,Avenida del Guadalquivir
+85,76500,1,Piso ,https://www.indomio.es/anuncios/94147767/,Cazorla,Venta,,,2,Calle Mariano Segura
+115,250000,2,Piso ,https://www.indomio.es/anuncios/94022229/,Barañáin - Barañain,Venta,,,3,Avenida Central
+369,190000,2,Casa rústica ,https://www.indomio.es/anuncios/94820805/,Castellar,Venta,,https://media.indomio.es/text/tel_94820805_9df37.jpg?k=6c23ae8adb2e7acba73dbf7c367c253c,5,Calle Campanas
+220,79000,3,Casa adosada ,https://www.indomio.es/anuncios/95178505/,Lodosa,Venta,,https://media.indomio.es/text/tel_95178505_7e87a.jpg?k=48e7a49ab312770539b1a6a4d38266db,5,Calle Jeremías
+120,89800,2,Piso ,https://www.indomio.es/anuncios/94285011/,Sarria,Venta,,https://media.indomio.es/text/tel_94285011_d7a13.jpg?k=6fd04b20a6b4b61832ebe6d8fb777e29,4,Rúa Diego Pazos
+350,254500,3,Casa unifamiliar ,https://www.indomio.es/anuncios/94251007/,Alcalá La Real,Venta,,,5,Calle Alférez Utrilla
+220,250000,2,Chalet ,https://www.indomio.es/anuncios/95031939/,Alcalá La Real,Venta,,https://media.indomio.es/text/tel_95031939_1f0f9.jpg?k=6e2d321eb82e0bfa1911cd4f26a4ba2e,5,Calle Duque de Ahumada
+180,230000,3,Chalet ,https://www.indomio.es/anuncios/94728525/,Alcalá La Real,Venta,,https://media.indomio.es/text/tel_94728525_dde6b.jpg?k=d434a30ef603ad5fb6925454a366bef3,4,Carretera Las Grajeras
+126,79900,2,Piso ,https://www.indomio.es/anuncios/90499665/,Linares,Venta,,,5,"Calle Conde Romanones ""del Pilar"""
+60,79900,1,Piso ,https://www.indomio.es/anuncios/95165521/,Alcaudete,Venta,,https://media.indomio.es/text/tel_95165521_89a30.jpg?k=d7e71fa2d8ded407e4a417da8259d940,2, segunda planta
+75,95000,2,Piso ,https://www.indomio.es/anuncios/93869807/,Baeza,Venta,,https://media.indomio.es/text/tel_93869807_49271.jpg?k=7fa33bc1918be498bfe111e4900217b3,2,Callejón de Ochoa
+50,65000,1,Piso,https://www.indomio.es/anuncios/96187809/,Cervo,Venta,,https://media.indomio.es/text/tel_96187809_02519.jpg?k=50cb85e0e3ef7942edd3dbf2cc5e3f0f,2,Rúa Manuel Antonio
+200,296000,2,Casa rústica,https://www.indomio.es/anuncios/92716339/,Andújar,Venta,,https://media.indomio.es/text/tel_92716339_643a3.jpg?k=d25637c9e95c4bf213f88ad8b04811ea,5,Carretera de Andújar a Torredonjimeno
+110,160000,2,Casa rústica ,https://www.indomio.es/anuncios/91523743/,Andújar,Venta,,https://media.indomio.es/text/tel_91523743_8155b.jpg?k=3897369b5a80aa377609491208e5d976,4,La Alcaparrosa
+45,79000,1,Piso ,https://www.indomio.es/anuncios/95249037/,Jaén,Venta,,https://media.indomio.es/text/tel_95249037_6bcc8.jpg?k=bedc398aaa57afdc05ad10c8013a4312,1,Calle de Hurtado
+130,120000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/90860527/,Teror,Venta,,,5,Calle Maestro Tejera
+190,380000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/94819721/,Tinajo,Venta,,https://media.indomio.es/text/tel_94819721_7e2a6.jpg?k=2749617cea318c426b17526c23237ba8,4,Carretera La Vegueta
+302,244000,2,Casa adosada ,https://www.indomio.es/anuncios/94087187/,Jaén,Venta,,,5,Carretera de Jabalcuz
+3700,375000,1,Casa pareada ,https://www.indomio.es/anuncios/95068519/,Tinajo,Venta,Mahima  Lahrani,https://media.indomio.es/text/tel_95068519_00111.jpg?k=42db9fd50a954126e09bc207c374f12b,1,Calle Arado
+106,156000,1,Piso ,https://www.indomio.es/anuncios/95112927/,Santa Lucía de Tirajana,Venta,,https://media.indomio.es/text/tel_95112927_a1438.jpg?k=e778abdb80fce007525dba293c3cf3fa,3,Calle Fagagesto
+84,29000,,Casa rústica ,https://www.indomio.es/anuncios/95970061/,A Pontenova,Venta,,,,A Pontenova
+150,125000,,Casa rústica ,https://www.indomio.es/anuncios/93923421/,Telde,Venta,,https://media.indomio.es/text/tel_93923421_e0659.jpg?k=137efc1f1d27a232c1583d0f060f92a6,3,El Palmital Bajo
+85,110000,2,Piso ,https://www.indomio.es/anuncios/89424363/,Linares,Venta,,,3,Calle Úbeda
+145,325000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/94873267/,Pájara,Venta,Martin Schumacher,,5,
+70,179000,1,Piso ,https://www.indomio.es/anuncios/93825599/,Mogán,Venta,,,1, tercera planta
+75,125000,1,Piso ,https://www.indomio.es/anuncios/96042633/,Tafalla,Venta,,,2,Avenida Baja Navarra
+450,275000,2,Casa pareada ,https://www.indomio.es/anuncios/95263181/,Valle de Yerri - Deierri,Venta,,,5,Calle Lizarraga
+120,380000,2,Piso ,https://www.indomio.es/anuncios/94213849/,Pamplona - Iruña,Venta,,,4,Calle de Esquíroz
+57,203000,1,Piso ,https://www.indomio.es/anuncios/93626947/,Pájara,Venta,,https://media.indomio.es/text/tel_93626947_a774a.jpg?k=820328c80e1d86e42e3f58fb34432abf,2,Calle Verodes
+55,120000,1,Piso ,https://www.indomio.es/anuncios/93491791/,Puerto del Rosario,Venta,,https://media.indomio.es/text/tel_93491791_f443e.jpg?k=a3ea85f02e37c6d8650df1cccb659a9f,2,Calle Juan Domínguez Peña
+82,63500,1,Casa adosada ,https://www.indomio.es/anuncios/95506499/,San Asensio,Venta,,https://media.indomio.es/text/tel_95506499_9a057.jpg?k=e9fd7fafa1cb69403ff4b806a9932d5d,3,Calle Eras del Pilar
+40,182000,1,Piso ,https://www.indomio.es/anuncios/95851837/,San Bartolomé de Tirajana,Venta,,https://media.indomio.es/text/tel_95851837_2f393.jpg?k=5fa2b7c7f9a9e8598f4008fe3c7f562f,1,Avenida de Tirajana
+68,230000,2,Edificio,https://www.indomio.es/anuncios/93914951/,Telde,Venta,,,3,
+55,67000,1,Piso ,https://www.indomio.es/anuncios/93714463/,Mogán,Venta,,https://media.indomio.es/text/tel_93714463_addd9.jpg?k=d05d50b40218f7d47637889d3a22a02a,2,Calle Isla de Lobos
+113,380000,2,Piso ,https://www.indomio.es/anuncios/95060237/,Las Palmas de Gran Canaria,Venta,JESUS RIVERO SUAREZ,https://media.indomio.es/text/tel_95060237_0b959.jpg?k=d41cf5533276a63dd07e4dc80f601d06,3,Avenida Juan XXIII
+100,250000,2,Piso ,https://www.indomio.es/anuncios/96233585/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_96233585_1b6ed.jpg?k=f371c40806e30b9c7fe23ea0f8d14636,3,Calle Ripoche
+80,170000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/96067017/,Santa Brígida,Venta,,https://media.indomio.es/text/tel_96067017_d4029.jpg?k=5cfccb1af45a920c089efab858ff3751,3,Calle Castelar
+90,150000,1,Ático ,https://www.indomio.es/anuncios/95916989/,Águilas,Venta,,https://media.indomio.es/text/tel_95916989_744f3.jpg?k=053048f491a8d8b8285db49e8cbefe66,3,Calle San Pascual
+178,365000,3,Casa adosada ,https://www.indomio.es/anuncios/95356163/,Foz,Venta,,,4,Rúa Lousada
+120,70000,2,Piso ,https://www.indomio.es/anuncios/90456713/,Monforte de Lemos,Venta,,https://media.indomio.es/text/tel_90456713_ace04.jpg?k=a0e52278599a0ecb6f5874a121450220,5,Rúa Vilanova
+70,165000,1,Piso ,https://www.indomio.es/anuncios/92661623/,Las Palmas de Gran Canaria,Venta,,,2,Calle Virgen del Pilar
+310,200000,3,Casa adosada ,https://www.indomio.es/anuncios/94652871/,La Aldea de San Nicolás,Venta,,https://media.indomio.es/text/tel_94652871_ac5b3.jpg?k=a7112b150b99b120ae702df00df8466f,5,Calle Real
+100,179890,2,Piso ,https://www.indomio.es/anuncios/93587259/,Tudela,Venta,,https://media.indomio.es/text/tel_93587259_6e31e.jpg?k=76102e2b0868316b819b37d11d405d1b,3,Calle Cascante
+210,548000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/92997821/,La Oliva,Venta,,https://media.indomio.es/text/tel_92997821_312de.jpg?k=aab6a18a2deb89e9e7bde5b50c07f8ea,5,Calle Hotel Tres Islas
+60,180000,1,Apartamento en villa ,https://www.indomio.es/anuncios/95764727/,San Bartolomé de Tirajana,Venta,,https://media.indomio.es/text/tel_95764727_f8649.jpg?k=bf03e8c957be95d032fc776c670aef36,1,Calle de la Gloria
+70,48000,1,Piso ,https://www.indomio.es/anuncios/92267363/,Lugo,Venta,,https://media.indomio.es/text/tel_92267363_41af7.jpg?k=3d933ea67827e6881ee36985409085a4,2,Rúa Doutor Yáñez Rebolo
+52,92000,1,Piso ,https://www.indomio.es/anuncios/95858645/,Ingenio,Venta,,https://media.indomio.es/text/tel_95858645_f79c2.jpg?k=4d19336ad9b145a4dd543aa2589e77fd,1,Calle Arcipreste de Hita
+106,175000,2,Ático ,https://www.indomio.es/anuncios/96004469/,Puerto del Rosario,Venta,,,4,Avenida Manuel Velázquez Cabrera
+440,325000,2,Edificio ,https://www.indomio.es/anuncios/96206135/,Cervo,Venta,,,5,CP-1505
+40,145000,1,Casa adosada ,https://www.indomio.es/anuncios/96206113/,Antigua,Venta,,https://media.indomio.es/text/tel_96206113_306c3.jpg?k=7ceb5feacd94b31b581a659be5189cce,2,Calle Espino
+516,960000,3,Casa adosada ,https://www.indomio.es/anuncios/93674093/,San Bartolomé de Tirajana,Venta,,https://media.indomio.es/text/tel_93674093_17945.jpg?k=8cbb481ea6fa02962ab7e9ced2101273,5,Calle Tomás Morales
+112,97000,2,Casa pareada ,https://www.indomio.es/anuncios/95119933/,Jaén,Venta,,,4,Travesía Peñuelas
+75,180000,2,Piso ,https://www.indomio.es/anuncios/92999473/,Barreiros,Venta,,https://media.indomio.es/text/tel_92999473_052e1.jpg?k=a2226875ed216608b648b0a3174658ec,4,Paseo de Altar
+65,80000,1,Piso ,https://www.indomio.es/anuncios/93714301/,Foz,Venta,,https://media.indomio.es/text/tel_93714301_f6826.jpg?k=934ca2a9c076dbde7f3f31c003a6bd59,2,Rúa do Calvario
+142,156500,2,Casa adosada ,https://www.indomio.es/anuncios/91011415/,Puerto del Rosario,Venta,,,3,Plaza del Matorral
+200,230000,1,Chalet ,https://www.indomio.es/anuncios/93406855/,Jaén,Venta,,https://media.indomio.es/text/tel_93406855_18503.jpg?k=f9a26c784a35cb24deacbe1cce5c4e15,4,Carretera de Córdoba
+90,250000,2,Piso ,https://www.indomio.es/anuncios/91276241/,Pamplona - Iruña,Venta,Miguel Ángel Martínez Ramos,https://media.indomio.es/text/tel_91276241_490f5.jpg?k=122073004e238cf1ec9be27996c74933,4,Calle Padre Adoáin
+110,96000,2,Piso ,https://www.indomio.es/anuncios/96193031/,Sarria,Venta,,https://media.indomio.es/text/tel_96193031_fbf96.jpg?k=e9b78fea3eef0424630606169e9b0519,4,Rúa Benigno Quiroga
+245,39000,1,Casa rústica ,https://www.indomio.es/anuncios/92788163/,Taboada,Venta,,,3,O Curro
+260,116000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/92527019/,Viveiro,Venta,,,5,Rúa Santiago
+85,170000,2,Piso ,https://www.indomio.es/anuncios/92022227/,Arrecife,Venta,,https://media.indomio.es/text/tel_92022227_6016f.jpg?k=ff62b218ed52c5e24f6a7e62b79ba0e2,5,Calle Ajey
+200,230000,3,Chalet ,https://www.indomio.es/anuncios/95931761/,Jaén,Venta,,,5,JA-3209
+80,130000,2,Piso ,https://www.indomio.es/anuncios/91008503/,Águilas,Venta,,https://media.indomio.es/text/tel_91008503_36d28.jpg?k=e403ced1c1d8ed5234f16280c194bca2,2,Calle Collados Zieschang
+130,145000,1,Ático,https://www.indomio.es/anuncios/95983241/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_95983241_3c3a0.jpg?k=429b6bf807cac6c9ba4980348ed73fb7,5,Calle Doña Perfecta
+500,162000,2,Casa rústica ,https://www.indomio.es/anuncios/95463663/,Herramélluri,Venta,,https://media.indomio.es/text/tel_95463663_7838e.jpg?k=80836aeebe8fbaf39ba836e65da7ec6b,4,Casa rústica
+65,90000,1,Piso ,https://www.indomio.es/anuncios/94347763/,Cuzcurrita de Río Tirón,Venta,,https://media.indomio.es/text/tel_94347763_84b2b.jpg?k=a92fb78e0fa36b8991c6040bf0736be5,3,Calle San Sebastián
+180,48500,1,Chalet ,https://www.indomio.es/anuncios/96004899/,Aguilar de Codés,Venta,,https://media.indomio.es/text/tel_96004899_11411.jpg?k=f280e1bdbe776a9bce4df30c511f57ba,5,Calle Mayor
+71,145000,1,Piso ,https://www.indomio.es/anuncios/95801369/,La Oliva,Venta,,https://media.indomio.es/text/tel_95801369_1f18d.jpg?k=62ed4d36d94d7a32f3464c210bcd5686,3,Calle Los Pedruscos
+200,96000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/96171575/,Villarejo de Órbigo,Venta,,https://media.indomio.es/text/tel_96171575_b27bf.jpg?k=5908d9beb051a2f63506f799b5cd3c45,5,Calle Real
+780,375000,,Edificio,https://www.indomio.es/anuncios/95812433/,Villaquilambre,Venta,,,,LE-311
+105,67000,2,Piso ,https://www.indomio.es/anuncios/96202457/,Lugo,Venta,,https://media.indomio.es/text/tel_96202457_367ac.jpg?k=806aa6267ac126c9c26603ab139caf81,5,Rúa Lamas de Prado
+65,319000,1,Piso ,https://www.indomio.es/anuncios/96078001/,San Bartolomé de Tirajana,Venta,,https://media.indomio.es/text/tel_96078001_1bee4.jpg?k=4553139adfdedc2cc2b0844c9aa33ec3,3,Calle San Cristóbal de la Laguna
+75,330000,1,Dúplex ,https://www.indomio.es/anuncios/94031483/,San Bartolomé de Tirajana,Venta,,https://media.indomio.es/text/tel_94031483_39658.jpg?k=5b6e577ffcc29f313b175dc9ec464d5c,2,Calle Einstein
+320,320000,2,Edificio ,https://www.indomio.es/anuncios/95249081/,Arrecife,Venta,,https://media.indomio.es/text/tel_95249081_67e66.jpg?k=a0439643cee276fb5ecf44d514a7c109,3,Calle León y Castillo
+117,187000,2,Piso ,https://www.indomio.es/anuncios/89206529/,Jaén,Venta,,,5,Calle de Fuente Buenora
+210,550000,2,Ático ,https://www.indomio.es/anuncios/76795313/,Las Palmas de Gran Canaria,Venta,,,5,Avenida Primero de Mayo
+230,86000,,Piso ,https://www.indomio.es/anuncios/92777135/,Navarrete,Venta,,,,Calle Mayor Alta
+285,115000,1,Casa unifamiliar,https://www.indomio.es/anuncios/93685999/,Villafranca del Bierzo,Venta,ELENA Garcia Docampo,,5,Calle Pico de Vica
+154,165000,3,Casa rústica ,https://www.indomio.es/anuncios/95983033/,Villafranca del Bierzo,Venta,,https://media.indomio.es/text/tel_95983033_047f5.jpg?k=c78b4aec16236e6ef5756fa0482ff202,5,Barrio de la Iglesia
+752,260000,3,Chalet ,https://www.indomio.es/anuncios/83472097/,Villagatón,Venta,,https://media.indomio.es/text/tel_83472097_230e4.jpg?k=6e53feeeebda9032cd8eaa19ee490227,5,Calle Carretera
+199,860000,,Casa adosada ,https://www.indomio.es/anuncios/94179991/,San Bartolomé de Tirajana,Venta,,,,Avenida Sargentos Provisionales
+277,660000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/93916123/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_93916123_1b328.jpg?k=a571aefa6b01512c905731b4f50d217f,5,Calle Domingo J. Navarro
+39,159000,1,Piso ,https://www.indomio.es/anuncios/96092875/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_96092875_7ed06.jpg?k=868116e40a7d09068d320dd50acab43a,1, sexta planta
+57,115000,1,Piso ,https://www.indomio.es/anuncios/96065793/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_96065793_95e0e.jpg?k=1fd36aad3cbae82843ed5363f992fdc7,2,Calle Orotava
+200,150000,2,Casa rústica ,https://www.indomio.es/anuncios/95263415/,Soto en Cameros,Venta,,https://media.indomio.es/text/tel_95263415_14bba.jpg?k=748213bd12962863130f30a78af05fc8,5,Calle La Fontana
+90,180000,2,Piso ,https://www.indomio.es/anuncios/94847823/,Lardero,Venta,,https://media.indomio.es/text/tel_94847823_13360.jpg?k=d5715a1c0b5f2a9c3f5dc87f73659546,3,Calle Río Duero
+288,265000,3,Casa adosada ,https://www.indomio.es/anuncios/94734905/,Valverde de La Virgen,Venta,,,4,Calle La Ermita
+300,41000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/95307909/,Valderrey,Venta,,https://media.indomio.es/text/tel_95307909_0e8f8.jpg?k=b331b816a3b1f3fb759c1dd4d8d59415,5,Calle Real
+253,499000,3,Chalet ,https://www.indomio.es/anuncios/90961723/,Las Palmas de Gran Canaria,Venta,Jose Luis Palacios Jimenez,https://media.indomio.es/text/tel_90961723_fe994.jpg?k=16377ae678a8807690ab98457bbe4476,5,Calle García del Castillo
+145,135000,2,Piso ,https://www.indomio.es/anuncios/94469231/,Linares,Venta,,https://media.indomio.es/text/tel_94469231_3bf11.jpg?k=7603939a5e1a0032f227f206358a753d,5,Calle Corredera de San Marcos
+323,165000,2,Casa rústica ,https://www.indomio.es/anuncios/95332715/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_95332715_e0201.jpg?k=905294dd073abc9248e9ce4f497b0cb5,5,Calle Puerto Rico
+107,240000,2,Piso ,https://www.indomio.es/anuncios/95296875/,Las Palmas de Gran Canaria,Venta,,https://media.indomio.es/text/tel_95296875_e9307.jpg?k=ce530c74ce2ed002d75d36dc1aa92c1e,5,Avenida José Mesa y López
+90,39000,2,Casa rústica ,https://www.indomio.es/anuncios/90172209/,Torre del Bierzo,Venta,,https://media.indomio.es/text/tel_90172209_ef995.jpg?k=39357fd0147711b686ca2bcf1e0e9d94,3,Calle Manuel Merayo Álvarez
+116,222000,2,Piso ,https://www.indomio.es/anuncios/95879177/,Las Palmas de Gran Canaria,Venta,,,3,Avenida Escaleritas
+86,100000,2,Piso,https://www.indomio.es/anuncios/95606611/,Valverde de La Virgen,Venta,,,2,Calle San Luis
+225,269000,2,Dúplex ,https://www.indomio.es/anuncios/93569775/,Jaén,Venta,,https://media.indomio.es/text/tel_93569775_04e91.jpg?k=ba15da7008e4a92d11cbd09c87952ef8,5,Calle Fuente del Alamillo
+115,110000,2,Piso ,https://www.indomio.es/anuncios/93851851/,Valencia de Don Juan,Venta,,,2,Calle de la Constitución
+118,150000,2,Piso ,https://www.indomio.es/anuncios/95480953/,Valverde de La Virgen,Venta,,https://media.indomio.es/text/tel_95480953_5e8b8.jpg?k=90be328ed50d40d2d4dcfb910ef9fa64,5,Calle La Basilica
+80,190000,1,Chalet ,https://www.indomio.es/anuncios/94992359/,Valdefresno,Venta,,,3,Calle La Cruz
+117,245000,2,Dúplex ,https://www.indomio.es/anuncios/93588185/,La Seu d'Urgell,Venta,,,3,Carretera de la Seu d'Urgell
+190,265000,2,Casa pareada ,https://www.indomio.es/anuncios/96128541/,Tàrrega,Venta,,,3,Avinguda de l'Ondara
+73,119000,2,Piso ,https://www.indomio.es/anuncios/92197135/,San Andrés del Rabanedo,Venta,,,2, primera planta
+130,215000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/93541713/,San Andrés del Rabanedo,Venta,,https://media.indomio.es/text/tel_93541713_96671.jpg?k=7b87a8090b1c701ae671734351cd56a6,4,Avenida de la Constitución
+141,150000,2,Piso ,https://www.indomio.es/anuncios/76804837/,San Andrés del Rabanedo,Venta,,https://media.indomio.es/text/tel_76804837_93bcd.jpg?k=622db36b99880210ee35e242f35e6db6,3,Calle Alfageme
+380,120000,1,Casa unifamiliar,https://www.indomio.es/anuncios/96233613/,San Andrés del Rabanedo,Venta,,https://media.indomio.es/text/tel_96233613_0128f.jpg?k=958175fd950d49324f35ca8ce855a2c6,3,Travesía del Caño
+100,60000,1,Casa rústica ,https://www.indomio.es/anuncios/93440839/,Matallana de Torío,Venta,,,5,Calle Orejón
+90,139000,2,Piso ,https://www.indomio.es/anuncios/95584655/,León,Venta,,,4,Calle Demetrio Monteserín
+86,95800,2,Piso,https://www.indomio.es/anuncios/91184003/,La Bañeza,Venta,,https://media.indomio.es/text/tel_91184003_cb654.jpg?k=cab79582a3b22ebbf178dd7dff7b76a2,3,Calle Juan Carlos I Rey
+70,44000,2,Piso ,https://www.indomio.es/anuncios/91184095/,La Bañeza,Venta,,https://media.indomio.es/text/tel_91184095_7ed3f.jpg?k=19c663c7ebf345ac8a438c16605f10a1,3,Calle Santa Joaquina Vedruna
+85,65000,1,Piso ,https://www.indomio.es/anuncios/95874923/,San Andrés del Rabanedo,Venta,,https://media.indomio.es/text/tel_95874923_22528.jpg?k=d07ff8f2b44a4e35d537a9a8a2e68f67,3,Calle Independencia
+680,300000,3,Casa rústica ,https://www.indomio.es/anuncios/94743509/,Nieva de Cameros,Venta,,https://media.indomio.es/text/tel_94743509_ac916.jpg?k=282013baee6182deb3836119c7ca86bf,5,Calle Luciano Bueno
+100,68000,1,Piso,https://www.indomio.es/anuncios/92319001/,Ponferrada,Venta,,https://media.indomio.es/text/tel_92319001_86222.jpg?k=ea3780fc7a400c48081a84c8fdbcc102,3,Calle Almendros
+107,138000,2,Piso ,https://www.indomio.es/anuncios/94044901/,León,Venta,,,5,Calle Padre Risco
+300,35000,1,Casa pareada ,https://www.indomio.es/anuncios/92749937/,Cervera del Río Alhama,Venta,,https://media.indomio.es/text/tel_92749937_7c0bc.jpg?k=7deaa10ac8df12135a4c80ec34e1effc,5,Calle Principal
+138,70000,,Casa rústica ,https://www.indomio.es/anuncios/93542989/,Ponferrada,Venta,,https://media.indomio.es/text/tel_93542989_66d91.jpg?k=56f62510d431d39dad10fddbd60adb3a,,Casa rústica
+80,136600,1,Piso ,https://www.indomio.es/anuncios/94977845/,Alfaro,Venta,mapilo MAPILO,https://media.indomio.es/text/tel_94977845_e71b5.jpg?k=4c1fe3a31ed9f6d8cc9383c30a7b437f,2,Calle Cuatro Reyes
+160,225000,2,Chalet,https://www.indomio.es/anuncios/95970093/,Cabrillanes,Venta,,,5,Calle de la Fragua
+160,225000,2,Chalet ,https://www.indomio.es/anuncios/95863377/,Cabrillanes,Venta,,,5,Calle de la Fragua
+490,420000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/96212687/,León,Venta,,https://media.indomio.es/text/tel_96212687_d24b6.jpg?k=b26b693359eaa7221a65026c1e7f47bf,5, Centro
+312,72000,2,Casa rústica ,https://www.indomio.es/anuncios/95773555/,Benavides,Venta,,https://media.indomio.es/text/tel_95773555_e6494.jpg?k=46a1e8f4a61d23e7f00c1359c75e07f5,5,Calle Don Felipe
+80,79000,2,Piso ,https://www.indomio.es/anuncios/91437451/,Camponaraya,Venta,,https://media.indomio.es/text/tel_91437451_911cf.jpg?k=d5648006df27a5b72287fa1e4234475d,3,Calle Brazal
+1029,400000,,Casa unifamiliar,https://www.indomio.es/anuncios/90256487/,Cacabelos,Venta,,https://media.indomio.es/text/tel_90256487_78b41.jpg?k=e4e1dcca340ce469d95b8a0d5c4ed722,,Avenida de la Constitución
+1200,255000,1,Casa rústica ,https://www.indomio.es/anuncios/76797401/,Fígols i Alinyà,Venta,,,4,L-401
+108,92000,1,Piso ,https://www.indomio.es/anuncios/91889629/,Astorga,Venta,,,3,Avenida la Estación
+107,65000,1,Piso,https://www.indomio.es/anuncios/96087755/,Astorga,Venta,,,3,Calle García Prieto
+392,260000,2,Casa rústica ,https://www.indomio.es/anuncios/94392727/,Alins,Venta,,https://media.indomio.es/text/tel_94392727_3d00f.jpg?k=645cf8d41d03b74007cc7e7e1a029259,5,Carrer Única
+86,80000,2,Piso ,https://www.indomio.es/anuncios/92422053/,Astorga,Venta,,https://media.indomio.es/text/tel_92422053_c9e03.jpg?k=44f7df0ad3f8047826ffbee1d166116e,4,Calle Palomar de la Bigarda
+150,47000,,Casa rústica,https://www.indomio.es/anuncios/90006915/,Bembibre,Venta,,https://media.indomio.es/text/tel_90006915_bd898.jpg?k=39846c45e3b1bfda9cc6dac219548548,5,N-VI
+300,80000,2,Caserío ,https://www.indomio.es/anuncios/92668851/,Bembibre,Venta,,https://media.indomio.es/text/tel_92668851_31f0d.jpg?k=60c313d39f47aff723a0c1d7a71493ce,5,Calle Alcalde Santiago Basanta
+250,255000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/95490469/,Álora,Venta,,https://media.indomio.es/text/tel_95490469_510e2.jpg?k=6dab767465202fa3d3ad44525022114a,5,Calle García Lorca
+300,124500,1,Casa rústica ,https://www.indomio.es/anuncios/96214845/,Villanueva del Trabuco,Venta,,https://media.indomio.es/text/tel_96214845_efb2e.jpg?k=c7ccf3654f4dfebf982b115a5f509244,5,Camino de Villanueva
+200,115000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/96004477/,Villanueva del Rosario,Venta,,https://media.indomio.es/text/tel_96004477_b3a18.jpg?k=d245b372732f4866b1133891a10e2532,3,Calle Fuente
+84,175000,1,Piso ,https://www.indomio.es/anuncios/96179659/,Vélez-Málaga,Venta,,https://media.indomio.es/text/tel_96179659_a2cdf.jpg?k=a5d74187e846adf0b4775d2734039e8e,3,Avenida de Andalucía
+123,70000,1,Casa rústica ,https://www.indomio.es/anuncios/95336123/,Teba,Venta,,https://media.indomio.es/text/tel_95336123_05f1d.jpg?k=ee71b2e0daf2a30f58cb8b839613f244,4,Calle Alta
+170,170000,2,Dúplex,https://www.indomio.es/anuncios/96175805/,Ponferrada,Venta,,https://media.indomio.es/text/tel_96175805_f05d3.jpg?k=a30280a414fe1ccc1560e5798bd43bec,4,Calle Ponferrada
+260,90000,2,Casa rústica ,https://www.indomio.es/anuncios/95097935/,Tolox,Venta,,,5,Calle Villa Alta
+142,147000,2,Piso ,https://www.indomio.es/anuncios/95097889/,Villanueva de Algaidas,Venta,,,5,Calle Halcón
+236,68000,1,Casa pareada ,https://www.indomio.es/anuncios/94365527/,Tolox,Venta,,,5,Calle Portillejo
+283,210000,2,Casa adosada,https://www.indomio.es/anuncios/92339289/,Tolox,Venta,,https://media.indomio.es/text/tel_92339289_23b13.jpg?k=95e42809a82c69b29c5fabe559e1189d,4,Camino Puerto Egido
+60,155000,1,Piso ,https://www.indomio.es/anuncios/91494653/,Torremolinos,Venta,,,1,Plaza de Antonio Machado
+50,79000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/92422305/,Vélez-Málaga,Venta,,,2,Centro - Calle Pintor Francisco Hernández
+102,145000,2,Piso ,https://www.indomio.es/anuncios/94067199/,Riogordo,Venta,,,3,Calle de la Iglesia
+430,258000,,Edificio ,https://www.indomio.es/anuncios/92001815/,Ponferrada,Venta,JAVIER MARQUES MTNZ,,,Calle Ramón González Alegre
+112,370000,2,Piso ,https://www.indomio.es/anuncios/96233419/,Vélez-Málaga,Venta,,https://media.indomio.es/text/tel_96233419_6f8b6.jpg?k=fab7ae2e0959daa8437971ccaba7a03b,3,Calle Carrera de las Agustinas
+75,199000,1,Piso,https://www.indomio.es/anuncios/95137943/,Ojén,Venta,,,3,Calle Miró
+107,112000,2,Piso ,https://www.indomio.es/anuncios/94266447/,Ronda,Venta,,,3,Avenida de la Legión Española
+86,183000,2,Piso,https://www.indomio.es/anuncios/95331695/,Ojén,Venta,,https://media.indomio.es/text/tel_95331695_48c57.jpg?k=fdb210c0e8d04ad24819239ef11d530b,2,Calle Azahar
+72,98000,1,Casa rústica ,https://www.indomio.es/anuncios/93617215/,Ronda,Venta,,https://media.indomio.es/text/tel_93617215_49243.jpg?k=494f2a8cc431cd19ef7f78c32908ce9c,1,A-374
+113,297000,2,Piso ,https://www.indomio.es/anuncios/95832251/,Torremolinos,Venta,,,4,Calle Cantarranas
+100,258000,2,Piso ,https://www.indomio.es/anuncios/93511699/,Rincón de la Victoria,Venta,,https://media.indomio.es/text/tel_93511699_331fd.jpg?k=aa219d710a0c88090331f3e13bf1dd0f,3,Calle Las Minas
+75,330000,1,Piso ,https://www.indomio.es/anuncios/91046973/,Torremolinos,Venta,,,2,Calle del Remo
+84,136000,1,Piso ,https://www.indomio.es/anuncios/94216071/,Lleida,Venta,,https://media.indomio.es/text/tel_94216071_9c1c9.jpg?k=65b972669fd18b39f19d6b97335441a7,3,Avinguda de l'Alcalde Rovira Roure
+130,55000,1,Piso,https://www.indomio.es/anuncios/91089173/,León,Venta,,https://media.indomio.es/text/tel_91089173_f3284.jpg?k=479451ce7331a7f7f2166da481f913ce,4,Autovía del Sur a León
+95,359000,2,Piso ,https://www.indomio.es/anuncios/95297181/,Torremolinos,Venta,,https://media.indomio.es/text/tel_95297181_7e292.jpg?k=8f8660c75b3b312f5cf9df17a1c4c7b0,2,Avenida Marifé de Triana
+96,150000,2,Casa adosada ,https://www.indomio.es/anuncios/91631361/,Montejaque,Venta,,,3,Calle Alcalde Antonio Guzmán López
+148,365000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/91717473/,Torremolinos,Venta,,,4,Calle del Bajondillo
+120,120000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/95515097/,Periana,Venta,,https://media.indomio.es/text/tel_95515097_7b077.jpg?k=b5ce638aa431d80452a382992b50d410,5,Calle Cerco
+66,198000,1,Piso ,https://www.indomio.es/anuncios/95594461/,Torremolinos,Venta,,https://media.indomio.es/text/tel_95594461_21bad.jpg?k=86162d00cf6a6ca82dfcc5285c92db35,1,Avenida de Benyamina
+90,82000,2,Piso ,https://www.indomio.es/anuncios/76806305/,Ronda,Venta,,,3,Calle Padre Francisco Piquier
+70,183000,1,Piso ,https://www.indomio.es/anuncios/76796971/,Rincón de la Victoria,Venta,,,2,Avenida de la Torre
+160,140000,,Casa pareada ,https://www.indomio.es/anuncios/94303155/,Monda,Venta,,https://media.indomio.es/text/tel_94303155_dba19.jpg?k=469821a4d65f66d7e5abf398d2a85136,,Calle Una Acera
+300,680000,2,Edificio ,https://www.indomio.es/anuncios/95240373/,Nerja,Venta,,,2,Calle Granada
+75,124900,2,Piso,https://www.indomio.es/anuncios/95997029/,León,Venta,,https://media.indomio.es/text/tel_95997029_6630e.jpg?k=e90b2845a4e05143c57fe29e2c516467,4,Travesía Cirujano Rodríguez
+66,130000,1,Piso ,https://www.indomio.es/anuncios/93958799/,León,Venta,,,1,Calle García I
+195,990000,3,Chalet ,https://www.indomio.es/anuncios/94453547/,Mijas,Venta,,https://media.indomio.es/text/tel_94453547_1ea40.jpg?k=2f08d939f391b5eabff89991f15ccd9b,4,Hipódromo-Cerrado del Águila - Avenida Águila Coronada
+160,190000,2,Piso,https://www.indomio.es/anuncios/94272169/,Ronda,Venta,,https://media.indomio.es/text/tel_94272169_4ce91.jpg?k=ac99fda3ef2d822dc634a8cef7ecebeb,5,Carrera Espinel
+70,32000,1,Piso ,https://www.indomio.es/anuncios/93106809/,Tàrrega,Venta,,https://media.indomio.es/text/tel_93106809_2ca8a.jpg?k=dd6366b5387c957a80a24c7fdea69d6e,3,Passatge de Sant Jordi
+60,197000,1,Piso ,https://www.indomio.es/anuncios/95285327/,Mijas,Venta,,https://media.indomio.es/text/tel_95285327_c5d05.jpg?k=da910e7d330c4e0b2df84e4cb5ad8db7,1,Calahonda - Calle El Pinar de Calypso
+200,350000,3,Dúplex ,https://www.indomio.es/anuncios/93898119/,Nerja,Venta,,https://media.indomio.es/text/tel_93898119_b65da.jpg?k=808f4929a669c711a3e57ffd53721c06,5,Calle Condal
+35,59900,1,Casa unifamiliar ,https://www.indomio.es/anuncios/91085309/,Mijas,Venta,,https://media.indomio.es/text/tel_91085309_d13c1.jpg?k=045b74b99ca90350152cc45ae9be22c3,2,Hipódromo-Cerrado del Águila - Urbanización Cerrado del Águila
+70,297999,2,Piso ,https://www.indomio.es/anuncios/95517033/,Mijas,Venta,,,3,Riviera del Sol-Miraflores - Avenida de Rota de Torrenueva
+70,140000,2,Piso ,https://www.indomio.es/anuncios/92257113/,La Vall de Boí,Venta,,,2,L-501
+470,1600000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/94348883/,Mijas,Venta,Alex Nizovskiyv,,5,Calahonda - Calle Badajoz de Jarales
+105,70000,1,Casa rústica ,https://www.indomio.es/anuncios/96179783/,La Vansa i Fórnols,Venta,Laura Baleta Farreras,https://media.indomio.es/text/tel_96179783_fbf48.jpg?k=7168894a9710b84f46f05c05c23f210a,2,Carrer del Mig
+1344,960000,3,Edificio ,https://www.indomio.es/anuncios/88994987/,Vélez-Málaga,Venta,,,3,Hispanidad-Vivar Téllez-Nuevas Urbanizaciones - Calle Francisco de Goya
+100,135000,1,Piso ,https://www.indomio.es/anuncios/94828785/,Lleida,Venta,,,3,Carrer Joan Miró
+250,350000,2,Piso,https://www.indomio.es/anuncios/95003569/,Torremolinos,Venta,,,4,Calle Conrado del Campo
+98,235000,2,Piso ,https://www.indomio.es/anuncios/95566547/,Mijas,Venta,,https://media.indomio.es/text/tel_95566547_ab4c4.jpg?k=ae34d269851faf4f080ad9ee9f5f691a,2,Riviera del Sol-Miraflores - Calle de Mijas
+231,560000,3,Casa adosada ,https://www.indomio.es/anuncios/92871615/,Mijas,Venta,,https://media.indomio.es/text/tel_92871615_b5ef9.jpg?k=d4608cd6216d64dbcb653fd93ee5543b,5,Riviera del Sol-Miraflores - Avenida de los Vientos
+450,1500000,3,Chalet ,https://www.indomio.es/anuncios/95876905/,Marbella,Venta,,https://media.indomio.es/text/tel_95876905_f120d.jpg?k=c8a03bc61dd28805313b569d8312ca95,3,Lomas de Marbella Club-Puente Romano - Calle Cecilia Bohl de Faber
+115,230000,3,Casa pareada ,https://www.indomio.es/anuncios/96047395/,Ronda,Venta,,https://media.indomio.es/text/tel_96047395_88691.jpg?k=1312887ba28de1836fa4a4cf76a6e512,4,Calle Domingo Zarazua Larrabe
+135,190000,2,Dúplex,https://www.indomio.es/anuncios/90988057/,Ronda,Venta,,https://media.indomio.es/text/tel_90988057_c11eb.jpg?k=dbbfb4d2cdb5acc13d4f6bf4a95372e2,3,Calle Virgen de los Dolores
+56,160000,1,Ático ,https://www.indomio.es/anuncios/96198695/,Manilva,Venta,,,1,Urbanización Princesa Kristina
+120,160000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/94515315/,Vélez-Málaga,Venta,,,5,La Villa - Calle Fortaleza
+95,155000,2,Piso ,https://www.indomio.es/anuncios/92464087/,Torremolinos,Venta,,,3,Calle Manuel de los Reyes Otero
+180,170000,1,Casa rústica ,https://www.indomio.es/anuncios/90660056/,Manilva,Venta,,,5,Calle Mar
+180,315000,3,Piso ,https://www.indomio.es/anuncios/94967115/,Torrox,Venta,,https://media.indomio.es/text/tel_94967115_5c7a3.jpg?k=fd2f648f58ec1a0d4f6bf1483fd8aefb,5,Calle Torrox
+73,42600,,Piso ,https://www.indomio.es/anuncios/91491305/,Balaguer,Venta,,,,Carrer Frederic Soler
+1200,850000,3,Edificio ,https://www.indomio.es/anuncios/93880555/,Guaro,Venta,,,5,Camino de Guaro
+1200,850000,3,Edificio ,https://www.indomio.es/anuncios/93375377/,Guaro,Venta,,,5,Camino de Guaro
+80,169000,1,Casa pareada ,https://www.indomio.es/anuncios/96214881/,Torrox,Venta,,,3,Calle Pez
+161,65000,2,Casa adosada ,https://www.indomio.es/anuncios/95577039/,Cuevas de San Marcos,Venta,,https://media.indomio.es/text/tel_95577039_d99bf.jpg?k=bfdab549a0fc92c19c3526c22fd89a8d,5,Calle Concepción
+387,450000,3,Casa rústica ,https://www.indomio.es/anuncios/91314351/,Solsona,Venta,,,5,Avinguda del Pont
+51,260000,1,Piso ,https://www.indomio.es/anuncios/94266335/,Málaga,Venta,,https://media.indomio.es/text/tel_94266335_ab110.jpg?k=f7ae77885d79f272125598153d6cee15,1,Centro Histórico-La Merced - Calle Hernán Ruiz
+2000,220000,2,Casa rústica ,https://www.indomio.es/anuncios/95264101/,La Torre de Cabdella,Venta,,,5,Carrer La Torre de Cabdella
+80,165000,2,Piso ,https://www.indomio.es/anuncios/90846621/,Torrox,Venta,,,3,Calle Cambil
+45,140000,1,Piso ,https://www.indomio.es/anuncios/95997595/,Vélez-Málaga,Venta,,https://media.indomio.es/text/tel_95997595_0d497.jpg?k=2b49e59fe1fa9dc7762f1d355b44866f,1,Calle La Gaviota
+400,1300000,3,Cortijo ,https://www.indomio.es/anuncios/91210703/,Estepona,Venta,,https://media.indomio.es/text/tel_91210703_92037.jpg?k=98adc7f96e07f9b78d2adbe7d201e035,5,Camino de la Alberdina
+92,100000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/83487207/,Cortes de La Frontera,Venta,,https://media.indomio.es/text/tel_83487207_167ee.jpg?k=7e0b0a3edee881e36124d078a8fae870,3,Calle Alcantarilla
+500,1890000,3,Chalet ,https://www.indomio.es/anuncios/81644591/,Marbella,Venta,,,5,Lomas de Marbella Club-Puente Romano - Calle Cerro Muriano
+290,875000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92871585/,Estepona,Venta,,https://media.indomio.es/text/tel_92871585_7ae5f.jpg?k=f4982b1c6d12a522e5ee0afc20b0a505,3,Casco Antiguo - Calle Guatemala
+135,120000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/91217419/,Colmenar,Venta,,,5,Calle Laurel
+165,239000,1,Casa rústica ,https://www.indomio.es/anuncios/92535663/,Cártama,Venta,,,4,A-7059
+66,50000,2,Piso ,https://www.indomio.es/anuncios/94524397/,Campillos,Venta,,https://media.indomio.es/text/tel_94524397_e8cc6.jpg?k=f854e291b29f2e85802645a89332e441,4,Calle Salgueros
+177,299000,2,Casa pareada ,https://www.indomio.es/anuncios/95288935/,Cártama,Venta,,https://media.indomio.es/text/tel_95288935_8a10b.jpg?k=e3bb8a3e393ba14383d826ccd2c9de97,3,Calle Francia
+125,325000,2,Piso,https://www.indomio.es/anuncios/96083539/,Manilva,Venta,,,4,Avenida Manilva
+131,335000,2,Piso ,https://www.indomio.es/anuncios/95904515/,Málaga,Venta,,https://media.indomio.es/text/tel_95904515_78402.jpg?k=8f65560db3e52111543171d3d26d56fd,4,Capuchinos-La Goleta-El Molinillo-Segalerva - Plaza Capuchinos
+30,99950,1,Piso ,https://www.indomio.es/anuncios/94284995/,Benalmádena,Venta,,https://media.indomio.es/text/tel_94284995_bc1ea.jpg?k=053446613b3950b3590b9b12574726cb,,Parque de la Paloma - Calle Piscis
+64,187000,1,Piso ,https://www.indomio.es/anuncios/94093451/,Benalmádena,Venta,,https://media.indomio.es/text/tel_94093451_ceab9.jpg?k=444c32b01a7747245bf320d7f21244fd,1,Torremuelle - Avenida Benalmádena
+83,272500,1,Piso ,https://www.indomio.es/anuncios/94292447/,Benalmádena,Venta,,,2,Parque de la Paloma - Avenida de la Paz
+140,295000,1,Piso ,https://www.indomio.es/anuncios/95159091/,Benalmádena,Venta,,https://media.indomio.es/text/tel_95159091_5ee88.jpg?k=62ec5bbd652838eecb0b95cb7b352e93,3,Torrequebrada - Calle Los Girasoles
+128,119500,,Casa adosada ,https://www.indomio.es/anuncios/94637779/,Archidona,Venta,,https://media.indomio.es/text/tel_94637779_f9182.jpg?k=ccd96a4f8853473c49816e41c01dff50,,Calle Castillo
+53,149000,1,Piso,https://www.indomio.es/anuncios/91302633/,Fuengirola,Venta,,,1,Calle Colina Blanca
+62,160000,1,Ático ,https://www.indomio.es/anuncios/96233061/,Estepona,Venta,,https://media.indomio.es/text/tel_96233061_4af54.jpg?k=388d47ac30c5a90184a83f247f5dcefb,1,Calle Sidney
+331,265000,3,Casa pareada ,https://www.indomio.es/anuncios/89864397/,Archidona,Venta,,,5,Calle Puentezuela
+76,140000,2,Apartamento en villa,https://www.indomio.es/anuncios/93975643/,Manilva,Venta,,,2,Calle Martagina
+200,468000,2,Casa rústica ,https://www.indomio.es/anuncios/82569399/,Antequera,Venta,,https://media.indomio.es/text/tel_82569399_f0730.jpg?k=af4ee3caf1b9554d2cd1523ae45db04f,5,Partido de Jeva
+170,210000,2,Casa adosada ,https://www.indomio.es/anuncios/95624117/,Antequera,Venta,,,3,Calle Merecillas
+117,275000,1,Piso ,https://www.indomio.es/anuncios/95583955/,Málaga,Venta,,https://media.indomio.es/text/tel_95583955_db37f.jpg?k=fab34ca9f5c485b4c042e8b3a755b5fd,5,Palma-La Virreina-La Rosaleda - Calle Poeta Agustín Ruano
+150,580000,2,Piso ,https://www.indomio.es/anuncios/93170337/,Málaga,Venta,,https://media.indomio.es/text/tel_93170337_05c38.jpg?k=5513a35a09d6dc2d7ae7cf8de22029fd,5,Centro Histórico-La Merced - Calle San Juan de Letrán
+124,354900,2,Piso ,https://www.indomio.es/anuncios/94743931/,Málaga,Venta,,https://media.indomio.es/text/tel_94743931_7d786.jpg?k=40176bf5ac8e5ea5e9bed3f17ad6c0de,3,El Ejido-Cristo de la Epidemia-Olletas-San Miguel - Calle Cristo de la Epidemia
+97,180000,1,Casa rústica,https://www.indomio.es/anuncios/96175949/,Antequera,Venta,,https://media.indomio.es/text/tel_96175949_564c8.jpg?k=eda3ec724dcdb5c6500c82770b043478,3,Calle Antequera
+112,395000,2,Chalet,https://www.indomio.es/anuncios/93700759/,Antequera,Venta,,,4,Calle Doctor Isidro Montoro
+210,300000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92519067/,Alfarnate,Venta,,https://media.indomio.es/text/tel_92519067_c14ac.jpg?k=dc5bba7ea643d399c973ebbdc7d8f782,4,Calle Blas Infante
+204,225000,3,Casa adosada ,https://www.indomio.es/anuncios/95805257/,Alhaurín El Grande,Venta,,,5,Calle Calderona
+210,429000,3,Casa pareada ,https://www.indomio.es/anuncios/94379285/,Alhaurín de la Torre,Venta,,https://media.indomio.es/text/tel_94379285_fdd74.jpg?k=f8d4f68e50139cdd733d61daa1cc3287,5,Calle Santa Catalina
+110,310000,1,Piso ,https://www.indomio.es/anuncios/94093543/,Fuengirola,Venta,,https://media.indomio.es/text/tel_94093543_d9cd3.jpg?k=f3dbdb4ae11057dd7ce6ce11b3339aa1,3,Calle San Pancracio
+101,200000,2,Piso ,https://www.indomio.es/anuncios/95223715/,Casares,Venta,,,2,Urbanización Doña Julia
+148,399500,2,Casa adosada ,https://www.indomio.es/anuncios/95551011/,Alhaurín de la Torre,Venta,,https://media.indomio.es/text/tel_95551011_4ecad.jpg?k=25c49ff45fbe121b10b4d6240d834550,4,Calle Joaquín Blume
+124,450000,2,Chalet,https://www.indomio.es/anuncios/94720867/,Alhaurín de la Torre,Venta,,https://media.indomio.es/text/tel_94720867_18f4f.jpg?k=9797791f1736e233b3b3ef1ee30f0a13,5,Calle Miguel Ángel
+124,159000,2,Dúplex ,https://www.indomio.es/anuncios/86952763/,Antequera,Venta,,,3,Dúplex
+70,128000,2,Chalet ,https://www.indomio.es/anuncios/93396733/,Villa del Prado,Venta,,https://media.indomio.es/text/tel_93396733_b7860.jpg?k=a809cd92bbd142b16e94c2bb068dd7a2,3,
+105,265000,1,Piso ,https://www.indomio.es/anuncios/93373917/,Marbella,Venta,,https://media.indomio.es/text/tel_93373917_219f8.jpg?k=22e23e7a94520cb7186487a7bc37bc18,3,San Pedro-Pueblo - Avenida de la Constitución
+330,750000,3,Casa pareada ,https://www.indomio.es/anuncios/95301529/,Tres Cantos,Venta,,https://media.indomio.es/text/tel_95301529_ab160.jpg?k=5e4bb270d6e603a402a425b9cb424e26,5,Calle de Neptuno
+263,369000,3,Casa adosada ,https://www.indomio.es/anuncios/96066649/,Valdemoro,Venta,,https://media.indomio.es/text/tel_96066649_467b1.jpg?k=108fbee76582c9cc19f534374572ee92,5,Calle Bolivia
+250,510000,2,Casa pareada ,https://www.indomio.es/anuncios/94207989/,Soto del Real,Venta,,https://media.indomio.es/text/tel_94207989_2b7a9.jpg?k=e177da68d77eff628999d4b31653d22a,4,Calle Nicaragua
+553,739000,3,Chalet,https://www.indomio.es/anuncios/94728499/,Alhaurín de la Torre,Venta,,,5,Calle La Torre
+160,135000,2,Chalet ,https://www.indomio.es/anuncios/91706901/,San Martín de Valdeiglesias,Venta,,,4,Calle San Martín
+95,199000,2,Piso ,https://www.indomio.es/anuncios/96164031/,San Agustín del Guadalix,Venta,,,2,Calle de las Cambroneras
+103,299000,1,Piso ,https://www.indomio.es/anuncios/94730123/,Málaga,Venta,,https://media.indomio.es/text/tel_94730123_89624.jpg?k=e2352ff3b16f5258f3bcb4e9f97b4168,4,El Ejido-Cristo de la Epidemia-Olletas-San Miguel - Calle Padre Mariana
+300,349000,3,Chalet ,https://www.indomio.es/anuncios/94992389/,Robledo de Chavela,Venta,,https://media.indomio.es/text/tel_94992389_95140.jpg?k=31c9c28a4c50818ae62c9618f29c2046,5,Calle Almenara
+380,420000,3,Casa rústica ,https://www.indomio.es/anuncios/94213943/,Robledo de Chavela,Venta,,https://media.indomio.es/text/tel_94213943_74e03.jpg?k=6dd2331886d27b3d16e7a1b53c2004d5,5,Casa rústica
+100,297000,2,Piso ,https://www.indomio.es/anuncios/96125573/,Málaga,Venta,,https://media.indomio.es/text/tel_96125573_1cef8.jpg?k=656adef2d6ed64260d55498cda8bdbba,4,Ciudad Jardín - Camino Vivero
+281,295000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/92710439/,Perales de Tajuña,Venta,,https://media.indomio.es/text/tel_92710439_4f027.jpg?k=a600881dd5591bf86aa0fa0ad6f59a07,4,Urbanización Valdeperales
+128,569000,1,Piso ,https://www.indomio.es/anuncios/95028217/,Málaga,Venta,,https://media.indomio.es/text/tel_95028217_d7801.jpg?k=a1b2dcf74e9a868c0e9bbf999ca400d3,4,Centro Histórico-La Merced - Calle San Telmo
+97,170000,2,Dúplex ,https://www.indomio.es/anuncios/93393227/,Meco,Venta,,https://media.indomio.es/text/tel_93393227_73e7a.jpg?k=0130658abb175a2cb56ed42a21b63776,3,Travesía Serení
+75,159000,1,Piso ,https://www.indomio.es/anuncios/95276843/,Parla,Venta,Jose G,https://media.indomio.es/text/tel_95276843_377e8.jpg?k=a5e21562612501ba1acc6843e0cd30fb,3,Calle Cristóbal Colón
+69,380000,1,Piso,https://www.indomio.es/anuncios/96154469/,Majadahonda,Venta,,https://media.indomio.es/text/tel_96154469_44e82.jpg?k=6d052312167107cf130b3d4ccd6d5185,2,Calle Moreno Torroba
+110,280000,1,Piso ,https://www.indomio.es/anuncios/94775645/,Málaga,Venta,,https://media.indomio.es/text/tel_94775645_166e5.jpg?k=1090b7c452f0ed821017dda9723b4f94,4,La Trinidad-Mármoles-Perchel Norte - Avenida de Barcelona
+88,207000,1,Piso ,https://www.indomio.es/anuncios/95518833/,Estepona,Venta,,https://media.indomio.es/text/tel_95518833_0ea3e.jpg?k=0e728e8ab360d2cd5854408a8786a2a6,4,Zona Avenida Andalucía - Avenida Mar y Sierra
+167,217000,2,Casa adosada ,https://www.indomio.es/anuncios/84877901/,Los Santos de La Humosa,Venta,,https://media.indomio.es/text/tel_84877901_ca529.jpg?k=c8faac4f652541823896519cbc8915cb,3,Avenida Madrid
+466,800000,,Casa unifamiliar ,https://www.indomio.es/anuncios/93001121/,Hoyo de Manzanares,Venta,,https://media.indomio.es/text/tel_93001121_99cd2.jpg?k=c8cea59aa94a47ee672c0093ccec1d5d,,Calle de las Lanchas
+230,410000,3,Chalet ,https://www.indomio.es/anuncios/95810205/,Fuente el Saz de Jarama,Venta,,https://media.indomio.es/text/tel_95810205_ce107.jpg?k=a6f67386e0bd7e0971fba1bef3ba2346,4,Avenida Yerbas Dulces
+425,120000,1,Casa rústica ,https://www.indomio.es/anuncios/96107305/,Fuentidueña de Tajo,Venta,,https://media.indomio.es/text/tel_96107305_b793f.jpg?k=76246e87579a219a029bd2a0199800e4,5,Casa rústica
+125,119000,2,Chalet ,https://www.indomio.es/anuncios/92171655/,Estremera,Venta,,https://media.indomio.es/text/tel_92171655_fa392.jpg?k=fa620fddc21b1229c936a0e7cccc9c77,5,Calle Cuatro Caminos
+322,850000,3,Chalet ,https://www.indomio.es/anuncios/95333069/,Las Rozas de Madrid,Venta,,https://media.indomio.es/text/tel_95333069_0f5ef.jpg?k=750bc31842da502e29a6258c33b33c1f,5,Calle Hermes
+252,540000,3,Chalet ,https://www.indomio.es/anuncios/95222339/,Galapagar,Venta,,,4,Calle Capilla
+161,396990,2,Piso ,https://www.indomio.es/anuncios/76806217/,Getafe,Venta,,,5,Avenida de Juan Carlos I
+270,439000,2,Casa unifamiliar ,https://www.indomio.es/anuncios/94930287/,El Álamo,Venta,,https://media.indomio.es/text/tel_94930287_cdf5d.jpg?k=ff91af916c4e43539c261ecdb2324a67,5,
+184,890000,2,Piso ,https://www.indomio.es/anuncios/95596565/,Málaga,Venta,,https://media.indomio.es/text/tel_95596565_fe31b.jpg?k=a489f1b35d9957da5380223e794f76a0,5,Centro Histórico-La Merced - Plaza Merced
+139,180000,2,Casa rústica ,https://www.indomio.es/anuncios/95122769/,El Molar (Madrid),Venta,,https://media.indomio.es/text/tel_95122769_0f927.jpg?k=5ec453e862390936d27f047dc1e82dcc,2,Camino Madrid-Burgos
+113,294000,2,Piso ,https://www.indomio.es/anuncios/76805691/,Fuenlabrada,Venta,,,3,Calle Humanes
+56,115000,1,Piso ,https://www.indomio.es/anuncios/93534361/,Coslada,Venta,,,2,Calle de Palestina
+97,190000,2,Piso ,https://www.indomio.es/anuncios/92365515/,Colmenar Viejo,Venta,,https://media.indomio.es/text/tel_92365515_6f49a.jpg?k=ccede3a06be6eb608c8a15f1c4c74f1c,4,Calle Hondorrio
+81,342000,2,Piso ,https://www.indomio.es/anuncios/95863237/,Málaga,Venta,,https://media.indomio.es/text/tel_95863237_3fd37.jpg?k=2338f589c6c7bae9f68c3ccc5862a59f,3,Huelin-La Princesa-Jardín de la Abadía - Calle Fernán Núñez
+73,159000,1,Chalet ,https://www.indomio.es/anuncios/95596391/,Carabaña,Venta,Nadia Vasiu,https://media.indomio.es/text/tel_95596391_dd96f.jpg?k=e948092b0c7feca981f073656712da32,4,Calle Moreras
+135,725000,2,Ático ,https://www.indomio.es/anuncios/96128513/,Madrid,Venta,,,3,Fuente del Berro - Calle de Sancho Dávila
+413,370000,3,Casa pareada ,https://www.indomio.es/anuncios/92463777/,Campo Real,Venta,,https://media.indomio.es/text/tel_92463777_46212.jpg?k=d5aa0278195bbd347bb7dc8b16540e89,5,Calle Vilches
+91,390000,1,Ático,https://www.indomio.es/anuncios/96201389/,Colmenar Viejo,Venta,,https://media.indomio.es/text/tel_96201389_d09ac.jpg?k=19893f92eeaa40846952e95abdf995ef,2,Calle de la Estación de Atocha
+57,93000,1,Dúplex ,https://www.indomio.es/anuncios/93587477/,Camarma de Esteruelas,Venta,,https://media.indomio.es/text/tel_93587477_34bc8.jpg?k=bc7e9e200154497cfb61ff490737906f,1,Calle Henares
+285,820000,3,Edificio ,https://www.indomio.es/anuncios/92246289/,Málaga,Venta,,https://media.indomio.es/text/tel_92246289_c0c21.jpg?k=46eedfd27cb37a81576652ae2adf0f10,5,Centro Histórico-La Merced - Calle Refino
+128,250000,3,Piso ,https://www.indomio.es/anuncios/95794439/,Collado Villalba,Venta,pisocovilla collado villaba,https://media.indomio.es/text/tel_95794439_b2086.jpg?k=3e226cab9c7e739a0d91d04944f52b1c,5,Calle Playa Samil
+115,330000,2,Piso ,https://www.indomio.es/anuncios/95875765/,Collado Villalba,Venta,,https://media.indomio.es/text/tel_95875765_a0881.jpg?k=0ef4e83df283462cefac08de067ad52f,3,Calle Río Navia
+99,174500,,Piso,https://www.indomio.es/anuncios/91599087/,Fuengirola,Venta,,,3,Calle Colombia
+51,135000,1,Piso ,https://www.indomio.es/anuncios/93419021/,Arganda del Rey,Venta,Oscar Megia,https://media.indomio.es/text/tel_93419021_468da.jpg?k=41a7f5b8d3938098ab9efa07d833e1cf,2,Plaza de la Constitución
+2700,655555,3,Chalet ,https://www.indomio.es/anuncios/95112821/,Becerril de la Sierra,Venta,,https://media.indomio.es/text/tel_95112821_3ae9c.jpg?k=9dbf2088d50ac8c89c841d8dc2f51a75,5,Paseo San Sebastián
+82,133000,1,Piso ,https://www.indomio.es/anuncios/96088257/,Aranjuez,Venta,,https://media.indomio.es/text/tel_96088257_d6874.jpg?k=1a3958c91ce4eb685cd756d9abcd92f5,4,Calle de Abastos
+154,218500,2,Piso ,https://www.indomio.es/anuncios/91854715/,Aranjuez,Venta,,https://media.indomio.es/text/tel_91854715_ad49e.jpg?k=4b8d497b0dc9f3e2188472f18fe6c49f,5,Calle de Abastos
+140,499000,2,Piso ,https://www.indomio.es/anuncios/95240423/,Málaga,Venta,,,4,El Cónsul-El Romeral-La Colonia Santa Inés - Calle Poetisa María Alfonsina Domínguez
+207,392500,2,Chalet ,https://www.indomio.es/anuncios/91994863/,Arganda del Rey,Venta,,https://media.indomio.es/text/tel_91994863_e81af.jpg?k=905a12853f3ece65cb0acfd321b6d020,5,Calle Santa Elia
+115,240000,2,Piso ,https://www.indomio.es/anuncios/92257443/,Aranjuez,Venta,,https://media.indomio.es/text/tel_92257443_f094f.jpg?k=196deb12ed475454293b0ff433bf2e71,5,Calle de la Naranja
+400,398000,3,Caserío ,https://www.indomio.es/anuncios/93729659/,Araitz,Venta,,https://media.indomio.es/text/tel_93729659_131f4.jpg?k=631aa2633c1613084418f1a748eb0649,5,Calle San Juan
+200,580000,2,Piso ,https://www.indomio.es/anuncios/94069687/,Boadilla del Monte,Venta,,https://media.indomio.es/text/tel_94069687_ef14d.jpg?k=140795caf65a6488c85f715847752ca8,3,Avenida Infante Don Luis
+115,355000,2,Piso ,https://www.indomio.es/anuncios/90890709/,Alcorcón,Venta,,https://media.indomio.es/text/tel_90890709_366db.jpg?k=654fe8f2983d695bb4e86860dca3ddd6,5,Calle Fuente Cisneros
+50,88000,2,Casa adosada ,https://www.indomio.es/anuncios/96053625/,Villanueva del Río Segura,Venta,,,2,Calle Granada
+90,160000,1,Piso ,https://www.indomio.es/anuncios/94162713/,Alcalá de Henares,Venta,,https://media.indomio.es/text/tel_94162713_76d8e.jpg?k=1f3a29b376cf72193cefa76164fec3e9,4,"Pryconsa, Juan de Austria - Calle Miguel de Moncada"
+75,112500,2,Dúplex ,https://www.indomio.es/anuncios/96128015/,San Pedro del Pinatar,Venta,,,3,Dúplex
+95,199000,2,Piso ,https://www.indomio.es/anuncios/92524463/,Madrid,Venta,,https://media.indomio.es/text/tel_92524463_c44fe.jpg?k=b6d9d2cc110b13498531bf807772155e,5,San Andrés - Calle de los Afluentes
+76,115900,1,Piso ,https://www.indomio.es/anuncios/95445767/,Alcalá de Henares,Venta,,https://media.indomio.es/text/tel_95445767_936e1.jpg?k=9f1f4a7f07318e11f74d33d160ab6e8c,3,"Puerta de Madrid, El Juncal - Calle Tielmes"
+105,245000,1,Piso ,https://www.indomio.es/anuncios/94246971/,Benalmádena,Venta,,https://media.indomio.es/text/tel_94246971_9f0c0.jpg?k=0ae7b8cdce4fc813e1e22e51d15f8462,3,Calle Orégano
+86,380000,1,Piso ,https://www.indomio.es/anuncios/94468903/,Málaga,Venta,,https://media.indomio.es/text/tel_94468903_8a7e1.jpg?k=b3255705ba27205790ea33c3ae5cb744,3,Capuchinos-La Goleta-El Molinillo-Segalerva - Calle Mariscal
+451,495000,3,Casa unifamiliar ,https://www.indomio.es/anuncios/95296007/,Moratalla,Venta,,https://media.indomio.es/text/tel_95296007_59f8e.jpg?k=960b26ca955fdb4231a41c2825dc2b98,5,Calle Cruz Humilladero
+700,80000,1,Casa unifamiliar ,https://www.indomio.es/anuncios/95275425/,Murcia,Venta,,https://media.indomio.es/text/tel_95275425_efe0d.jpg?k=07a97dbddaf7c7cb61e3e6879130ff1c,5,El Puntal - Carril Palmeral
+104,333000,1,Chalet,https://www.indomio.es/anuncios/94418541/,Málaga,Venta,,,4,Carranque - Calle Virgen Bien Aparecida
+101,140000,2,Dúplex,https://www.indomio.es/anuncios/92577777/,Mazarrón,Venta,,,5,Bahía - Calle Lomo de Bas
+75,580000,1,Piso,https://www.indomio.es/anuncios/96212669/,Madrid,Venta,,https://media.indomio.es/text/tel_96212669_eb105.jpg?k=1344de19f95d964b26db11884b69deea,1,Justicia-Chueca - Calle de Apodaca
+62,210000,1,Piso ,https://www.indomio.es/anuncios/96128615/,Fuengirola,Venta,,,2,Calle Uruguay
+91,60000,2,Piso ,https://www.indomio.es/anuncios/96209987/,Mazarrón,Venta,,https://media.indomio.es/text/tel_96209987_6bf9e.jpg?k=cef916e12947a1532808fae2c494ca8f,5,Puerto - Calle de San Juan
