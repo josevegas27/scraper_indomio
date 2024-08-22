@@ -95,8 +95,11 @@ class Scraper1PySpider(scrapy.Spider):
             # Se prosigue a conseguir el texto del campo donde se ubica el nombre del particular
             name_particular = response.xpath("//div[@class='nd-mediaObject__content']/p/text()").get() # nombre del particular
             sub_inmobiliaria = response.xpath("//div[@class='in-referent']").get()                     # campo de la inmobiliaria que esta debajo del campo correspondiente al anterior
-            
-            if sub_inmobiliaria == None:                                                               # Si no hay inmobiliaria, es porque es un vendedor particular
+            src_telf = response.xpath("//div[@class='nd-mediaObject__content']/p[2]/img/@src").get()   # campo del telefono (extrae la imagen que proporciona la pagina web)
+
+            # AQUI FILTRAMOS SI EL src_telf ESTA VISIBLE, DE LO CONTRARIO NO EXTRAE INFORMACION ()
+            if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
+            # if sub_inmobiliaria == None                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
                 vendedor = name_particular if name_particular != 'Particular' else None
 
                 # Con los siguientes campos
@@ -116,7 +119,7 @@ class Scraper1PySpider(scrapy.Spider):
                 tipolg = None
                 link = response.url
                 text_municipio = response.xpath("//span[@class='re-title__location']/text()").get()
-                src_telf = response.xpath("//div[@class='nd-mediaObject__content']/p[2]/img/@src").get()
+                
                 num_habitaciones = [0,0]
 
                 # Caracteriticas del inmueble en la pagina
@@ -207,6 +210,7 @@ class Scraper1PySpider(scrapy.Spider):
                             zona = text
                             break
 
+                
                 yield {
                     "meters": superficie,
                     "price": precio,
@@ -217,7 +221,7 @@ class Scraper1PySpider(scrapy.Spider):
                     "operation": contrato if contrato == "Venta" else "Alquiler",
                     "owner": vendedor,
                     "phone": src_telf,
-                    "rooms": num_habitaciones[0] if num_habitaciones[0] != 0 else None, #sum(num_habitaciones) if sum(num_habitaciones) != 0 else None,
+                    "rooms": num_habitaciones[0] if num_habitaciones[0] != 0 else None,
                     "zone": zona
                 }
 
