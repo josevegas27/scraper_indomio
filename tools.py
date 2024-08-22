@@ -32,7 +32,7 @@ def convertir_a_texto(csv1, csv2):
     '''
     num_peticiones = 0
 
-    archivo_csv = open(csv1,'r')
+    archivo_csv = open(csv1,'r', encoding='utf-8')
     archivo_final = open(csv2,'w')
 
     head = archivo_csv.readline()
@@ -47,10 +47,10 @@ def convertir_a_texto(csv1, csv2):
 
         if url != '':
             
-            print('conseguimos una url', i)
+            print('conseguimos una url', i, '-----', url)
             num_peticiones += 1
             if num_peticiones == 70:
-                time.sleep(20)
+                time.sleep(5)
                 num_peticiones = 0
 
             name = f'imagen{i}.jpg'
@@ -58,14 +58,18 @@ def convertir_a_texto(csv1, csv2):
 
                 img = Image.open(f'./imagenes_telefonos/imagen{i}.jpg')
                 texto = pytesseract.image_to_string(img)
+                print('---------------------- Imagen a texto es ', texto)
+                texto = texto.replace(',','')
             else:
                 texto = ' '
+                print('KKJJIHIKHNKH*YHIGIHKBJGHKBGHKBHK')
         else:
             print(' no conseguimos una url')
             texto = ' '
         
-
+        print('////////', campos)
         campos[8] = texto.strip()
+        print('////////', campos)
         linea = ','.join(campos)
 
         archivo_final.write(linea)
@@ -75,7 +79,7 @@ def convertir_a_texto(csv1, csv2):
     archivo_csv.close()
 
 
-img = Image.open(f'./imagenes_telefonos/imagen{0}.jpg')
-texto = pytesseract.image_to_string(img)
+# img = Image.open(f'./imagenes_telefonos/imagen{0}.jpg')
+# texto = pytesseract.image_to_string(img)
 
-print(texto)
+# print(texto)

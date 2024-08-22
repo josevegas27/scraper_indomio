@@ -2,3 +2,6 @@
 Tesseract-OCR/
 venv_indomio/
 Indomio/spiders/__pycache__/
+imagenes_telefonos/
+imagenes_telefonos/** */
+
