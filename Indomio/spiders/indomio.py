@@ -38,7 +38,6 @@ class Scraper1PySpider(scrapy.Spider):
             yield scrapy.Request(url_sub_categ, callback=self.categoria)
 
 
-
     def categoria(self, response):
 
         # Listar todos los enlaces de cada provincia a consultar
