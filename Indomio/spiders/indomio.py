@@ -18,7 +18,7 @@ class Scraper1PySpider(scrapy.Spider):
         if response.url == "https://www.indomio.es/alquiler-casas":
             href_categorias[0] = "https://www.indomio.es/alquiler-casas/#map-list"
 
-        for i, categ in enumerate(href_categorias[0:1]):
+        for i, categ in enumerate(href_categorias):
 
             if i == 0:
                 url_categ = response.urljoin(categ)
@@ -42,7 +42,7 @@ class Scraper1PySpider(scrapy.Spider):
 
         # Listar todos los enlaces de cada provincia a consultar
         href_provincias = response.xpath("//ul[@class='hp-listMeta hp-listMeta--columns']/li[@class='hp-listMeta__item']/a/@href").getall()
-        for href_prov in href_provincias[3:4]: 
+        for href_prov in href_provincias: 
             url_prov = response.urljoin(href_prov)
             yield scrapy.Request(url_prov, callback=self.provincia)
 
@@ -65,7 +65,7 @@ class Scraper1PySpider(scrapy.Spider):
             url_enlace = response.urljoin(enlace_todos)
             yield scrapy.Request(url_enlace, callback=self.municipio)
         else:
-            for href_mun in href_municipios[:]:
+            for href_mun in href_municipios:
                 url_mun = response.urljoin(href_mun)
                 yield scrapy.Request(url_mun, callback=self.municipio)
 
@@ -113,8 +113,8 @@ class Scraper1PySpider(scrapy.Spider):
             src_telf = response.xpath("//div[@class='nd-mediaObject__content']/p[2]/img/@src").get()   # campo del telefono (extrae la imagen que proporciona la pagina web)
 
             # AQUI FILTRAMOS SI EL src_telf ESTA VISIBLE, DE LO CONTRARIO NO EXTRAE INFORMACION ()
-            # if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
-            if sub_inmobiliaria == None:                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
+            if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
+            # if sub_inmobiliaria == None:                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
                 vendedor = name_particular if name_particular != 'Particular' else None
 
                 # Con los siguientes campos
@@ -134,8 +134,6 @@ class Scraper1PySpider(scrapy.Spider):
                 tipolg = None
                 link = response.url
                 text_municipio = response.xpath("//span[@class='re-title__location']/text()").get()
-                print("¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿==", text_municipio)
-                
                 num_habitaciones = [0,0]
 
                 # Caracteriticas del inmueble en la pagina
@@ -151,10 +149,8 @@ class Scraper1PySpider(scrapy.Spider):
                         
                     elif name == 'contrato' or name == "Contrato":
                         contrato = value.xpath("./text()").get()
-                        print('[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]', contrato)
                         contrato = contrato.split('|')[0] 
                         contrato = contrato.strip() 
-                        print('[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]', contrato)
 
                     elif name == 'habitaciones' or name == "Habitaciones":
                         text_habs = value.xpath("./text()").get()
@@ -169,7 +165,6 @@ class Scraper1PySpider(scrapy.Spider):
                                 break
                         
                         num_habitaciones = [re.findall(r'[0-9]{0,2}', hab)[0] for hab in habitaciones]
-                        print('////////////////////////////', num_habitaciones)
                         # for i,hab in enumerate(num_habitaciones):
                             # if re.findall(r'[^\d]\w*[^+]', hab) != []:
                                 # num_habitaciones[i] = 1
