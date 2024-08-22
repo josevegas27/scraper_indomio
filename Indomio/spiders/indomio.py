@@ -114,8 +114,8 @@ class Scraper1PySpider(scrapy.Spider):
             src_telf = response.xpath("//div[@class='nd-mediaObject__content']/p[2]/img/@src").get()   # campo del telefono (extrae la imagen que proporciona la pagina web)
 
             # AQUI FILTRAMOS SI EL src_telf ESTA VISIBLE, DE LO CONTRARIO NO EXTRAE INFORMACION ()
-            if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
-            # if sub_inmobiliaria == None:                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
+            # if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
+            if sub_inmobiliaria == None:                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
                 vendedor = name_particular if name_particular != 'Particular' else None
 
                 # Con los siguientes campos
