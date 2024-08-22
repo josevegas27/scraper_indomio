@@ -18,16 +18,32 @@ class Scraper1PySpider(scrapy.Spider):
         if response.url == "https://www.indomio.es/alquiler-casas":
             href_categorias[0] = "https://www.indomio.es/alquiler-casas/#map-list"
 
-        for categ in href_categorias[0:1]:
-            url_categ = response.urljoin(categ)
-            yield scrapy.Request(url_categ, callback=self.categoria)
+        for i, categ in enumerate(href_categorias[0:1]):
+
+            if i == 0:
+                url_categ = response.urljoin(categ)
+                yield scrapy.Request(url_categ, callback=self.sub_categoria)
+            else:
+                url_categ = response.urljoin(categ)
+                yield scrapy.Request(url_categ, callback=self.categoria)
+
+
+    def sub_categoria(self, response):
+
+        # Listar enlaces a subcategorias de la venta y alquiler de viviendas
+        href_sub_categorias = response.xpath("//ul[@class='nd-tabBar nd-tabBar--compact hp-seoMap__tabBar']/li/a/@href").getall()[10:15]   
+
+        for sub_categ in href_sub_categorias:
+            url_sub_categ = response.urljoin(sub_categ)
+            yield scrapy.Request(url_sub_categ, callback=self.categoria)
+
 
 
     def categoria(self, response):
 
         # Listar todos los enlaces de cada provincia a consultar
         href_provincias = response.xpath("//ul[@class='hp-listMeta hp-listMeta--columns']/li[@class='hp-listMeta__item']/a/@href").getall()
-        for href_prov in href_provincias[:]: 
+        for href_prov in href_provincias[3:4]: 
             url_prov = response.urljoin(href_prov)
             yield scrapy.Request(url_prov, callback=self.provincia)
 
@@ -99,7 +115,7 @@ class Scraper1PySpider(scrapy.Spider):
 
             # AQUI FILTRAMOS SI EL src_telf ESTA VISIBLE, DE LO CONTRARIO NO EXTRAE INFORMACION ()
             if sub_inmobiliaria == None and src_telf !=None:                                           # Si no hay inmobiliaria, es porque es un vendedor particular 
-            # if sub_inmobiliaria == None                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
+            # if sub_inmobiliaria == None:                                                              # DESCOMENTAR LINEA ACTUAL Y COMENTAR LA SUPERIOR PARA QUITAR EL FILTRO DEL TELEFONO
                 vendedor = name_particular if name_particular != 'Particular' else None
 
                 # Con los siguientes campos
@@ -119,6 +135,7 @@ class Scraper1PySpider(scrapy.Spider):
                 tipolg = None
                 link = response.url
                 text_municipio = response.xpath("//span[@class='re-title__location']/text()").get()
+                print("¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿==", text_municipio)
                 
                 num_habitaciones = [0,0]
 
