@@ -132,7 +132,10 @@ class Scraper1PySpider(scrapy.Spider):
                         
                     elif name == 'contrato' or name == "Contrato":
                         contrato = value.xpath("./text()").get()
-                        contrato = contrato.split('|')[0]  
+                        print('[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]', contrato)
+                        contrato = contrato.split('|')[0] 
+                        contrato = contrato.strip() 
+                        print('[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]', contrato)
 
                     elif name == 'habitaciones' or name == "Habitaciones":
                         text_habs = value.xpath("./text()").get()
